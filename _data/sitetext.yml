@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Friquifund
-    text: Helping geeks grow
+    title: Helping geeks grow
+    text: FriquiFund
     button: FriquiWhat?
     buttonlink: "#services"
 
