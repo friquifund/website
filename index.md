@@ -3,7 +3,11 @@
 
 **Today we are more than 100 members and we have donated over 20,000€ to NGOs supporting young tech students in need in Barcelona.**
 
+## Our mission: We support young underprivileged geeks in developing their careers.
 
+Geeks (Friqui in Spanish) here is understood in a very narrow sense as: “people interested in pursuing careers in STEM”. FriquiFund members are all professionals related to the STEM world, willing to donate time and money to out mission.
+
+Our Approach: We support NGOs which support young underprivileged geeks: with cash donations, networking (internships, scholarships, teachers, jobs), mentoring and any other way we may think of.
 
 
 ## FriquiFund original announcement, June 2019
@@ -16,11 +20,3 @@ We live bitter-sweet times. On the one hand old fart computer geeks like us enjo
 FrikiFund wants to help address this issue. We want to contribute towards the education costs of technical students in need and, beyond this, help them with our time, experience and network, help motivate them through their studies and help them land good jobs and grow into forces of change. We want to start locally, in Barcelona where we can help the most.
 
 We don’t need to look far: there are families walking distance from 22@ who struggle to survive, children who don’t even dream of going to University, no matter what their skills. Young adults who rely on ancient laptops to do their homework, and for whom battery failure means flunking a course. The Fundació IRES works with such youngsters, under the Click program, with an office at the heart of 22@, helping them transition out of high school and into the workforce. Click relies on donations by the public institutions, companies, and individuals like us, to provide “scholarships” (flat 1500€ fee per student per year to help cover the costs). We think we can work with Click in three ways: provide scholarships, help mentor students, and help them land internships and first jobs.
-
-
-
-## Our mission: We support young underprivileged geeks in developing their careers.
-
-Geeks (Friqui in Spanish) here is understood in a very narrow sense as: “people interested in pursuing careers in STEM”. FriquiFund members are all professionals related to the STEM world, willing to donate time and money to out mission.
-
-Our Approach: We support NGOs which support young underprivileged geeks: with cash donations, networking (internships, scholarships, teachers, jobs), mentoring and any other way we may think of.
