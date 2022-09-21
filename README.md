@@ -6,7 +6,7 @@ friquifund site
 Theme: https://jekyll-themes.com/agency-jekyll-theme/ (repo: https://github.com/raviriley/agency-jekyll-theme)
 
 
-#files we should copy from the repo to make changes: (they're othwerwise hidden/not visible)
+### files we should copy from the repo to make changes: (they're othwerwise hidden/not visible)
 
 The Jekyll structure of this theme includes:
 
