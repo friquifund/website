@@ -2,7 +2,7 @@ remote_theme: raviriley/agency-jekyll-theme
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: FriquiFund
-email: info@friquifund.org
+#TODO: email: info@friquifund.org
 description: Helping geeks grow
 #TODO url : "https://alsak0de.github.io/ff" 
 baseurl: "/"
