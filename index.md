@@ -3,11 +3,16 @@
 
 **Today we are more than 100 members and we have donated over 20,000€ to NGOs supporting young tech students in need in Barcelona.**
 
+
+
+
 ## Our mission: We support young underprivileged geeks in developing their careers.
 
 Geeks (Friqui in Spanish) here is understood in a very narrow sense as: “people interested in pursuing careers in STEM”. FriquiFund members are all professionals related to the STEM world, willing to donate time and money to out mission.
 
 Our Approach: We support NGOs which support young underprivileged geeks: with cash donations, networking (internships, scholarships, teachers, jobs), mentoring and any other way we may think of.
+
+
 
 
 ## FriquiFund original announcement, June 2019
