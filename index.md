@@ -1,3 +1,6 @@
+---
+title: FriquiFund
+---
 
 **On June 2019 we launched FriquiFund Barcelona with the mission of supporting budding geeks in developing their careers.**
 
