@@ -1,5 +1,5 @@
 ---
-title: FriquiFund yeah
+title: FriquiFund
 ---
 
 
