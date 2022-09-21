@@ -1,6 +1,33 @@
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: raviriley/agency-jekyll-theme
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: FriquiFund
+email: info@friquifund.org
 description: Helping geeks grow
+url : "https://alsak0de.github.io/ff"
+baseurl: "/"
 show_downloads: false
+author: FriquiFund
+
+
+# logo:     #optional, defaults to site title
+  # path: assets\img\clients\creative-market.jpg
+  # height: 60 #height in px, defaults to 52px
+
+locale: "en-US" # See available languages in _data/sitetext.yml
+
+analytics:
+  google: #Google Analytics tracking code here
+
+collections:
+  portfolio:
+
+markdown: kramdown
+
+# Uncomment following line to use Formspree form ID based URL instead of email based URL
+# Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
+# formspree_form_path: "f/a_form_id"
+
+plugins:
+  - jekyll-remote-theme
+
