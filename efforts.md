@@ -1,3 +1,7 @@
+---
+title: FriquiFund yeah
+---
+
 
 # Efforts
 
