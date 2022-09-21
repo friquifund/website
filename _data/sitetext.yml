@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Friquifund
+    text: Helping geeks grow
+    button: FriquiWhat?
     buttonlink: "#services"
 
   services:
