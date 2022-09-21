@@ -4,7 +4,7 @@ plugins:
 title: FriquiFund
 email: info@friquifund.org
 description: Helping geeks grow
-url : "https://alsak0de.github.io/ff"
+#TODO url : "https://alsak0de.github.io/ff" 
 baseurl: "/"
 show_downloads: false
 author: FriquiFund
