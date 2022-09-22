@@ -11,7 +11,7 @@ author: FriquiFund
 
 
 logo:
-  path: img/FriquiFund_transparent_font58_res72dp_whitei.png
+  path: img/FriquiFund_transparent_font58_res72dp_white_wide.png
   height: 80 
 
 locale: "en-US" # See available languages in _data/sitetext.yml
