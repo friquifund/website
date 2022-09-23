@@ -13,18 +13,11 @@ en: &DEFAULT_EN
   nav:
     - title: "Mission"
       section: mission
-    - title: "Approach"
+    - title: "Announcement"
       section: approach
-    - title: "About"
-      section: about
-    - title: "Timeline"
-      section: timeline
-    - title: "Team"
-      section: team
-    - title: "Contact"
-      section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    - title: "Efforts"
+      url: /efforts.html
+
 en-US:
   <<: *DEFAULT_EN
 en-CA:
