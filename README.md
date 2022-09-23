@@ -2,6 +2,7 @@
 Friquifund.org site
 
 TODO: 
+  * explain friqui in friquiwhat
   * clean _data/sitetext.yaml and others: remove unused
   * remove markdown from mission
   * change project name to friquifund_homepage
