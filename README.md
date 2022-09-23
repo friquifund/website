@@ -1,6 +1,11 @@
 # ffund
-friquifund site
+Friquifund.org site
 
+TODO: 
+  * clean _data/sitetext.yaml and others: remove unused
+  * remove markdown from mission
+  * change project name to friquifund_homepage
+  * clean up text below:
 
 
 Theme: https://jekyll-themes.com/agency-jekyll-theme/ (repo: https://github.com/raviriley/agency-jekyll-theme)
