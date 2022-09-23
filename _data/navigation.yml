@@ -13,8 +13,6 @@ en: &DEFAULT_EN
   nav:
     - title: "Mission"
       section: mission
-    - title: "Announcement"
-      section: announcement
     - title: "Efforts"
       url: /efforts.html
     - title: "Members"
