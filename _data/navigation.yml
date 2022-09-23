@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     - title: "Mission"
       section: mission
     - title: "Announcement"
-      section: approach
+      section: announcement
     - title: "Efforts"
       url: /efforts.html
 
