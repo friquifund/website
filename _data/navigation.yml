@@ -18,7 +18,9 @@ en: &DEFAULT_EN
     - title: "Efforts"
       url: /efforts.html
     - title: "Members"
-      url: https://friquifund.wordpress.com/friquifund-members/
+      url: https://friquifund.wordpress.com/friquifund-members/      
+    - title: "Internal"  
+      url: https://friquifund.wordpress.com/internal-friquifund-pages/
 
 en-US:
   <<: *DEFAULT_EN
