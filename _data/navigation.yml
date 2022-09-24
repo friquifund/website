@@ -13,10 +13,10 @@ en: &DEFAULT_EN
   nav:
     - title: "Mission"
       section: mission
-    - title: "Efforts"
-      url: /efforts.html
     - title: "Team"
       url: /team.html
+    - title: "Efforts"
+      url: /efforts.html
     - title: "Members"
       url: https://friquifund.wordpress.com/friquifund-members/      
     - title: "Internal"  
