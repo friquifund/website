@@ -8,7 +8,7 @@ title: FriquiFund
 
 ## NGOs we are collaborating with:
 
-**AEIRaval:** Associació Educativa Integral del Raval: Treballem amb els col·lectius més vulnerables, amb més dificultats per a la inclusió social en una societat que presenta desigualtats d’oportunitats i on, sovint, la vulnerabilitat s’hereta de generació en generació.
+**[AEIRaval](https://www.aeiraval.org/):** Associació Educativa Integral del Raval: Treballem amb els col·lectius més vulnerables, amb més dificultats per a la inclusió social en una societat que presenta desigualtats d’oportunitats i on, sovint, la vulnerabilitat s’hereta de generació en generació.
 
 **IRES:** Som una fundació compromesa amb les famílies en situació de vulnerabilitat, que ofereix acompanyament en l’àmbit social, psicològic i educatiu.
 
