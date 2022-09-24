@@ -20,7 +20,7 @@ title: FriquiFund
 
 **Barcelona digital talent:** We aim to fight the digital talent gap in order to promote market competitiveness. We want to position Barcelona as a talent capital and, to achieve this, we are committed to training in digital skills and attracting new digital talent to the city.
 
-**Data for Good Barcelona:** We bring the expertise of data professionals to the service of NGOs to achieve positive social impact.Related:
+**Data for Good Barcelona:** We bring the expertise of data professionals to the service of NGOs to achieve positive social impact.
 
 **EXIT:** The mission of Fundación Exit is to reduce the school dropout rates of at-risk youth by implementing scalable and innovative training projects that offer an itinerary and add value to companies while promoting networking and job placement.
 
