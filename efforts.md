@@ -28,7 +28,7 @@ title: FriquiFund
 
 **[FemCAT](https://www.femcat.cat/):** FemCAT aims to help Catalonia take a step forward and become a leading nation, socially and economically, in Europe and the world.
 
-**[4Social](https://www.m4social.org/ca) Per accelerar la transformació digital de l’atenció a les persones, contribuint a l’empoderament de la ciutadania i de les entitats socials.
+**[4Social](https://www.m4social.org/ca):** Per accelerar la transformació digital de l’atenció a les persones, contribuint a l’empoderament de la ciutadania i de les entitats socials.
 
 **[Prometeus](https://afev.cat/projectes/prometeus/):** Prometeus és un programa comunitari que vetlla perquè els i les joves dels instituts públics dels barris més vulnerables de la ciutat de Barcelona puguin accedir a la universitat i cursar estudis superiors amb èxit.
 
