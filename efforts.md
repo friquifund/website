@@ -10,11 +10,11 @@ title: FriquiFund
 
 **[AEIRaval](https://www.aeiraval.org/):** Associació Educativa Integral del Raval: Treballem amb els col·lectius més vulnerables, amb més dificultats per a la inclusió social en una societat que presenta desigualtats d’oportunitats i on, sovint, la vulnerabilitat s’hereta de generació en generació.
 
-**IRES:** Som una fundació compromesa amb les famílies en situació de vulnerabilitat, que ofereix acompanyament en l’àmbit social, psicològic i educatiu.
+**[Click @ IRES](https://www.fundacioires.org/ca/que-fem/ecosistema-de-projectes/projecte-click/):** Som una fundació compromesa amb les famílies en situació de vulnerabilitat, que ofereix acompanyament en l’àmbit social, psicològic i educatiu.
 
-**MigraCode:** Code academy for refugees and migrants.
+**[MigraCode](https://migracode.openculturalcenter.org/):** Code academy for refugees and migrants.
 
-**Scientia:**  Desarrollo de competencias digitales a gran escala, accesible para todos, con un impacto medible,  y mucho más sostenible 😉
+**[Scientia](https://www.scientia.es/fundacion-scientia):**  Desarrollo de competencias digitales a gran escala, accesible para todos, con un impacto medible,  y mucho más sostenible 😉
 
 ## Other NGOs and efforts we know about:
 
