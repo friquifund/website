@@ -21,8 +21,7 @@ en: &DEFAULT_EN
       url: https://friquifund.wordpress.com/friquifund-members/      
     - title: "Internal"  
       url: https://friquifund.wordpress.com/internal-friquifund-pages/
-    - title: "Contact"  
-      section: contact
+
 
 en-US:
   <<: *DEFAULT_EN
