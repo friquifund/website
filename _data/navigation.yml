@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     - title: "Mission"
       section: mission
     - title: "Team"
-      url: /team.html
+      section: team
     - title: "Efforts"
       url: /efforts.html
     - title: "Members"
