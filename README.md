@@ -1,6 +1,12 @@
 # ffund
 Friquifund.org site
 
+# CONTENT:
+
+Main page starts from `/_layouts/home.html` which includes a bunch of htmls
+
+
+
 TODO: 
   * explain friqui in friquiwhat
   * clean _data/sitetext.yaml and others: remove unused
