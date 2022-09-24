@@ -20,8 +20,8 @@ en: &DEFAULT_EN
     - title: "Internal"  
       url: https://friquifund.wordpress.com/internal-friquifund-pages/
 
-#en-US:
-#  <<: *DEFAULT_EN
+en-US:
+  <<: *DEFAULT_EN
 #en-CA:
 #  <<: *DEFAULT_EN
 #en-GB:
