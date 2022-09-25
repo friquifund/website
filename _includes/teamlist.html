@@ -20,7 +20,7 @@
 <!--			<i class="fab fa-linkedin-in"></i> -->
 			<h4>{{ person.name }}</h4> 
 		  </a>
-		  <p class="text-muted"><em>{{ person.title }}</em></p>  
+		  <p class="text-muted" ><em>{{ person.title }}</em></p>  
 		<p class="text-muted">{{ person.city}}</p>  
 	</div>
 	{% endif %}
@@ -32,15 +32,20 @@
 
 <div class="layout_members">	
   {% for person in site.data.team %}
-	{% if person.leadership == false %}
+	{% if person.leadership %}{% else %}HOLA{% endif  %}
+	
+	
+	{% if !person.leadership %}
 	  <div class="team-member ff-team-member">
 		<a href="{{ person.linkedin }}">
 			<img class="mx-auto rounded-circle" src="/pics/{{ person.picfile }}.jpeg" alt="">
 <!--			<i class="fab fa-linkedin-in"></i> -->
 			<h4>{{ person.name }}</h4> 
 		  </a>
-		  <p class="text-muted"><em>{{ person.title }}</em></p>  
-		<p class="text-muted">{{ person.city}}</p>  
+		 <p class="text-muted" style="border:5px solid"><em>{{ person.title }}</em></p>  
+		<p class="text-muted" style="border:5px solid">{{ person.city}}</p>  
+		 <p><em>{{ person.title }}</em></p>  
+		<p>{{ person.city}}</p>  
 	</div>
 	{% endif  %}
   {% endfor %}
