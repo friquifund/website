@@ -13,7 +13,7 @@
 <div class="layout_members">	
 
  {% for person in site.data.team %}
-	{% if person.leadership }
+	{% if person.leadership %}
 	<div class="team-member ff-team-member">
 		<a href="{{ person.linkedin }}">
 			<img class="mx-auto rounded-circle" src="/pics/{{ person.picfile }}.jpeg" alt="">
@@ -23,7 +23,7 @@
 		  <p class="text-muted"><em>{{ person.title }}</em></p>  
 		<p class="text-muted">{{ person.city}}</p>  
 	</div>
-	{% endif }
+	{% endif %}
   {% endfor %}
 </div>
 	
