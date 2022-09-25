@@ -1,3 +1,4 @@
+<!--	
 <div class="container">
   <div class="row">
 	<div class="col-lg-12 text-center">
@@ -5,6 +6,28 @@
 	  <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].team.text }}</h3>
 	</div>
   </div>
+-->
+
+<h2 class="section-heading text-uppercase">Leadership Team</h2>
+
+<div class="layout_members">	
+
+ {% for person in site.data.team %}
+	{% if person.leadership }
+	<div class="team-member ff-team-member">
+		<a href="{{ person.linkedin }}">
+			<img class="mx-auto rounded-circle" src="/pics/{{ person.picfile }}.jpeg" alt="">
+<!--			<i class="fab fa-linkedin-in"></i> -->
+			<h4>{{ person.name }}</h4> 
+		  </a>
+		  <p class="text-muted"><em>{{ person.title }}</em></p>  
+		<p class="text-muted">{{ person.city}}</p>  
+	</div>
+	{% endif }
+  {% endfor %}
+</div>
+	
+<h2 class="section-heading text-uppercase">Members</h2>
 
 <div class="layout_members">	
   {% for person in site.data.team %}
@@ -19,6 +42,8 @@
 	</div>
   {% endfor %}
 
+	
+<!--
 </div>
 	
 	<div class="row">
@@ -27,3 +52,4 @@
 	</div>
   </div>
 </div>
+-->
