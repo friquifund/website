@@ -5,7 +5,8 @@
     "linkedin": "https://www.linkedin.com/in/hugozaragoza/",
     "city": "Barcelona",
     "picture": "https://friquifund.files.wordpress.com/2022/01/1517663884742.jpeg",
-    "picfile": "Hugo-Zaragoza"
+    "picfile": "Hugo-Zaragoza",
+    "leadership" : true
   },
   {
     "name": "Nathalie Vento",
@@ -13,7 +14,8 @@
     "linkedin": "https://www.linkedin.com/in/nathalie-vento-16088847/",
     "city": "Barcelona",
     "picture": "https://friquifund.files.wordpress.com/2022/01/1568576274601.jpeg",
-    "picfile": "Nathalie-Vento"
+    "picfile": "Nathalie-Vento",
+    "leadership" : true
   },
   {
     "name": "Roi Blanco",
@@ -109,7 +111,8 @@
     "linkedin": "https://www.linkedin.com/in/pauagullo/",
     "city": "Barcelona",
     "picture": "https://friquifund.files.wordpress.com/2021/01/pau-agullocc81-3.jpeg",
-    "picfile": "Pau-Agulló"
+    "picfile": "Pau-Agulló",
+    "leadership" : true
   },
   {
     "name": "Marc Castells i Olivella",
@@ -157,7 +160,8 @@
     "linkedin": "http://linkedin.com/in/oleguer-sagarra-64588a40",
     "city": "Barcelona",
     "picture": "https://friquifund.files.wordpress.com/2021/01/oleguer-sagarra.jpeg",
-    "picfile": "Oleguer-Sagarra"
+    "picfile": "Oleguer-Sagarra",
+    "leadership" : true
   },
   {
     "name": "Diego Villuendas Pellicero",
@@ -173,7 +177,8 @@
     "linkedin": "https://www.linkedin.com/in/xamatriain/",
     "city": "California",
     "picture": "https://friquifund.files.wordpress.com/2021/02/xavier-amatriain.jpeg",
-    "picfile": "Xavier-Amatriain"
+    "picfile": "Xavier-Amatriain",
+    "leadership" : true
   },
   {
     "name": "Cristina Bellido",
@@ -405,7 +410,8 @@
     "linkedin": "https://www.linkedin.com/in/david-bofill-pages/",
     "city": "Barcelona",
     "picture": "https://friquifund.files.wordpress.com/2022/01/1600018602987.jpeg",
-    "picfile": "David-Bofill-Pagès"
+    "picfile": "David-Bofill-Pagès",
+    "leadership" : true
   },
   {
     "name": "Roberto Sanchis Ojeda",
