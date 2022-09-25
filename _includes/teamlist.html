@@ -8,10 +8,11 @@
 
 <div class="layout_members">	
   {% for person in site.data.team %}
-	  <div class="team-member">
+	  <div>
 		<a href="{{ person.linkedin }}">
-		<img class="mx-auto rounded-circle" src="/pics/{{ person.picfile }}.jpeg" alt="">
-		 <i class="fab fa-linkedin-in"></i> <h4>{{ person.name }}</h4> </a>
+			<img class="mx-auto rounded-circle" src="/pics/{{ person.picfile }}.jpeg" alt="">
+			<i class="fab fa-linkedin-in"></i> <h4>{{ person.name }}</h4> 
+		  </a>
 		<p class="text-muted">{{ person.title }}</p>    		
 	</div>
   {% endfor %}
