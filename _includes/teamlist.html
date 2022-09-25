@@ -11,9 +11,11 @@
 	  <div class="team-member ff-team-member">
 		<a href="{{ person.linkedin }}">
 			<img class="mx-auto rounded-circle" src="/pics/{{ person.picfile }}.jpeg" alt="">
-			<i class="fab fa-linkedin-in"></i> <h4>{{ person.name }}</h4> 
+<!--			<i class="fab fa-linkedin-in"></i> -->
+			<h4>{{ person.name }}</h4> 
 		  </a>
-		<p class="text-muted">{{ person.title }}</p>    		
+		  <p class="text-muted"><em>{{ person.title }}</em></p>  
+		<p class="text-muted">{{ person.city}}</p>  
 	</div>
   {% endfor %}
 
