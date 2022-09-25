@@ -9,8 +9,9 @@
   {% for person in site.data.team %}
 	<div class="col-sm-4">
 	  <div class="team-member">
+		<a href="{{ person.linkedin }}" 
 		<img class="mx-auto rounded-circle" src="/pics/{{ person.picfile }}.jpeg" alt="">
-		<a href="{{ person.linkedin }}"> <i class="fab fa-linkedin-in"></i> <h4>{{ person.name }}</h4> </a>
+		 <i class="fab fa-linkedin-in"></i> <h4>{{ person.name }}</h4> </a>
 		<p class="text-muted">{{ person.title }}</p>
     		
 	  </div>
