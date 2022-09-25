@@ -23,14 +23,14 @@
 		  <p class="text-muted"><em>{{ person.title }}</em></p>  
 		<p class="text-muted">{{ person.city}}</p>  
 	</div>
-	{% endif %}
-  {% endfor %}
+	{% if person.leadership %}  {% endfor %}
 </div>
 	
 <h2 class="section-heading text-uppercase">Members</h2>
 
 <div class="layout_members">	
   {% for person in site.data.team %}
+	{% if person.leadership == false %}
 	  <div class="team-member ff-team-member">
 		<a href="{{ person.linkedin }}">
 			<img class="mx-auto rounded-circle" src="/pics/{{ person.picfile }}.jpeg" alt="">
@@ -40,6 +40,7 @@
 		  <p class="text-muted"><em>{{ person.title }}</em></p>  
 		<p class="text-muted">{{ person.city}}</p>  
 	</div>
+	{% if person.leadership %}
   {% endfor %}
 
 	
