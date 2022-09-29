@@ -7,7 +7,7 @@ Main page starts from `_layouts/home.html` which includes a bunch of htmls, whic
 
 Top right menu defined in `_data/navigation.yml`
 
-Team member content is in `_data/team.csv` (this is a direct CSV export of FriquiFundDB)
+Team member content is in `_data/team.csv` (this file is a (manual) CSV export of FriquiFundDB)
 
 
 ## OTHER
