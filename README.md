@@ -1,7 +1,6 @@
 # Friquifund.org site
 
 ## TODO:
-Memebers page: if linkedin not defined, do not link and picture is grey head
 Memebers page: if no picture defined, use firstname-secondname by default
 
 
