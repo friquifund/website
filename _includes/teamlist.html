@@ -15,6 +15,7 @@
 <div class="layout_members">
 	
   {% for person in site.data.team %}
+    {% if person.leadership == 1 %}
 
 	<div class="team-member ff-team-member">
 
@@ -27,7 +28,7 @@
 		<p class="text-muted ff-team-member-p" ><em>{{ person.Title }}</em></p>  
 		<p class="text-muted ff-team-member-p ">{{ person.City}}</p>  
 	</div>
-
+    {% endif %}
   {% endfor %}
 
 </div>
