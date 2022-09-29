@@ -1,8 +1,5 @@
 # Friquifund.org site
 
-## TODO:
-Memebers page: if no picture defined, use firstname-secondname by default
-
 
 ## CONTENT:
 
