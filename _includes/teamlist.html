@@ -9,57 +9,28 @@
 -->
 
 
+
 <h2 class="section-heading text-uppercase" style="margin-top: 80px">Leadership Team</h2>
 
 <div class="layout_members">
 	
- {% for person in site.data.team %}
-	{% if person.leadership == 1 %}
+  {% for person in site.data.team %}
+
 	<div class="team-member ff-team-member">
-		{% if person.LinkedIn %}
+
 		  <a href="{{ person.LinkedIn }}">
 			<img class="mx-auto rounded-circle" src="/pics/{{ person.picfile }}.jpeg" alt="">
 <!--			<i class="fab fa-linkedin-in"></i> -->
 			<h4>{{ person.Name }}</h4> 
 		  </a>
-		{% else %}
-		  <a>
-			<img class="mx-auto rounded-circle" src="/pics/noface.jpeg" alt="">
-			<h4>{{ person.Name }}</h4> 
-		  </a>
-		{% endif %}
+
 		<p class="text-muted ff-team-member-p" ><em>{{ person.Title }}</em></p>  
 		<p class="text-muted ff-team-member-p ">{{ person.City}}</p>  
 	</div>
-	{% endif %}
+
   {% endfor %}
 
 </div>
-	
-<h2 class="section-heading text-uppercase" style="margin-top: 80px">Leadership Team</h2>
-
-<div class="layout_members">	
-	
-	{% for person in site.data.team %}
-	{% if person.leadership == 0 %}
-	  <div class="team-member ff-team-member">
-		{% if person.LinkedIn %}
-		  <a href="{{ person.LinkedIn }}">
-			<img class="mx-auto rounded-circle" src="/pics/{{ person.picfile }}.jpeg" alt="">
-<!--			<i class="fab fa-linkedin-in"></i> -->
-			<h4>{{ person.Name }}</h4> 
-		  </a>
-		{% else %}
-		  <a>
-			<img class="mx-auto rounded-circle" src="/pics/noface.jpeg" alt="">
-			<h4>{{ person.Name }}</h4> 
-		  </a>
-		{% endif %}
-		<p class="text-muted ff-team-member-p" ><em>{{ person.Title }}</em></p>  
-		<p class="text-muted ff-team-member-p ">{{ person.City}}</p>    
-	</div>
-	{% endif  %}
-  {% endfor %}
 
 	
 <!--
