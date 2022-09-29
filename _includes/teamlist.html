@@ -8,10 +8,11 @@
   </div>
 -->
 
-<h2 class="section-heading text-uppercase" style="margin-top: 80px">Leadership Team</h2>
+
 
 <div class="layout_members">	
-
+<h2 class="section-heading text-uppercase" style="margin-top: 80px">Leadership Team</h2>
+	
  {% for person in site.data.team %}
 	{% if person.leadership %}
 	<div class="team-member ff-team-member">
@@ -33,10 +34,13 @@
 
 </div>
 	
-<h2 class="section-heading text-uppercase">Members</h2>
+
 
 <div class="layout_members">	
-  {% for person in site.data.team %}
+	
+<h2 class="section-heading text-uppercase">Members</h2>
+
+	{% for person in site.data.team %}
 	{% if person.leadership %}{% else %}	
 	  <div class="team-member ff-team-member">
 		<a href="{{ person.linkedin }}">
