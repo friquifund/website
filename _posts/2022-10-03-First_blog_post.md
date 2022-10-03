@@ -1,5 +1,6 @@
 ---
 layout: post
+author: albert
 title: Blog testing
 ---
 
