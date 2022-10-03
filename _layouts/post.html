@@ -1,15 +1,18 @@
----
-layout: default
----
 
-<h1>{{ page.title }}</h1>
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+<!DOCTYPE html>
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}">
 
-{{ content }}
+  {% include head.html %}
 
-{% include footer.html %}
+  <body id="page-top">
+	<h1>{{ page.title }}</h1>
+	<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
 
-	  <!-- Bootstrap core JavaScript  -->
+	{{ content }}
+
+	  {% include footer.html %}
+
+	  <!-- Bootstrap core JavaScript -->
 	  <script src="assets/js/jquery.min.js"></script>
 	  <script src="assets/js/bootstrap.bundle.min.js"></script>
 
@@ -22,4 +25,10 @@ layout: default
 
 	  <!-- Custom scripts for this template -->
 	  <script src="assets/js/agency.min.js"></script>
+
+  </body>
+</html>
+
+
+
 
