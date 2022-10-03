@@ -37,7 +37,7 @@
   <link href="assets/css/agency.css" rel="stylesheet" />
 
   <!-- Page container change top padding when nav shrinks -->
-  {% if page.layout == "page" %}
+  {% if page.layout == "page" or page.layout == "post" %}
   <style>
     #pagecontainer {
       padding-top: 150px;
