@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: post
 author: albert
-title: Default layout
+title: latin
 ---
 
 # Et super ipse quercus si defecto delapsus
