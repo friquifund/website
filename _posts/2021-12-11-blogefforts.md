@@ -1,7 +1,5 @@
-
-
 ---
-title: Blogefforts
+title: Nolayout
 ---
 
 
