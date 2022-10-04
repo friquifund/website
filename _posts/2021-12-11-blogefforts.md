@@ -1,5 +1,6 @@
 ---
-title: Nolayout
+layout: post
+title: efforts
 ---
 
 
