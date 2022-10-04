@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: nothing
+title: post layout
 ---
 
 # Nothing interesting to share
