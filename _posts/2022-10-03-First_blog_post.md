@@ -1,7 +1,7 @@
 ---
 layout: default
 author: albert
-title: Blog testing
+title: Default layout
 ---
 
 # Et super ipse quercus si defecto delapsus
