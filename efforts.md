@@ -1,5 +1,6 @@
 ---
 title: FriquiFund
+author: Albert
 ---
 
 
