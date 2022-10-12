@@ -1,0 +1,24 @@
+---
+layout: page
+permalink: /members
+---
+
+<h2 class="section-heading text-uppercase">Leadership Team</h2>
+
+<div class="layout_members">
+    {% for person in site.data.team %}
+    {% if person.leadership == "1" %}
+    {% include members/member.html person=person %}
+    {% endif %}
+    {% endfor %}
+</div>
+
+<h2 class="section-heading text-uppercase">Members</h2>
+
+<div class="layout_members">
+    {% for person in site.data.team %}
+    {% if person.leadership == "0" %}
+    {% include members/member.html person=person %}
+    {% endif %}
+    {% endfor %}
+</div>
