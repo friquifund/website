@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 author: albert
 title: latin
 ---

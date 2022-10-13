@@ -1,12 +1,9 @@
 ---
-layout: post
+layout: page
 title: efforts
 ---
 
-
-
 # Blog version of efforts
-
 
 ## NGOs we are collaborating with:
 
