@@ -5,13 +5,13 @@ title: FriquiFund
 #TODO: email: info@friquifund.org
 description: Helping geeks grow
 #TODO url : "https://alsak0de.github.io/ff" 
-baseurl: "/"
+baseurl: /
 show_downloads: false
 author: FriquiFund
 
 
 logo:
-  path: img/FriquiFund_transparent_font58_res72dp_white_half_wide.png
+  path: /img/FriquiFund_transparent_font58_res72dp_white_half_wide.png
   height: 80 
 
 locale: "en-US" # See available languages in _data/sitetext.yml
@@ -28,6 +28,5 @@ markdown: kramdown
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
 # formspree_form_path: "f/a_form_id"
 
-plugins:
-  - jekyll-remote-theme
-
+exclude:
+  - test

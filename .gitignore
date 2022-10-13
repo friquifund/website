@@ -1,0 +1,6 @@
+.jekyll-cache
+.jekyll-metadata
+_site/
+test/
+Gemfile
+Gemfile.lock

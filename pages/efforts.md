@@ -1,11 +1,10 @@
 ---
-title: FriquiFund
-author: Albert
+layout: page
+title: Efforts
+permalink: /efforts
 ---
 
-
 # Efforts
-
 
 ## NGOs we are collaborating with:
 

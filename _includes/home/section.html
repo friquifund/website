@@ -1,0 +1,28 @@
+<!-- Capture content from markdown file -->
+{% capture content %}
+{% include home/{{ include.id }}.md %}
+{% endcapture %}
+
+<section class="page-section" id="{{ include.id }}">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                {% if include.font_size == "smaller" %}
+                <h4 class="section-heading">{{ include.title }}</h4>
+                {% else %}
+                <h2 class="section-heading">{{ include.title }}</h2>
+                {% endif %}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8 mx-auto text-{{ include.align | default: 'justify' }}">
+                <div
+                    class="large text-muted"
+                    style="font-size: {{ include.font_size | default: 'medium' }}"
+                >
+                    {{ content | markdownify }}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
