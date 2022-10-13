@@ -31,3 +31,5 @@ markdown: kramdown
 plugins:
   - jekyll-remote-theme
 
+exclude:
+  - test
