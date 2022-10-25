@@ -6,7 +6,7 @@ title: Friquifund extends its support to Projecte Click, by Fundació IRES, in s
 
 # Friquifund extends its support to Projecte Click, by Fundació IRES, in supporting young vulnerable geeks in Sant Martí
 
-Friquifund has agreed to extend its longest-lasting collaboration with [Projecte Click](https://www.fundacioires.org/ca/que-fem/ecosistema-de-projectes/projecte-click/), by [Fundació IRES](https://www.fundacioires.org/ca/),
+Friquifund has agreed to extend its longest-lasting collaboration with <a href="https://www.fundacioires.org/ca/que-fem/ecosistema-de-projectes/projecte-click" target="_blank">Projecte Click</a>, by <a href="https://www.fundacioires.org/ca" target="_blank">Fundació IRES</a>,
 an NGO specialized in supporting youngsters in vulnerable situations in the Sant Martí district of
 Barcelona. Friquifund will be sponsoring tuition, materials (PCs), internet access and other expenses to
 support youngsters interested in technology (geeks!). Additionally, Friquifund members will be
