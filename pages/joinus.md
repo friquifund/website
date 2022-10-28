@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Membership
-permalink: /membership
+title: Join Us
+permalink: /join-us
 ---
 
-<h2 class="section-heading text-uppercase">Membership</h2>
+<h2 class="section-heading text-uppercase">Join us</h2>
 
 To become a FriquiFund member, please follow the steps below:
 
