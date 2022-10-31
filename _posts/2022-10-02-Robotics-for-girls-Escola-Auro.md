@@ -17,9 +17,10 @@ _feel more confident about themselves. We rate the project very positively, as i
 _ensures equal opportunities for access to new technologies._
 
 From the girls: _We too can do things with the PC's!_
+<img src="/assets/GIRLS GEMS_Escola Auro_2.jpg" alt="GIRLS GEMS_Escola Auro_4" width="49%"/>
+<img src="/assets/GIRLS GEMS_Escola Auro_4.jpg" alt="GIRLS GEMS_Escola Auro_4" width="49%"/>
 <!--
 <img src="/assets/GIRLS GEMS_Escola Auro_1.jpg" alt="GIRLS GEMS_Escola Auro_1" width="49%"/>
-<img src="/assets/GIRLS GEMS_Escola Auro_4.jpg" alt="GIRLS GEMS_Escola Auro_4" width="49%"/>
 <img src="/assets/GIRLS GEMS_Escola Auro_5.jpg" alt="GIRLS GEMS_Escola Auro_5" width="49%"/>
 <img src="/assets/GIRLS GEMS_Escola Auro_6.jpg" alt="GIRLS GEMS_Escola Auro_6" width="49%"/>
 -->
