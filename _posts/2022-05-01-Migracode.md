@@ -18,3 +18,9 @@ Target: 33 refugees and vulnerable migrants
 Effort: co-sponsoring a web development course for a class of 33 students for 8 months in Barcelona
 
 Investment: 5,000€ (2022)
+
+
+<img src="/assets/migracode2022_1.JPG" width="49%"/>
+<img src="/assets/migracode2022_2.JPG" width="49%"/>
+<img src="/assets/migracode2022_3.JPG" width="49%"/>
+<img src="/assets/migracode2022_4.JPG" width="49%"/>
