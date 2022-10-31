@@ -19,6 +19,6 @@ To become a FriquiFund member, please follow the steps below:
     Concepte: FriquiFund 2022 - YOUR NAME HERE
     ```
 
-    (\*) The fee is 240€ every year, but when you first join you can make it 20€ x \<remaining full months\>, so for example if you join in October, you would need to transfer 40€ for your first year membership.
+    (\*) The fee is 240€ every year, but when you first join you can make it 20€ per remaining full month of the year. For example, if you join in October, you would need to transfer 40€ for your first year membership.
 
 Please note it may take a few days to get back to you.
