@@ -4,9 +4,9 @@
 {% endcapture %}
 <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav" style={{ nav_style }}>
     <div class="container">
-        <a class="navbar-brand js-scroll-trigger" href="/">
+        <a class="navbar-brand js-scroll-trigger" aria-label="FriquiFund" href="/">
             {% if site.logo %}
-            <img height="{{ site.logo.height | default: 52 }}" src="{{ site.logo.path }}" />
+            <img height="{{ site.logo.height | default: 52 }}" alt="FriquiFund logo" src="{{ site.logo.path }}" />
             {% else %}
             {{ site.title }}
             {% endif %}
