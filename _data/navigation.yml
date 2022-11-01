@@ -11,16 +11,18 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Mission"
-      url: /#mission
-    - title: "Team"
-      url: /#team
+    #- title: "Mission"
+    #  url: /#mission
+    #- title: "Team"
+    #  url: /#team
     - title: "Efforts"
-      url: /efforts.html
+      url: /efforts
     - title: "Members"
-      url: /members.html     
-    - title: "Internal"  
-      url: https://friquifund.wordpress.com/internal-friquifund-pages/
+      url: /members
+    - title: "Blog"
+      url: /blog
+    - title: "Joinus"
+      url: /join-us
 en-US:
   <<: *DEFAULT_EN
 en-CA:
