@@ -6,7 +6,6 @@ title: Robotics for girls successfully launched at Escola Auró in Terrassa
 
 # Robotics for girls successfully launched at Escola Auró in Terrassa
 
-<img src="/assets/escolaAuro2.jpg" width="49%"/>
 
 The robotics-for-girls' program by Scientia has been successfully launched at Escola Auró in Terrassa.
 The little Codey Robots have attracted girls in the school to programming and robots, empowering them
@@ -20,4 +19,7 @@ _ensures equal opportunities for access to new technologies._
 
 From the girls: _We too can do things with the PC's!_
 
-<img src="/assets/escolaAuro1.jpg" width="49%"/>
+<img src="/assets/2022-11-escola_auro1.jpg" width="49%"/>
+<img src="/assets/2022-11-escola_auro2.jpg" width="49%"/>
+<img src="/assets/2022-11-escola_auro3.jpg" width="49%"/>
+<img src="/assets/2022-11-escola_auro4.jpg" width="49%"/>
