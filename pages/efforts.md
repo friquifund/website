@@ -30,7 +30,7 @@ permalink: /efforts
 
 **<a href="https://www.m4social.org/ca" target="_blank">4Social</a>**: We accelerate digital transformation focused on people care, contributing to the empowerment of citizens and social organizations.
 
-**<a href="https://www.campusrom.org/" target="_blank">CampusRoom: Red Gitana Universitaria</a>**: . Somos una Red Gitana Universitaria con el objetivo de unir a los gitanos en la universidad para conseguir que más personas gitanas lleguen a la universidad.
+**<a href="https://www.campusrom.org/" target="_blank">CampusRoom</a>**: Red Gitana Universitaria. Somos una Red Gitana Universitaria con el objetivo de unir a los gitanos en la universidad para conseguir que más personas gitanas lleguen a la universidad.
 
 **<a href="https://afev.cat/projectes/prometeus" target="_blank">Prometeus</a>**: We are a program that ensures that young people from public schools in the most vulnerable neighborhoods of Barcelona can access university and pursue higher studies successfully.
 
