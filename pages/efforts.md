@@ -16,9 +16,11 @@ permalink: /efforts
 
 **<a href="https://www.scientia.es/fundacion-scientia" target="_blank">Scientia</a>** (Girls Gems program): Robotics-for-kids program addressed to 8-to-12-year-old girls enrolled in highly-complex schools in the greater BCN.
 
+
+
 ## Other NGOs and efforts we know about
 
-**<a href="https://www.barcelonactua.org/" target="_blank">BarcelonaActua</a>**: Persones implicades que ens conectem per ajudar a cobrir necessitats socials del nostre entorn més proper.
+**<a href="https://www.barcelonactua.org/" target="_blank">BarcelonaActua</a>**: *Persones implicades que ens conectem per ajudar a cobrir necessitats socials del nostre entorn més proper.*
 
 **<a href="https://barcelonadigitaltalent.com/en" target="_blank">Barcelona Digital Talent</a>**: We aim to fight the digital talent gap in order to promote market competitiveness. We want to position Barcelona as a talent capital and, to achieve this, we are committed to training in digital skills and attracting new digital talent to the city. Check out their BCN Inclusive Coding program <a href="https://barcelonadigitaltalent.com/ca/bcn-inclusive-coding" target="_blank">here</a>.
 
@@ -30,7 +32,7 @@ permalink: /efforts
 
 **<a href="https://www.m4social.org/ca" target="_blank">4Social</a>**: We accelerate digital transformation focused on people care, contributing to the empowerment of citizens and social organizations.
 
-**<a href="https://www.campusrom.org/" target="_blank">CampusRoom</a>**: Red Gitana Universitaria. Somos una Red Gitana Universitaria con el objetivo de unir a los gitanos en la universidad para conseguir que más personas gitanas lleguen a la universidad.
+**<a href="https://www.campusrom.org/" target="_blank">CampusRoom</a>**: *Red Gitana Universitaria. Somos una Red Gitana Universitaria con el objetivo de unir a los gitanos en la universidad para conseguir que más personas gitanas lleguen a la universidad.*
 
 **<a href="https://afev.cat/projectes/prometeus" target="_blank">Prometeus</a>**: We are a program that ensures that young people from public schools in the most vulnerable neighborhoods of Barcelona can access university and pursue higher studies successfully.
 
