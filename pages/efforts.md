@@ -18,6 +18,8 @@ permalink: /efforts
 
 ## Other NGOs and efforts we know about
 
+**<a href="https://www.barcelonactua.org/" target="_blank">BarcelonaActua</a>Persones implicades que ens conectem per ajudar a cobrir necessitats socials del nostre entorn més proper.
+
 **<a href="https://barcelonadigitaltalent.com/en" target="_blank">Barcelona Digital Talent</a>**: We aim to fight the digital talent gap in order to promote market competitiveness. We want to position Barcelona as a talent capital and, to achieve this, we are committed to training in digital skills and attracting new digital talent to the city. Check out their BCN Inclusive Coding program <a href="https://barcelonadigitaltalent.com/ca/bcn-inclusive-coding" target="_blank">here</a>.
 
 **<a href="https://twitter.com/DataForGoodBCN" target="_blank">Data for Good Barcelona</a>**: We bring the expertise of data professionals to the service of NGOs to achieve positive social impact.
