@@ -17,8 +17,7 @@ logo:
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  #Google Analytics tracking code here
-  google: G-CDEB4MQ0QJ
+  google: G-CDEB4MQ0QJ # Google Analytics tracking code (Andreu Mayo account)
 
 #collections:
 #  portfolio:
