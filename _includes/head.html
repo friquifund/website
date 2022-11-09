@@ -11,7 +11,7 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <title>{% if page.title %}{{ page.title | append: " | " | append: site.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <link rel="icon" href="/img/icon.png">
+    {% if site.logo %}<link rel="icon" href="{{ site.icon.path }}">{% endif %}
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.min.css" rel="stylesheet" />
