@@ -1,6 +1,6 @@
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    {% if site.google_analytics and jekyll.environment == 'production' %}
+    {% if site.analytics.google and jekyll.environment == 'production' %}
     {% include analytics.html %}
     {% endif %}
 
@@ -11,6 +11,7 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <title>{% if page.title %}{{ page.title | append: " | " | append: site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <link rel="icon" href="/img/icon.png">
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/css/bootstrap.min.css" rel="stylesheet" />
