@@ -4,7 +4,7 @@ author: Pau Agulló
 title: Friquifund supports Migracode in training refugees and migrants in web development
 ---
 
-# Friquifund supports Migracode in training refugees and migrants in web development,xcvzzxcvzxv
+# Friquifund supports Migracode in training refugees and migrants in web development
 
 Friquifund has launched its first collaboration with <a href="https://migracode.openculturalcenter.org" target="_blank">Migracode</a>, an NGO specialized in training refugees
 and vulnerable migrants in web development for free. Friquifund will be co-sponsoring a class of 33
