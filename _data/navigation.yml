@@ -17,8 +17,8 @@ en: &DEFAULT_EN
     #  url: /#team
     - title: "Efforts"
       url: /efforts
-    - title: "Members"
-      url: /members
+    - title: "Team"
+      url: /team
     - title: "Blog"
       url: /blog
     - title: "Joinus"
