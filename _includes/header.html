@@ -2,15 +2,25 @@
 <header class="masthead">
     <div class="container">
         <div class="intro-text">
-            {% if site.data.sitetext[site.locale].header.title %}
-            <div class="intro-lead-in">{{ site.data.sitetext[site.locale].header.title | markdownify }}</div>
-            {% endif %}
-            {% if site.data.sitetext[site.locale].header.text %}
-            <div class="intro-heading text-uppercase">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
-            {% endif %}
-            {% if site.data.sitetext[site.locale].header.button %}
-            <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
-            {% endif %}
+            <h2>Our mission is to support young STEM students in need</h2>
+            <br />
+            <div class="row">
+                <div class="col-sm-4 home-header">
+                    <span class="">Donated more than</span>
+                    <span class="highlight">30,000€</span>
+                    <span>to NGOs</span>
+                </div>
+                <div class="col-sm-4 home-header">
+                    <span>Robotics program for</span><br />
+                    <span class="highlight">100+ students</span><br />
+                    <span>in high-complexity schools</span>
+                </div>
+                <div class="col-sm-4 home-header">
+                    <span>Mentorized</span>
+                    <span class="highlight">10+ students</span>
+                    <span>or connected to internship opportunities</span>
+                </div>
+            </div>
         </div>
     </div>
 </header>
