@@ -1,6 +1,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-pdf-embed
 title: FriquiFund
 #TODO: email: info@friquifund.org
 description: Helping geeks grow
