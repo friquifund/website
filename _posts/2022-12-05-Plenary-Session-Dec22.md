@@ -33,7 +33,7 @@ KPIs:
 Picture at the Citizen Cafe:
 
 <div style="text-align: center">
-    <img src="/assets/Plenary-Dec-22.jpeg" width="49%" style="text-align: center"/>
+    <img src="/assets/Plenary-Dec-22.jpeg" width="49%" />
 </div>
 
 Full presentation here:
