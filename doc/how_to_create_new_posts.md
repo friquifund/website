@@ -113,7 +113,7 @@ Use an `HTML` `object` tag to embed PDF files previously uploaded in the `assets
 <object data="../assets/FRIQUIFUND-Plenary-2022-12.pdf" width="90%" height="700" type='application/pdf'></object>
 ```
 
-<object data="../assets/FRIQUIFUND-Plenary-2022-12.pdf" width="90%" height="700" type='application/pdf'></object>
+Example is not visible here, please check [this post](https://friquifund.org/2022/12/05/Plenary-Session-Dec22.html) to see how it looks like.
 
 You can use the wrapper `div` to center the PDF, as explained in other sections.
 
@@ -132,6 +132,6 @@ Example:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VzSEg4iR9e0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VzSEg4iR9e0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Example is not visible here, please check [this post](https://friquifund.org/2022/12/05/Plenary-Session-Dec22.html) to see how it looks like.
 
 You can use the wrapper `div` to center the PDF, as explained in other sections.
