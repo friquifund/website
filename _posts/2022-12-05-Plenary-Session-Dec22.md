@@ -33,11 +33,11 @@ KPIs:
 Picture at the Citizen Cafe:
 
 <div style="text-align: center">
-    <img src="/assets/Plenary-Dec-22.jpeg" width="49%" style="text-align: center"/>
+    <img src="/assets/ff_plenary/2022-12/Plenary-Dec-22.jpeg" width="49%" />
 </div>
 
 Full presentation here:
 
 <div style="text-align: center">
-    <object data="/assets/FRIQUIFUND-Plenary-2022-12.pdf" width="90%" height="700" type='application/pdf'></object>
+    <object data="/assets/ff_plenary/2022-12/FRIQUIFUND-Plenary-2022-12.pdf" width="90%" height="700" type='application/pdf'></object>
 </div>
