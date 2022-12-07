@@ -24,7 +24,7 @@ FriquiFund was founded in 2019. At that time, there was and still are many well 
 
 Lots of members in FriquiFund have IT, engineering or science related professional careers. This provides us the knowledge and workforce to run a Mentoring program to closely support young STEM students. We guide them and help them in the process of deciding their future, finding professional opportunities, applying for a job or preparing for job interviews. A mentor is assigned to the student and one-to-one sessions or calls are scheduled to discuss any topic of interest of the student.
 
-This program started by mid 2022. By the end of 2022 we are mentoring 6 students. If you are interested, we encourage you to fill this form: TODO.
+This program started by mid 2022. By the end of 2022 we are mentoring 6 students. <!-- If you are interested, we encourage you to fill this form: TODO. -->
 
 ## Other efforts
 
