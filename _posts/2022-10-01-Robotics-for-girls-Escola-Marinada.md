@@ -19,4 +19,4 @@ Translated quotes:
 - _I told my mom that I want one. It has made us think very hard!_
 
 <br />
-<object data="/assets/JA TENIM ELS CODEY ROCKY EN MARXA - Escola Marinada - Oct22.pdf" type="application/pdf" width="100%" height="1200px"></object>
+<object data="/assets/robotics_for_girls/escola_marinada/JA TENIM ELS CODEY ROCKY EN MARXA - Escola Marinada - Oct22.pdf" type="application/pdf" width="100%" height="1200px"></object>

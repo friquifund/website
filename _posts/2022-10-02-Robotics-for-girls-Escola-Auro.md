@@ -18,7 +18,7 @@ _ensures equal opportunities for access to new technologies._
 
 From the girls: _We too can do things with the PC's!_
 
-<img src="/assets/2022-11-escola_auro1.jpg" width="49%"/>
-<img src="/assets/2022-11-escola_auro2.jpg" width="49%"/>
-<img src="/assets/2022-11-escola_auro3.jpg" width="49%"/>
-<img src="/assets/2022-11-escola_auro4.jpg" width="49%"/>
+<img src="/assets/robotics_for_girls/escola_auro/2022-11-escola_auro1.jpg" width="49%"/>
+<img src="/assets/robotics_for_girls/escola_auro/2022-11-escola_auro2.jpg" width="49%"/>
+<img src="/assets/robotics_for_girls/escola_auro/2022-11-escola_auro3.jpg" width="49%"/>
+<img src="/assets/robotics_for_girls/escola_auro/2022-11-escola_auro4.jpg" width="49%"/>
