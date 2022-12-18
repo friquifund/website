@@ -30,9 +30,11 @@ This program started by mid 2022. By the end of 2022 we are mentoring 6 students
 
 Thanks to our community, FriquiFund has a close relationship with Barcelona IT companies through its members. This enables us to connect students with internship opportunities, and the other way around. By the end of 2022, we have successfully organized 3 internships in Barcelona companies.
 
-Finally, our ambition is to provide help in any STEM related area. Specifically, we are aware that a challenge some of the young STEM students face is not having access to IT material. In this area, we have been able to donate 3 laptops.
+Finally, our ambition is to provide help in any STEM related area. Specifically, we are aware that a challenge some of the young STEM students face is not having access to IT material. In this area, we facilitate hardware donations to NGOs and students (4 desktops so far).
 
 # Other related NGOs and efforts
+
+Here is a list of other related NGOs, programs and companies in this space that we know about:
 
 **<a href="https://www.barcelonactua.org/" target="_blank">BarcelonaActua</a>**: *Persones implicades que ens conectem per ajudar a cobrir necessitats socials del nostre entorn més proper.*
 
