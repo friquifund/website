@@ -1,4 +1,4 @@
-We are more than 100 *Barcelona friquis*: people in the IT/Engineering/Sciences profession with a strong attachment to Barcelona (either physical or emotional...). You can see the [full list here](/teamlisting.html)
+We are {{ site.data.team.size }} *Barcelona friquis*: people in the IT/Engineering/Sciences profession with a strong attachment to Barcelona (either physical or emotional...). You can see the [full list here](/teamlisting.html)
 
 The most active within us constitute the **leadership team**, currently:
 [Hugo Zaragoza](https://www.linkedin.com/in/hugozaragoza),

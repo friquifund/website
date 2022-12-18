@@ -1,4 +1,4 @@
-{% include header.html %}
+{% include home/header.html %}
 
 <!-- FriquiWhat? -->
 {% include home/section.html id='friquiwhat' title='FriquiWhat?' align='center' %}

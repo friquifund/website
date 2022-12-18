@@ -4,7 +4,7 @@ title: Join Us
 permalink: /join-us
 ---
 
-<h2 class="section-heading text-uppercase">Join us</h2>
+<h1>Join us</h1>
 
 To become a FriquiFund member, please follow the steps below:
 

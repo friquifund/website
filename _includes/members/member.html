@@ -3,11 +3,12 @@
     <a href="{{ include.person.LinkedIn }}" target="_blank">
         <img class="mx-auto rounded-circle" src="/pics/{{ include.person.picfile }}.jpeg" alt="">
         <!--i class="fab fa-linkedin-in"></i-->
-        <h4>{{ include.person.Name }}</h4>
+        <br />
+        <b>{{ include.person.Name }}</b>
     </a>
     {% else %}
     <img class="mx-auto rounded-circle" src="/pics/noface.jpeg" alt="">
-    <h4>{{ include.person.Name }}</h4>
+    <b>{{ include.person.Name }}</b>
     {% endif %}
     <p class="text-muted ff-team-member-p" ><em>{{ include.person.Title }}</em></p>
     <p class="text-muted ff-team-member-p ">{{ include.person.City}}</p>
