@@ -10,7 +10,7 @@ Our mission is to support young STEM students in need. This support is materiali
 
 ## Collaboration with NGOs
 
-FriquiFund was founded in 2019. At that time, there was and still are many well structured organizations actively supporting young STEM students in need. We acknowledge their experience and collaborate with them through cash donations, so that they can improve or extend their support to even more people. By 2022, FriquiFund has donated ~30,000€. We are currently collaborating with the following NGOs.
+FriquiFund was founded in 2019. At that time, there was and still are many well structured organizations actively supporting young STEM students in need. We acknowledge their experience and collaborate with them through cash donations, so that they can improve or extend their support to even more people. By 2022, FriquiFund has donated {{ site.data.sitetext.total_donated }}. We are currently collaborating with the following NGOs.
 
 - **<a href="https://www.aeiraval.org" target="_blank">AEIRaval</a>** (Associació Educativa Integral del Raval): Support vulnerable youngsters in Raval and other neighbourhoods in BCN in pursuing studies and finding initial jobs with both sponsorship of study-related costs and coaching.
 
@@ -24,13 +24,13 @@ FriquiFund was founded in 2019. At that time, there was and still are many well 
 
 Lots of members in FriquiFund have IT, engineering or science related professional careers. This provides us the knowledge and workforce to run a Mentoring program to closely support young STEM students. We guide them and help them in the process of deciding their future, finding professional opportunities, applying for a job or preparing for job interviews. A mentor is assigned to the student and one-to-one sessions or calls are scheduled to discuss any topic of interest of the student.
 
-This program started by mid 2022. By the end of 2022 we are mentoring 6 students. <!-- If you are interested, we encourage you to fill this form: TODO. -->
+This program started by mid 2022. By the end of 2022 we are mentoring {{ site.data.sitetext.n_mentored_students }} students. <!-- If you are interested, we encourage you to fill this form: TODO. -->
 
 ## Other efforts
 
-Thanks to our community, FriquiFund has a close relationship with Barcelona IT companies through its members. This enables us to connect students with internship opportunities, and the other way around. By the end of 2022, we have successfully organized 3 internships in Barcelona companies.
+Thanks to our community, FriquiFund has a close relationship with Barcelona IT companies through its members. This enables us to connect students with internship opportunities, and the other way around. By the end of 2022, we have successfully organized {{ site.data.sitetext.n_connected_students }} internships in Barcelona companies.
 
-Finally, our ambition is to provide help in any STEM related area. Specifically, we are aware that a challenge some of the young STEM students face is not having access to IT material. In this area, we facilitate hardware donations to NGOs and students (4 desktops so far).
+Finally, our ambition is to provide help in any STEM related area. Specifically, we are aware that a challenge some of the young STEM students face is not having access to IT material. In this area, we facilitate hardware donations to NGOs and students ({{ site.data.sitetext.hardware_donated }} so far).
 
 # Other related NGOs and efforts
 

@@ -5,5 +5,5 @@
 **Ongoing Efforts:**
 
 - Currently we are collaborating with four NGOs: AEIRaval, IRES, MigraCode and Scientia. Check them out in our [Efforts](efforts.html) page.
-- We are running an experimental Mentorship program (with 10 students)
+- We are running an experimental Mentorship program.
 - We hold plenary meetings four times per year.
