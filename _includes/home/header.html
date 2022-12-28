@@ -8,8 +8,8 @@
                 <div class="col-xl-1"></div>
                 <div class="col-sm-4 col-xl-3 home-header">
                     <span class="">Yearly donation of </span>
-                    <span class="highlight">25,000€</span>
-                    <span> to 4 NGOs</span>
+                    <span class="highlight">{{ site.data.sitetext.yearly_donation }}</span>
+                    <span> to {{ site.data.sitetext.n_donated_ngos }} NGOs</span>
                     <div class="row d-sm-none">
                         <div class="col-4"></div>
                         <div class="col-4">
@@ -19,8 +19,8 @@
                     </div>
                 </div>
                 <div class="col-sm-4 col-xl-3 home-header">
-                    <span>Robotics program for </span><br />
-                    <span class="highlight">100+ students</span><br />
+                    <span>Robotics program for </span>
+                    <span class="highlight">{{ site.data.sitetext.n_robotics_students }} students</span>
                     <span> in high-complexity schools</span>
                     <div class="row d-sm-none">
                         <div class="col-4"></div>
@@ -32,9 +32,9 @@
                 </div>
                 <div class="col-sm-4 col-xl-4 home-header">
                     <span>Mentored </span>
-                    <span class="highlight">10+ students</span>
+                    <span class="highlight">{{ site.data.sitetext.n_mentored_students }} students</span>
                     <span>, connected </span>
-                    <span class="highlight">4</span>
+                    <span class="highlight">{{ site.data.sitetext.n_connected_students }}</span>
                     <span> to jobs or internships</span>
                 </div>
                 <div class="col-xl-1"></div>
