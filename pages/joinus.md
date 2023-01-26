@@ -22,4 +22,9 @@ To become a FriquiFund member, please follow the steps below:
 
     <!-- (\*) The fee is 240€ every year, but when you first join you can make it 20€ per remaining full month of the year. For example, if you join in October, you would need to transfer 40€ for your first year membership. -->
 
-Please note it may take a few days to get back to you.
+Since FriquiFund is fully managed by volunteers, it may take us a few days to get back to you... bear with us!
+
+*(Note that this donation is not tax-deductible under Spanish tax law, we’re are still working on obtaining the necessary tax-status.)*
+
+
+
