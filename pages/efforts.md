@@ -45,6 +45,8 @@ Here is a list of other related NGOs, programs and companies in this space that 
 
 **<a href="https://barcelonadigitaltalent.com/en" target="_blank">Barcelona Digital Talent</a>**: We aim to fight the digital talent gap in order to promote market competitiveness. We want to position Barcelona as a talent capital and, to achieve this, we are committed to training in digital skills and attracting new digital talent to the city. Check out their BCN Inclusive Coding program <a href="https://barcelonadigitaltalent.com/ca/bcn-inclusive-coding" target="_blank">here</a>.
 
+**<a href="https://fundaciobofill.cat/" target="_blank">Fundació Bofill</a>** The Fundació Bofill is a non-profit organization created in 1969 with the goal of promoting the transformation and social change of our country. We are a research and proposal laboratory focused on the field of education that we work to promote research, debates and initiatives to generate educational opportunities and combat social inequalities.
+
 **<a href="https://twitter.com/DataForGoodBCN" target="_blank">Data for Good Barcelona</a>**: We bring the expertise of data professionals to the service of NGOs to achieve positive social impact.
 
 **<a href="https://fundacionexit.org/?lang=en" target="_blank">Fundación Exit</a>**: The mission of Fundación Exit is to reduce the school dropout rates of at-risk youth by implementing scalable and innovative training projects that offer an itinerary and add value to companies while promoting networking and job placement.
