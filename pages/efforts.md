@@ -37,7 +37,7 @@ Thanks to our community, FriquiFund has a close relationship with Barcelona tech
 
 Finally, our ambition is to provide help in any STEM-related area. Specifically, we are aware that a challenge some of the young STEM students face is not having access to IT material. In this area, we facilitate hardware donations to NGOs and students ({{ site.data.sitetext.hardware_donated }} so far).
 
-# Other related NGOs and efforts
+# Other related NGOs and efforts we are in contact with:
 
 Here is a list of other related NGOs, programs and companies in this space that we know about:
 
@@ -65,5 +65,6 @@ Here is a list of other related NGOs, programs and companies in this space that 
 
 **<a href="https://www.campusrom.org/" target="_blank">CampusRom, Roma University Network</a>**:  We support and bring together Roma university students to achieve higher university enrollment in the future for Roma people.
 
+Misc. Related:
 
 **<a href="http://donalo.org" target="_blank">donalo.org</a>**: We are a circular economy marketplace to sell, rent or exchange goods for a second (or third) life.
