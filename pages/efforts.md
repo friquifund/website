@@ -49,18 +49,21 @@ Here is a list of other related NGOs, programs and companies in this space that 
 
 **<a href="https://twitter.com/DataForGoodBCN" target="_blank">Data for Good Barcelona</a>**: We bring the expertise of data professionals to the service of NGOs to achieve positive social impact.
 
+**<a href="https://fundacionesplai.org/" target="_blank">Fundació Esplai</a>**: Nuestra misión es la de promover el empoderamiento ciudadano y su compromiso con la mejora de la sociedad, desde la perspectiva de los derechos, la inclusión y la transformación social, con una especial dedicación a fomentar la participación de la juventud.  La llevamos a cabo mediante la intervención social comunitaria, la acción socioeducativa y la inclusión en el ámbito de las TIC trabajando en red con el Tercer Sector y el resto de agentes sociales.  
+
 **<a href="https://fundacionexit.org/?lang=en" target="_blank">Fundación Exit</a>**: The mission of Fundación Exit is to reduce the school dropout rates of at-risk youth by implementing scalable and innovative training projects that offer an itinerary and add value to companies while promoting networking and job placement.
 
 **<a href="https://factoriaf5.org" target="_blank">Factoria F5</a>**: We are an NGO that builds the first network of solidarity, inclusive and free digital schools in Spain, dedicated to offering opportunities to people in vulnerable situations in the world of programming and web development.
 
 **<a href="https://www.m4social.org/ca" target="_blank">4Social</a>**: We accelerate digital transformation focused on people care, contributing to the empowerment of citizens and social organizations.
 
-**<a href="https://www.campusrom.org/" target="_blank">CampusRom</a>**: Roma University Network. We support and bring together Roma university students to achieve higher university enrollment in the future for Roma people.
+**<a href="https://www.nouscims.com/en/who-we-are/about-nous-cims" target="_blank">Fundación Privada Nous Cims</a>**: We are a BCN-based NGO that creates and develops innovative, transformative and sustainable social projects in the fields of employability, emotional well-being and global development with the aim of impacting the most vulnerable people, especially women, youth and children, both here and in emerging countries.
+
+**<a href="https://oifem.es" target="_blank">OIFem</a>**: We organize contests on algorithmic programming for female students in high school. Winners can represent Spain in the Female Computer Science Olympics.
 
 **<a href="https://afev.cat/projectes/prometeus" target="_blank">Prometeus</a>**: We are a program that ensures that young people from public schools in the most vulnerable neighborhoods of Barcelona can access university and pursue higher studies successfully.
 
-**<a href="https://www.nouscims.com/en/who-we-are/about-nous-cims" target="_blank">Fundación Privada Nous Cims</a>**: We are a BCN-based NGO that creates and develops innovative, transformative and sustainable social projects in the fields of employability, emotional well-being and global development with the aim of impacting the most vulnerable people, especially women, youth and children, both here and in emerging countries.
+**<a href="https://www.campusrom.org/" target="_blank">CampusRom, Roma University Network</a>**:  We support and bring together Roma university students to achieve higher university enrollment in the future for Roma people.
+
 
 **<a href="http://donalo.org" target="_blank">donalo.org</a>**: We are a circular economy marketplace to sell, rent or exchange goods for a second (or third) life.
-
-**<a href="https://oifem.es" target="_blank">OIFem</a>**: We organize contests on algorithmic programming for female students in high school. Winners can represent Spain in the Female Computer Science Olympics.
