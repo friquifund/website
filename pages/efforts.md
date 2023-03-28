@@ -20,16 +20,20 @@ FriquiFund was founded in 2019. At that time, there were and still are many well
 
 - **<a href="https://www.scientia.es/fundacion-scientia" target="_blank">Scientia</a>** (Girls Gems program): Robotics-for-kids program addressed to 8-to-12-year-old girls (and boys!) enrolled in highly-complex schools in the greater BCN.
 
-## Mentoring of young STEM students
+## Mentoring and Internships for young STEM students
 
-Lots of members in FriquiFund have IT, engineering or science-related professional careers. This provides us the knowledge and workforce to run a Mentoring program to closely support young STEM students. We guide them and help them in the process of deciding their future, finding professional opportunities, applying for a job or preparing for job interviews. A mentor is assigned to the student and one-to-one sessions or calls are scheduled to discuss any topic of interest of the student.
+Lots of members in FriquiFund have IT, engineering or science-related professional careers. This provides us the knowledge and workforce to run a Mentoring program to closely support young STEM students and an Internships program to help them find the right place to do internships. We started these prorgams mid 2022. By the end of 2022 we are mentoring {{ site.data.sitetext.n_mentored_students }} students. 
 
-This program started by mid 2022. By the end of 2022 we are mentoring {{ site.data.sitetext.n_mentored_students }} students.
-
-In the following links more information can be found regarding the mentoring program and how to apply for it:
+**Mentoring**: We guide students and help them in the process of deciding their future, finding professional opportunities, applying for a job or preparing for job interviews. A mentor is assigned to the student and one-to-one sessions or calls are scheduled to discuss any topic of interest of the student. In the following links more information can be found regarding the mentoring program and how to apply for it:
 
 - [Mentoring (English version)](/mentoring/en)
 - [Mentoría (Spanish version)](/mentoring/es)
+
+**Internships**: we help students find the right place to do internships, taking into account the internship requirements of each student program.
+
+- [Internships (Catalan version)](/internships/cat)
+
+
 
 ## Other efforts
 
