@@ -12,6 +12,6 @@ Necessites fer pràctiques d'informàtica o enginyeria aquest any i no saps on f
 
 **Què és l'Ajuda a Trobar Pràctiques?** Utilitzem la xarxa de contactes dels nostres socis per ajudar-te a trobar un bon lloc per fer les pràctiques que necessites. Només és una ajuda, i no et garantim l'èxit!
 
-**Com funciona?** Has d'emplenar un formulari donant-nos el màxim d'informació i nosaltres ens posarem en contacte amb tu (si no t'hem contestat en pocs dies, envia'ns un mail a friquifund-info@googlegroups.com per fer seguiment).
+**Com funciona?** Has [d'emplenar aquest formulari](https://forms.gle/8r5657Tg1PgpBCNBA) donant-nos el màxim d'informació i nosaltres ens posarem en contacte amb tu (si no t'hem contestat en pocs dies, envia'ns un mail a friquifund-info@googlegroups.com per fer seguiment).
 
 **Quan he de moure'm?** Quant més aviat, millor! Pots trigar molts (3-6) mesos a trobar unes bones pràctiques!
