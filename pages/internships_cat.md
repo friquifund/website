@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Internships
-permalink: /interships/cat
+permalink: /internships/cat
 ---
 
 # FriquiFund t'Ajuda a Trobar Pràctiques
