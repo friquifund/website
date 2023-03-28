@@ -31,7 +31,7 @@ Lots of members in FriquiFund have IT, engineering or science-related profession
 
 **Internships**: we help students find the right place to do internships, taking into account the internship requirements of each student program.
 
-- [Internships (Catalan version)](/internships/cat)
+- [Internships (Catalan version)](/internships_cat)
 
 
 
