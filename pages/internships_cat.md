@@ -1,3 +1,9 @@
+---
+layout: page
+title: Internships
+permalink: /interships/cat
+---
+
 # FriquiFund t'Ajuda a Trobar Pràctiques
 Necessites fer pràctiques d'informàtica o enginyeria aquest any i no saps on fer-les? Friquifund et pot ajudar. Qui Som? FriquiFund som una associació de professionals i amics dedicada a ajudar als joves més necessitats a formar-se i trobar feines STEM (ciència, tecnologia, enginyeria i matemàtiques).
 Què fem? Friquifund ajuda amb donacions econòmiques a ONGs i amb projectes de mentoria i d'ajuda directa als estudiants. Aquest any tenim tres programes d'ajuda directa: 1) Mentories, 2) Ajuda a Trobar Pràctiques, i 3) Ajuda a preparar-se per entrevistes de feina.
