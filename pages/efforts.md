@@ -41,7 +41,7 @@ Thanks to our community, FriquiFund has a close relationship with Barcelona tech
 
 Finally, our ambition is to provide help in any STEM-related area. Specifically, we are aware that a challenge some of the young STEM students face is not having access to IT material. In this area, we facilitate hardware donations to NGOs and students ({{ site.data.sitetext.hardware_donated }} so far).
 
-# Other related NGOs and efforts we are in contact with:
+### Other related NGOs and efforts we are in contact with:
 
 Here is a list of other related NGOs, programs and companies in this space that we know about:
 
@@ -72,7 +72,7 @@ Here is a list of other related NGOs, programs and companies in this space that 
 
 **<a href="https://www.campusrom.org/" target="_blank">CampusRom, Roma University Network</a>**:  We support and bring together Roma university students to achieve higher university enrollment in the future for Roma people.
 
-# Other Companies we are in contact with:
+### Other Companies we are in contact with:
 
 **<a href="https://codeop.tech" target="_blank">CodeOp</a>**: CodeOp was founded in 2018 to help solve the gender disparity in tech. From Barcelona to London, we’re 100% focused on supporting women, trans and gender non-conforming individuals who want to transition to, or upskill in tech.
 
