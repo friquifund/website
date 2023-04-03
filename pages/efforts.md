@@ -53,6 +53,9 @@ Here is a list of other related NGOs, programs and companies in this space that 
 
 **<a href="https://twitter.com/DataForGoodBCN" target="_blank">Data for Good Barcelona</a>**: We bring the expertise of data professionals to the service of NGOs to achieve positive social impact.
 
+**<a href="https://explorium.cat/" target="_blank">eXplorium</a>**: eXplorium és una associació sense ànim de lucre que fomenta l’aprenentatge transversal de la ciència, la tecnologia, l’enginyeria i les matemàtiques a través de l’experimentació en primera persona i el joc tot descobrint les connexions entre aquestes i moltes altres àrees del coneixement.
+
+
 **<a href="https://fundacionesplai.org/" target="_blank">Fundació Esplai</a>**: Nuestra misión es la de promover el empoderamiento ciudadano y su compromiso con la mejora de la sociedad, desde la perspectiva de los derechos, la inclusión y la transformación social, con una especial dedicación a fomentar la participación de la juventud.  La llevamos a cabo mediante la intervención social comunitaria, la acción socioeducativa y la inclusión en el ámbito de las TIC trabajando en red con el Tercer Sector y el resto de agentes sociales.  
 
 **<a href="https://fundacionexit.org/?lang=en" target="_blank">Fundación Exit</a>**: The mission of Fundación Exit is to reduce the school dropout rates of at-risk youth by implementing scalable and innovative training projects that offer an itinerary and add value to companies while promoting networking and job placement.
@@ -69,6 +72,12 @@ Here is a list of other related NGOs, programs and companies in this space that 
 
 **<a href="https://www.campusrom.org/" target="_blank">CampusRom, Roma University Network</a>**:  We support and bring together Roma university students to achieve higher university enrollment in the future for Roma people.
 
-Misc. Related:
+# Other Companies we are in contact with:
+
+**<a href="https://codeop.tech" target="_blank">CodeOp</a>**: CodeOp was founded in 2018 to help solve the gender disparity in tech. From Barcelona to London, we’re 100% focused on supporting women, trans and gender non-conforming individuals who want to transition to, or upskill in tech.
 
 **<a href="http://donalo.org" target="_blank">donalo.org</a>**: We are a circular economy marketplace to sell, rent or exchange goods for a second (or third) life.
+
+**<a href="https://www.innovamat.com" target="_blank">InnovaMat</a>**: The k-8 math curriculum you will love.
+
+**<a href="https://nuclio.school" target="_blank">Nuclio</a>**: We offer the most compressive digital training with Master’s degrees and specialized intensive courses in Data Science, Digital Product Manager, UX / UI Design, and Digital Marketing via streaming.
