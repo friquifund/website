@@ -80,4 +80,8 @@ Here is a list of other related NGOs, programs and companies in this space that 
 
 **<a href="https://www.innovamat.com" target="_blank">InnovaMat</a>**: The k-8 math curriculum you will love.
 
+**<a href="https://www.ironhack.com/es/en" target="_blank">IronHack</a>**: Immersive Bootcamps in Web Development, UX/UI Design, Data Analytics, and Cybersecurity. Supercharge your career and join a global network of next-generation tech leaders.
+
 **<a href="https://nuclio.school" target="_blank">Nuclio</a>**: We offer the most compressive digital training with Master’s degrees and specialized intensive courses in Data Science, Digital Product Manager, UX / UI Design, and Digital Marketing via streaming.
+
+**<a href="https://www.science-bits.com/site/en/" target="_blank">Science Bits</a>**: Teach and Learn Science by Doing Science: Science Bits is a research-based science curriculum designed to enhance learning with understanding.
