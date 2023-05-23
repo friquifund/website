@@ -1,0 +1,19 @@
+# Login
+login:
+  cookies: "/html/body/div/main/div[1]/div/section/div/div[2]/button[1]"
+  user: "/html/body/div/main/div[2]/div[1]/form/div[1]/input"
+  password: "/html/body/div/main/div[2]/div[1]/form/div[2]/input"
+  click: "/html/body/div/main/div[2]/div[1]/form/div[3]/button"
+
+profile_setup:
+  phone_number: "/html/body/div[2]/div[1]/section/div[2]/div/article/footer/div/div/button"
+  cookies: "/html/body/div[5]/div/section/div/div[2]/button[1]/span"
+
+# Assets
+profile:
+  current_role:
+    - "/html/body/div[6]/div[3]/div/div/div[2]/div/div/main/section[1]/div[2]/div[2]/div[1]/div[2]"
+    - "/html/body/div[5]/div[3]/div/div/div[2]/div/div/main/section[1]/div[2]/div[2]/div[1]/div[2]"
+  picture:
+    - "/html/body/div[6]/div[3]/div/div/div[2]/div/div/main/section[1]/div[2]/div[1]/div[1]/div/button/img"
+    - "/html/body/div[5]/div[3]/div/div/div[2]/div/div/main/section[1]/div[2]/div[1]/div[1]/div/button/img"
