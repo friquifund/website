@@ -6,6 +6,13 @@ def preprocess_members(df_spreadsheet_members: pd.DataFrame) -> pd.DataFrame:
 
     dict_rename = {"LinkedIn": "linkedin", "Name": "name", "City": "city"}
     df = df_spreadsheet_members.rename(columns=dict_rename, inplace=False)
+    df.loc[df["linkedin"] == "", "linkedin"] = pd.NA
+    df.loc[df["name"] == "", "name"] = pd.NA
+    df = df[~df["linkedin"].isna()]
+    df = df[~df["name"].isna()]
+
+    df["name"] = df["name"].str.title()
+    df["linkedin"] = update_url(df["linkedin"])
 
     return df
 
@@ -18,8 +25,21 @@ def postprocess_web_data(df_csv_web: pd.DataFrame, df_team_parsed: pd.DataFrame,
     return df_team
 
 
-def get_default_csv_web() -> pd.DataFrame:
-    df_csv_web = pd.DataFrame({"linkedin": [], "last_updated": [], "city": [], "name": []})
-    df_csv_web["linkedin"] = df_csv_web["linkedin"].astype(str)
-    df_csv_web["last_updated"] = df_csv_web["last_updated"].astype(str)
+def update_url(col_linkedin: pd.Series):
+
+    col_linkedin[~col_linkedin.str.startswith("http")] = "https://" + col_linkedin
+    col_linkedin = col_linkedin.str.strip().str.replace(" ", "")
+    col_linkedin = col_linkedin.str.replace("https://es.linkedin.com", "https://www.linkedin.com", regex=False)
+    col_linkedin = col_linkedin.str.replace("https://linkedin.com", "https://www.linkedin.com", regex=False)
+    return col_linkedin
+
+
+def preprocess_csv_web(df_csv_web: pd.DataFrame):
+    df_csv_web = df_csv_web[~df_csv_web["linkedin"].isna()]
+    df_csv_web = df_csv_web[~df_csv_web["name"].isna()]
+
+    df_csv_web["name"] = df_csv_web["name"].str.title()
+    df_csv_web.loc[df_csv_web["linkedin"] == "", "linkedin"] = pd.NA
+    df_csv_web.loc[df_csv_web["name"] == "", "name"] = pd.NA
+    df_csv_web["linkedin"] = update_url(df_csv_web["linkedin"])
     return df_csv_web

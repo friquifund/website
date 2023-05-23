@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 
 from src.tasks.linkedin_parse.lib.filter import get_eligible_profiles
 from src.tasks.linkedin_parse.lib.linkedin_sel import Linkedin
@@ -6,7 +7,7 @@ from src.utils.connectors.gspreadsheets import Gspread
 from src.utils.datasets.load import load_in_memory
 from src.utils.datasets.save import save_to_disk
 from src.utils.initialization import initialize_run
-from src.tasks.linkedin_parse.lib.etl import preprocess_members, postprocess_web_data, preprocess_csv_web
+from src.tasks.linkedin_parse.lib.etl import preprocess_members, postprocess_web_data
 
 
 def task_parse_linkedin(config, log):
@@ -19,12 +20,17 @@ def task_parse_linkedin(config, log):
         url=config.datasets.spreadsheet_members,
         columns=["LinkedIn", "Name", "picfile"]
     )
+    list_proxy_api_keys = list(gc.read_spreadsheet(
+        url=config.datasets.spreadsheet_api,
+        columns=["api_key_id"])["api_key_id"])
+
     # Read team data output file, we read it to understand what was the last update date
-    df_csv_web = load_in_memory(config.datasets.csv_web)
+    df_csv_web = gc.read_spreadsheet(
+        url=config.datasets.spreadsheet_team,
+        columns=["name", "linkedin", "city", "title", "picfile", "leadership", "last_updated"])
+    log.info("Loading: End")
 
     df_spreadsheet_members = preprocess_members(df_spreadsheet_members)
-
-    df_csv_web = preprocess_csv_web(df_csv_web)
     # Get profiles eligible for update
     log.info("Looking for eligible profiles: Start")
     df_eligible = get_eligible_profiles(
@@ -53,6 +59,8 @@ def task_parse_linkedin(config, log):
     df_team_output = postprocess_web_data(df_csv_web, df_team_parsed, config.parameters.leadership_members)
 
     log.info("Saving: Start")
+    # Update spreadhseet in google drive
+    gc.write_spreadsheet(df_team_output, )
     # Update original csv
     save_to_disk(df_team_output, config.datasets.csv_web)
 
@@ -63,8 +71,6 @@ def task_parse_linkedin(config, log):
 
 
 if __name__ == "__main__":
-    config, log = initialize_run()
-    task_parse_linkedin(config, log)
 
     # Crear conta alternativa de linkedin i provar de fer el parsing
 
@@ -74,6 +80,7 @@ if __name__ == "__main__":
     # Step 1 - Find profiles without picfile
     # Update el fitxer per a que nomes contingui la informacio que ens interessa
     # Opcio 2 - Actualitzar perfils antics
-
+    config, log = initialize_run()
+    task_parse_linkedin(config, log)
 
 

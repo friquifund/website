@@ -25,7 +25,7 @@ class Sleep:
 
     @staticmethod
     def extra_long():
-        time.sleep(random.uniform(3.5, 5.1))
+        time.sleep(random.uniform(10.5, 20.1))
 
 
 def get_driver_plain() -> webdriver:

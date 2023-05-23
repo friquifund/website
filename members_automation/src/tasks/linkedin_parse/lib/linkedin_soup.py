@@ -23,11 +23,11 @@ def parse_profile_multiple(df_profiles: pd.DataFrame, proxy_url: str, list_proxy
         dict_profile = profile._asdict()
         dict_profile.pop("Index")
         profile_name = profile.name
-        profile_url = commons.normalize_url(profile.linkedin)
+        profile_url = profile.linkedin
 
         log.info(f"Parsing {profile_name}: Start")
+        picfile = commons.get_picfile_name(profile_url)
         try:
-            picfile = commons.get_picfile_name(profile_url)
             current_role, profile_picture = parse_profile_single(profile_url, proxy_url, list_proxy_api_keys)
 
             dict_pictures[profile_name] = {

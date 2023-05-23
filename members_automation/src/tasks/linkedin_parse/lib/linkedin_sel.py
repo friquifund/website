@@ -5,6 +5,7 @@ import requests
 from selenium.webdriver.common.by import By
 from urllib.parse import urljoin, urlsplit
 from datetime import datetime
+import src.tasks.linkedin_parse.lib.commons as commons
 
 from src.utils.chrome import Sleep, get_driver, kill_driver
 
@@ -43,45 +44,43 @@ class Linkedin:
         df_exceptions = pd.DataFrame(columns=["name", "error"])
         date_today = datetime.now().strftime("%Y-%m-%d")
 
-        for _, profile in df_eligible.iterrows():
-            profile_url = profile["linkedin"]
-            profile_name = profile["name"]
+        for profile in df_eligible.itertuples():
+            dict_profile = profile._asdict()
+            dict_profile.pop("Index")
+            profile_url = profile.linkedin
+            profile_name = profile.name
             log.info(f"Parsing {profile_name}: Start")
+            picfile = commons.get_picfile_name(profile_url)
             try:
-                df_profile = self.parse_profile(profile_url)
-                df_profile["name"] = profile_name
-                df_profile["last_updated"] = date_today
-                list_users.append(df_profile)
+
+                current_role, profile_picture = self.parse_profile_single(profile_url)
+                dict_profile["title"] = current_role
+                dict_profile["last_updated"] = date_today
 
                 dict_pictures[profile_name] = {
                     "picture_data": self.download_profile_picture(),
-                    "picfile": df_profile["picfile"].values[0]}
+                    "picfile": picfile}
 
             except Exception as e:
                 df_exceptions = df_exceptions.append({"name": profile_name, "error": str(e)}, ignore_index=True)
             log.info(f"Parsing {profile_name}: End")
 
-        df_team = pd.concat(list_users)
+        df_team = pd.DataFrame(list_users)
         return df_team, dict_pictures, df_exceptions
 
-    def parse_profile(self, url: str) -> pd.DataFrame:
+    def parse_profile_single(self, url: str) -> pd.DataFrame:
 
-        normalized_url = self.normalize_url(url)
-        dict_profile = dict()
-        dict_profile["linkedin"] = [normalized_url]
-
-        self.driver.get(normalized_url)
-        log.info(f"URL {normalized_url} loaded")
-        Sleep.long()
+        self.driver.get(url)
+        log.info(f"URL {url} loaded")
+        Sleep.extra_long()
 
         current_role = self.get_current_role()
-        dict_profile["title"] = [current_role]
-        log.info(f"Role {current_role} parsed")
+        log.debug(f"Role {current_role} parsed")
 
-        dict_profile["picfile"] = [self.get_picfile_name(normalized_url)]
+        profile_picture = self.download_profile_picture()
+        log.debug("Downloaded profile picture")
 
-        df_profile = pd.DataFrame(dict_profile)
-        return df_profile
+        return current_role, profile_picture
 
     @staticmethod
     def get_picfile_name(url):
