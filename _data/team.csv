@@ -1,4 +1,4 @@
-id_member,leadership,city,linkedin,name,picfile,title,last_updated
+id_member,leadership,city,LinkedIn,name,picfile,title,last_updated
 1,1,Barcelona,https://www.linkedin.com/in/hugozaragoza/,Hugo Zaragoza Ballester,Hugo-Zaragoza,"Principal Applied Scientist, Amazon",
 2,1,Barcelona,https://www.linkedin.com/in/nathalie-vento-16088847/,Nathalie Vento,Nathalie-Vento,Head of MarketingHead at HOORYA,
 3,0,A Coruña,https://www.linkedin.com/in/roi-blanco-2b00588/,Roi Blanco González,Roi-Blanco,Principal Scientist at Amazon,
@@ -175,3 +175,4 @@ id_member,leadership,city,linkedin,name,picfile,title,last_updated
 174,0,Barcelona,https://www.linkedin.com/in/pasqualbatalla/,Pasqual Batalla,,COO at Socialpoint,
 175,0,Barcelona,https://www.linkedin.com/in/jsalom/,Josep Salom,,"Data, Engineering & IT Operations executive • Digital Transformation • Business Strategy",
 176,0,Barcelona,https://www.linkedin.com/in/jsalom/dmartinarc,Diego Martín,,,
+>>>>>>> main,,,,,,,

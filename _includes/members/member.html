@@ -1,15 +1,30 @@
 <div class="team-member ff-team-member">
-    {% if include.person.linkedin %}
-    <a href="{{ include.person.linkedin }}" target="_blank">
-        <img class="mx-auto rounded-circle" src="/pics/{{ include.person.picfile }}.jpeg" alt="">
+    <a
+        {% if include.person.linkedin %}
+        href="{{ include.person.linkedin }}"
+        target="_blank"
+        {% endif %}
+    >
+        <!-- Select field to use as picture file name -->
+        {% if include.person.picfile %}
+        {% assign pic_filename = include.person.picfile  %}
+        {% elsif include.person.name %}
+        {% assign pic_filename = include.person.name | replace: " ", "-"  %}
+        {% endif %}
+        <!-- Build picture path -->
+        {% assign pic_filepath = pic_filename | prepend: "/pics/" | append: ".jpeg" %}
+        <!-- Search the built path into the static_files array -->
+        {% assign pic_file = site.static_files | where: "path", pic_filepath %}
+        <!-- Use picture file only if it exists -->
+        {% if pic_file.size != 0 %}
+        <img class="mx-auto rounded-circle" src="{{ pic_filepath }}" alt="{{ pic_filename }}">
+        {% else %}
+        <img class="mx-auto rounded-circle" src="/pics/noface.jpeg" alt="{{ pic_filename }}">
+        {% endif %}
         <!--i class="fab fa-linkedin-in"></i-->
         <br />
         <b>{{ include.person.name }}</b>
     </a>
-    {% else %}
-    <img class="mx-auto rounded-circle" src="/pics/noface.jpeg" alt="">
-    <b>{{ include.person.name }}</b>
-    {% endif %}
     <p class="text-muted ff-team-member-p" ><em>{{ include.person.title }}</em></p>
-    <p class="text-muted ff-team-member-p ">{{ include.person.city}}</p>
+    <p class="text-muted ff-team-member-p ">{{ include.person.city }}</p>
 </div>
