@@ -1,7 +1,7 @@
 # This file is to locally test the jekyll website inside a docker container, to do so docker is the only
 # software dependency you need on your laptop, assuming yo have it, you can then run the following commands from
 #the repo root folder:
-# docker build --platform=linux/amd64 -t frikiwebsite
+# docker build --platform=linux/amd64 -t frikiwebsite .
 # docker run -p 4000:4000 --platform=linux/amd64 frikiwebsite
 # Then go to localhost:4000
 
