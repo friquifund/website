@@ -1,9 +1,11 @@
 spreadsheet_members:
   rename:
+    "In Web Page": in_web_page
     "Membership Number": id_member
     leadership: leadership
     LinkedIn: linkedin
     Name: name
     picfile: picfile
+    status: status
   recast:
     linkedin: str

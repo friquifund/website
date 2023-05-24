@@ -11,6 +11,10 @@ class Gspread:
     def read_spreadsheet(self, url: str, columns: List[str] = None) -> pd.DataFrame:
         records = self.gc.open_by_url(url).get_worksheet(0).get_all_values()
 
+        if columns is None:
+            columns = [records[0][i] for i in range(len(records[0]))]
+            columns = [x for x in columns if x != ""]
+
         cols_index = [index for index, value in enumerate(records[0]) if value in set(columns)]
 
         data_values = [[row[i] for i in cols_index] for row in records[1:]]

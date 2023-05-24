@@ -12,7 +12,7 @@ FriquiFund currently has {{ site.data.team.size }} members. Most of them are peo
 
 <div class="layout_members">
     {% for person in site.data.team %}
-    {% if person["In Web Page"] != "NO" and person.status == "1" %}
+    {% if person["in_web_page"] != "NO" and person.status == "1" %}
     {% include members/member.html person=person %}
     {% endif %}
     {% endfor %}
@@ -22,7 +22,7 @@ FriquiFund currently has {{ site.data.team.size }} members. Most of them are peo
 
 <div class="layout_members">
     {% for person in site.data.team %}
-    {% if person["In Web Page"] != "NO" and person.status == "0" %}
+    {% if person["in_web_page"] != "NO" and person.status == "0" %}
     {% include members/member.html person=person %}
     {% endif %}
     {% endfor %}

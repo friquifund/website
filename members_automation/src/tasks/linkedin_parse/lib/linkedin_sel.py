@@ -54,7 +54,7 @@ class Linkedin:
             try:
 
                 current_role, profile_picture = self.parse_profile_single(profile_url)
-                dict_profile["title"] = current_role
+                dict_profile["Title"] = current_role
                 dict_profile["last_updated"] = date_today
 
                 dict_pictures[profile_name] = {

@@ -38,7 +38,7 @@ def task_parse_linkedin(config, log):
         df_csv_web,
         config.parameters.max_profiles_update)
     profiles_specific = ["David Bofill", "Andreu Mayo", "Martí Mayo Casademont", "Hugo Zaragoza Ballester"]
-    #profiles_specific = ["Roger Frigola"]
+    #profiles_specific = ["Hugo Zaragoza Ballester"]
     df_eligible = df_eligible[df_eligible["name"].isin(profiles_specific)]
     if df_eligible.shape[0] == 0:
         log.warning(

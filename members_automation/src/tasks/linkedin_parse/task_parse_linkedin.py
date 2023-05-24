@@ -17,12 +17,12 @@ def task_parse_linkedin(config, log):
     gc = Gspread(config.credentials.google)
     df_spreadsheet_members = gc.read_spreadsheet(
         url=config.datasets.spreadsheet_members,
-        columns=["LinkedIn", "Name", "picfile"]
+        columns=["LinkedIn", "Name", "In Web Page", "status"]
     )
     # Read team data output file, we read it to understand what was the last update date
     df_csv_web = load_in_memory(config.datasets.csv_web)
 
-    df_spreadsheet_members = preprocess_members(df_spreadsheet_members, config.preprocess.spreadsheet_members.rename)
+    df_spreadsheet_members = preprocess_members(df_spreadsheet_members)
 
     df_csv_web = preprocess_csv_web(df_csv_web)
     # Get profiles eligible for update
@@ -31,6 +31,9 @@ def task_parse_linkedin(config, log):
         df_spreadsheet_members,
         df_csv_web,
         config.parameters.max_profiles_update)
+    #profiles_specific = ["David Bofill", "Andreu Mayo", "Martí Mayo Casademont", "Hugo Zaragoza Ballester"]
+    profiles_specific = ["Hugo Zaragoza Ballester"]
+    df_eligible = df_eligible[df_eligible["name"].isin(profiles_specific)]
 
     if df_eligible.shape[0] == 0:
         log.warning(
