@@ -8,8 +8,8 @@
         <!-- Select field to use as picture file name -->
         {% if include.person.picfile %}
         {% assign pic_filename = include.person.picfile  %}
-        {% elsif include.person.name %}
-        {% assign pic_filename = include.person.name | replace: " ", "-"  %}
+        {% elsif include.person.Name %}
+        {% assign pic_filename = include.person.Name | replace: " ", "-"  %}
         {% endif %}
         <!-- Build picture path -->
         {% assign pic_filepath = pic_filename | prepend: "/pics/" | append: ".jpeg" %}
@@ -25,6 +25,6 @@
         <br />
         <b>{{ include.person.Name }}</b>
     </a>
-    <p class="text-muted ff-team-member-p" ><em>{{ include.person.title }}</em></p>
-    <p class="text-muted ff-team-member-p ">{{ include.person.city }}</p>
+    <p class="text-muted ff-team-member-p" ><em>{{ include.person.Title }}</em></p>
+    <p class="text-muted ff-team-member-p ">{{ include.person.City }}</p>
 </div>
