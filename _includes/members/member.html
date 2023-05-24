@@ -1,15 +1,15 @@
 <div class="team-member ff-team-member">
-    {% if include.person.LinkedIn %}
-    <a href="{{ include.person.LinkedIn }}" target="_blank">
+    {% if include.person.linkedin %}
+    <a href="{{ include.person.linkedin }}" target="_blank">
         <img class="mx-auto rounded-circle" src="/pics/{{ include.person.picfile }}.jpeg" alt="">
         <!--i class="fab fa-linkedin-in"></i-->
         <br />
-        <b>{{ include.person.Name }}</b>
+        <b>{{ include.person.name }}</b>
     </a>
     {% else %}
     <img class="mx-auto rounded-circle" src="/pics/noface.jpeg" alt="">
-    <b>{{ include.person.Name }}</b>
+    <b>{{ include.person.name }}</b>
     {% endif %}
-    <p class="text-muted ff-team-member-p" ><em>{{ include.person.Title }}</em></p>
-    <p class="text-muted ff-team-member-p ">{{ include.person.City}}</p>
+    <p class="text-muted ff-team-member-p" ><em>{{ include.person.title }}</em></p>
+    <p class="text-muted ff-team-member-p ">{{ include.person.city}}</p>
 </div>
