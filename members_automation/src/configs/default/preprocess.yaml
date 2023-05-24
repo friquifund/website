@@ -1,0 +1,9 @@
+spreadsheet_members:
+  rename:
+    "Membership Number": id_member
+    leadership: leadership
+    LinkedIn: linkedin
+    Name: name
+    picfile: picfile
+  recast:
+    linkedin: str

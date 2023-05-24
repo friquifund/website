@@ -1,12 +1,12 @@
 import os
 
+from src.tasks.linkedin_parse.lib.etl import preprocess_members, postprocess_web_data, preprocess_csv_web
 from src.tasks.linkedin_parse.lib.filter import get_eligible_profiles
 from src.tasks.linkedin_parse.lib.linkedin_sel import Linkedin
 from src.utils.connectors.gspreadsheets import Gspread
 from src.utils.datasets.load import load_in_memory
 from src.utils.datasets.save import save_to_disk
 from src.utils.initialization import initialize_run
-from src.tasks.linkedin_parse.lib.etl import preprocess_members, postprocess_web_data, preprocess_csv_web
 
 
 def task_parse_linkedin(config, log):
@@ -22,7 +22,7 @@ def task_parse_linkedin(config, log):
     # Read team data output file, we read it to understand what was the last update date
     df_csv_web = load_in_memory(config.datasets.csv_web)
 
-    df_spreadsheet_members = preprocess_members(df_spreadsheet_members)
+    df_spreadsheet_members = preprocess_members(df_spreadsheet_members, config.preprocess.spreadsheet_members.rename)
 
     df_csv_web = preprocess_csv_web(df_csv_web)
     # Get profiles eligible for update
@@ -31,9 +31,7 @@ def task_parse_linkedin(config, log):
         df_spreadsheet_members,
         df_csv_web,
         config.parameters.max_profiles_update)
-    profiles_specific = ["David Bofill", "Andreu Mayo", "Martí Mayo Casademont", "Hugo Zaragoza Ballester"]
-    #profiles_specific = ["Roger Frigola"]
-    df_eligible = df_eligible[df_eligible["name"].isin(profiles_specific)]
+
     if df_eligible.shape[0] == 0:
         log.warning(
             "No profiles are eligible for update, "
@@ -65,15 +63,4 @@ def task_parse_linkedin(config, log):
 if __name__ == "__main__":
     config, log = initialize_run()
     task_parse_linkedin(config, log)
-
-    # Crear conta alternativa de linkedin i provar de fer el parsing
-
-    # Step 1, Create file in google drive that will be empty
-    # Process will take data from manual file and completely paste it into web_profiles
-    # Process will fill profiles that don't have picfile or position or are last updated and get picture and role
-    # Step 1 - Find profiles without picfile
-    # Update el fitxer per a que nomes contingui la informacio que ens interessa
-    # Opcio 2 - Actualitzar perfils antics
-
-
 

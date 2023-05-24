@@ -9,7 +9,6 @@ log = logging.getLogger(__name__)
 def get_picfile_name(url):
     picfile = url.replace("https://www.linkedin.com/in/", "")
     picfile = picfile.replace("/", "")
-    picfile = f"{picfile}.jpeg"
     return picfile
 
 
