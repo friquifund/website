@@ -105,8 +105,10 @@ def get_profile_picture(profile_url, nubela_api_key):
     header_dic = {"Authorization": "Bearer " + nubela_api_key}
     params = {"linkedin_person_profile_url": profile_url}
     response = requests.get(api_endpoint, params=params, headers=header_dic)
+    Sleep.short()
     pic_url = response.json()["tmp_profile_pic_url"]
     image_data = requests.get(pic_url).content
+    Sleep.short()
     return image_data
 
 

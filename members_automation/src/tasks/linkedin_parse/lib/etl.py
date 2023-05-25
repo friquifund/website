@@ -13,11 +13,15 @@ def preprocess_members(df_spreadsheet_members: pd.DataFrame) -> pd.DataFrame:
     df["Name"] = df["Name"].str.title()
     df["LinkedIn"] = update_url(df["LinkedIn"])
 
+    df = df[df.columns[~df.columns.str.contains("Unnamed")]]
+
     return df
 
 
 def postprocess_web_data(df_csv_web: pd.DataFrame, df_team_parsed: pd.DataFrame) -> pd.DataFrame:
 
+    df_team_parsed["Title"] = df_team_parsed["Title"].str.replace("-", "|")
+    df_team_parsed["Title"] = df_team_parsed["Title"].str.split("|").str[1:].str.join("|").str.replace("linkedin", "")
     df_team = pd.concat([df_csv_web[~df_csv_web["LinkedIn"].isin(df_team_parsed["LinkedIn"])], df_team_parsed], axis=0)
     df_team = df_team.sort_values("Membership Number", ascending=True)
     #df_team["leadership"] = int(0)
@@ -52,5 +56,7 @@ def preprocess_csv_web(df_csv_web: pd.DataFrame):
 
     df_csv_web.loc[df_csv_web["last_updated"].isna(), "last_updated"] = df_csv_web["timestamp_creation"]
     df_csv_web = df_csv_web.drop(columns="timestamp_creation")
+
+    df_csv_web = df_csv_web[df_csv_web.columns[~df_csv_web.columns.str.contains("Unnamed")]]
 
     return df_csv_web
