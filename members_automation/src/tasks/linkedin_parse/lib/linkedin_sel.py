@@ -24,8 +24,11 @@ class Linkedin:
     def login(self):
 
         if self.element_exists(self.html_structure.login.cookies):
-            self.driver.find_element(By.XPATH, self.html_structure.login.cookies).click()
-            Sleep.med()
+            try:
+                self.driver.find_element(By.XPATH, self.html_structure.login.cookies).click()
+                Sleep.med()
+            except Exception as e:
+                log.warning(e)
         if self.element_exists(self.html_structure.login.user):
             self.driver.find_element(By.XPATH, self.html_structure.login.user).send_keys(self.username)
             self.driver.find_element(By.XPATH, self.html_structure.login.password).send_keys(self.password)
@@ -41,14 +44,14 @@ class Linkedin:
     def parse_profile_multiple(self, df_eligible: pd.DataFrame) -> Tuple[pd.DataFrame, Dict, pd.DataFrame]:
         dict_pictures = {}
         list_users = list()
-        df_exceptions = pd.DataFrame(columns=["name", "error"])
+        df_exceptions = pd.DataFrame(columns=["Name", "error"])
         date_today = datetime.now().strftime("%Y-%m-%d")
 
         for profile in df_eligible.itertuples():
             dict_profile = profile._asdict()
             dict_profile.pop("Index")
-            profile_url = profile.linkedin
-            profile_name = profile.name
+            profile_url = profile.LinkedIn
+            profile_name = profile.Name
             log.info(f"Parsing {profile_name}: Start")
             picfile = commons.get_picfile_name(profile_url)
             try:
@@ -62,7 +65,7 @@ class Linkedin:
                     "picfile": picfile}
 
             except Exception as e:
-                df_exceptions = df_exceptions.append({"name": profile_name, "error": str(e)}, ignore_index=True)
+                df_exceptions = df_exceptions.append({"Name": profile_name, "error": str(e)}, ignore_index=True)
             log.info(f"Parsing {profile_name}: End")
 
         df_team = pd.DataFrame(list_users)

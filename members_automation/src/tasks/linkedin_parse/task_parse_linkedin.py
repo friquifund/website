@@ -32,8 +32,8 @@ def task_parse_linkedin(config, log):
         df_csv_web,
         config.parameters.max_profiles_update)
     #profiles_specific = ["David Bofill", "Andreu Mayo", "Martí Mayo Casademont", "Hugo Zaragoza Ballester"]
-    profiles_specific = ["Hugo Zaragoza Ballester"]
-    df_eligible = df_eligible[df_eligible["name"].isin(profiles_specific)]
+    profiles_specific = ["Diego Gruber"]
+    df_eligible = df_eligible[df_eligible["Name"].isin(profiles_specific)]
 
     if df_eligible.shape[0] == 0:
         log.warning(
@@ -51,7 +51,7 @@ def task_parse_linkedin(config, log):
     log.info("Parsing: End")
 
     # Postprocess output
-    df_team_output = postprocess_web_data(df_csv_web, df_team_parsed, config.parameters.leadership_members)
+    df_team_output = postprocess_web_data(df_csv_web, df_team_parsed)
 
     log.info("Saving: Start")
     # Update original csv
