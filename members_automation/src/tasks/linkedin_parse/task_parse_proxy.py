@@ -64,7 +64,7 @@ def task_parse_linkedin(config, log):
 
     # Save pictures
     for key, picture in dict_pictures.items():
-        save_to_disk(picture["picture_data"], os.path.join(config.datasets.image_folder, picture["picfile"]))
+        save_to_disk(picture["picture_data"], os.path.join(config.datasets.image_folder, f"{picture['picfile']}.jpeg"))
     log.info("Saving: End")
 
 

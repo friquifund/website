@@ -21,7 +21,7 @@ class Sleep:
 
     @staticmethod
     def long():
-        time.sleep(random.uniform(2.5, 3.1))
+        time.sleep(random.uniform(5, 7))
 
     @staticmethod
     def extra_long():

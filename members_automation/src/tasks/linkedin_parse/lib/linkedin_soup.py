@@ -9,6 +9,7 @@ import requests
 from typing import List
 from serpapi import GoogleSearch
 import pandas as pd
+from src.utils.chrome import Sleep
 
 log = logging.getLogger(__name__)
 
@@ -63,7 +64,7 @@ def parse_profile_single(
     #html_doc = download_html(profile_url, proxy_url, list_scrapeops_api_keys)
 
     #html_soup = BeautifulSoup(html_doc, features="lxml")
-
+    Sleep.long()
     current_role = get_role_from_google(profile_url, serapi_api_key)
     log.debug("Parsed current role")
 
