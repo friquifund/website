@@ -1,5 +1,5 @@
 update_frequency_months: 10
-max_profiles_update: 20
+max_profiles_update: 5
 
 leadership_members:
   - "Hugo Zaragoza Ballester"
