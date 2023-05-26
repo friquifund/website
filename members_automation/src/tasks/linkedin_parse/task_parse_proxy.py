@@ -1,5 +1,4 @@
 import os
-from pathlib import Path
 
 from src.tasks.linkedin_parse.lib.filter import get_eligible_profiles
 from src.tasks.linkedin_parse.lib.linkedin_soup import parse_profile_multiple
@@ -37,8 +36,8 @@ def task_parse_linkedin(config, log):
         df_csv_web,
         config.parameters.max_profiles_update)
     #profiles_specific = ["David Bofill", "Andreu Mayo", "Martí Mayo Casademont", "Hugo Zaragoza Ballester"]
-    #profiles_specific = ["Jordi Plana"]
-    #df_eligible = df_eligible[df_eligible["Name"].isin(profiles_specific)]
+    profiles_specific = "Ariadna Font"
+    df_eligible = df_eligible[df_eligible["Name"].str.contains(profiles_specific)]
     if df_eligible.shape[0] == 0:
         log.warning(
             "No profiles are eligible for update, "
@@ -59,14 +58,15 @@ def task_parse_linkedin(config, log):
     df_team_output = postprocess_web_data(df_csv_web, df_team_parsed)
 
     log.info("Saving: Start")
-    # Update original csv
-    save_to_disk(df_team_output, config.datasets.csv_web)
-
     # Save pictures
     for key, picture in dict_pictures.items():
         path_picfile = os.path.join(config.datasets.image_folder, f"{picture['picfile']}.jpeg")
-        if not os.path.exists(path_picfile) and len(picture) > 0:
-            save_to_disk(picture["picture_data"], path_picfile)
+        picture_content = picture["picture_data"]
+        if not os.path.exists(path_picfile) and len(picture) > 0 and not picture_content.startswith(b"<svg xmlns="):
+            save_to_disk(picture_content, path_picfile)
+
+    # Update original csv
+    save_to_disk(df_team_output, config.datasets.csv_web)
     log.info("Saving: End")
 
 
