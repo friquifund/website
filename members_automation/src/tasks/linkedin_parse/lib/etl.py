@@ -54,6 +54,4 @@ def postprocess_web_data(df_csv_web: pd.DataFrame, df_team_parsed: pd.DataFrame)
     df_team_parsed["Title"] = df_team_parsed["Title"].str.split("|").str[1:].str.join("|").str.replace("linkedin", "")
     df_team = pd.concat([df_csv_web[~df_csv_web["LinkedIn"].isin(df_team_parsed["LinkedIn"])], df_team_parsed], axis=0)
     df_team = df_team.sort_values("Membership Number", ascending=True)
-    #df_team["leadership"] = int(0)
-    #df_team.loc[df_team["name"].isin(leadership_members), "leadership"] = int(1)
     return df_team
