@@ -24,12 +24,10 @@ def parse_profile_multiple(
     df_exceptions = pd.DataFrame(columns=["Name", "error"])
     date_today = datetime.now().strftime("%Y-%m-%d")
 
-    for profile in df_profiles.itertuples():
+    for _, profile in df_profiles.iterrows():
 
-        dict_profile = profile._asdict()
-        dict_profile.pop("Index")
-        profile_name = profile.Name
-        profile_url = profile.LinkedIn
+        profile_name = profile["Name"]
+        profile_url = profile["LinkedIn"]
 
         log.info(f"Parsing {profile_name}: Start")
         picfile = commons.get_picfile_name(profile_name)
@@ -43,9 +41,9 @@ def parse_profile_multiple(
                 "picture_data": profile_picture,
                 "picfile": picfile}
 
-            dict_profile["Title"] = current_role
-            dict_profile["last_updated"] = date_today
-            list_users.append(dict_profile)
+            profile["Title"] = current_role
+            profile["last_updated"] = date_today
+            list_users.append(profile)
         except Exception as e:
             log.info("Unauthorized")
             df_exceptions = df_exceptions.append({"Name": profile_name, "error": str(e)}, ignore_index=True)

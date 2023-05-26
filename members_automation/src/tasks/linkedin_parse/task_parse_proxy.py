@@ -36,8 +36,8 @@ def task_parse_linkedin(config, log):
         df_csv_web,
         config.parameters.max_profiles_update)
     #profiles_specific = ["David Bofill", "Andreu Mayo", "Martí Mayo Casademont", "Hugo Zaragoza Ballester"]
-    profiles_specific = "Ariadna Font"
-    df_eligible = df_eligible[df_eligible["Name"].str.contains(profiles_specific)]
+    #profiles_specific = "Ariadna Font"
+    #df_eligible = df_eligible[df_eligible["Name"].str.contains(profiles_specific)]
     if df_eligible.shape[0] == 0:
         log.warning(
             "No profiles are eligible for update, "
