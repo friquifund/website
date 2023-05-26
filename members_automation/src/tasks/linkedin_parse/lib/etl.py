@@ -4,7 +4,7 @@ from typing import List
 
 def preprocess_members(df_spreadsheet_members: pd.DataFrame) -> pd.DataFrame:
 
-    df = df_spreadsheet_members.copy()#.rename(columns=dict_rename, inplace=False)
+    df = df_spreadsheet_members.copy()
     df.loc[df["Name"] == "", "Name"] = pd.NA
     df = df[~df["Name"].isna()]
 
