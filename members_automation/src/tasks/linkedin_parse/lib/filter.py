@@ -16,6 +16,6 @@ def get_eligible_profiles(
     df = df[df["top_profiles"]]
     #df = df.sort_values(by=["top_profiles", "last_updated"], ascending=[False, True])
     df = df.drop("top_profiles", axis=1)
-    df = df.head(max_profiles_update)
+    #df = df.head(max_profiles_update)
 
     return df

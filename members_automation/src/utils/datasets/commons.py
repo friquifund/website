@@ -142,3 +142,20 @@ def file_exists(filepath: str) -> bool:
         return file_exists_in_bucket(filepath)
     else:
         return os.path.isfile(filepath)
+
+
+def load_image(filepath: str, **kwargs) -> None:
+    """
+
+    Parameters
+    ----------
+    filepath
+    kwargs
+
+    Returns
+    -------
+
+    """
+    with open(filepath, "rb") as f:
+        f.read()
+    return None

@@ -3,9 +3,9 @@ from typing import Any, Dict
 
 import pandas as pd
 from box import BoxList
-import gspread
 
-from src.utils.datasets.commons import check_if_single_node, get_file_extension, file_exists, load_txt
+from src.utils.datasets.commons import check_if_single_node, get_file_extension, file_exists, load_txt, load_json, \
+    load_pickle, load_image
 
 log = logging.getLogger(__name__)
 
@@ -73,7 +73,6 @@ def get_single_node_functions() -> dict:
     -------
 
     """
-    from src.utils.datasets.commons import load_json, load_pickle
 
     function_map = {
         "parquet": pd.read_parquet,
@@ -82,7 +81,8 @@ def get_single_node_functions() -> dict:
         "json": load_json,
         "xlsx": pd.read_excel,
         "pkl": load_pickle,
-        "txt": load_txt
+        "txt": load_txt,
+        "jpeg": load_image
     }
     return function_map
 
