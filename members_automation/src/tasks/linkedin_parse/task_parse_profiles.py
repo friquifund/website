@@ -19,10 +19,6 @@ def task_parse_linkedin(config, log):
         url=config.datasets.spreadsheet_members,
         columns=["LinkedIn", "Name", "In Web Page", "status"]
     )
-    list_proxy_api_keys = list(gc.read_spreadsheet(
-        url=config.datasets.spreadsheet_api,
-        columns=["api_key_id"])["api_key_id"])
-
     # Read team data output file, we read it to understand what was the last update date
     df_csv_web = load_in_memory(config.datasets.csv_web)
     log.info("Loading: End")
