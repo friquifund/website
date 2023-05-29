@@ -232,3 +232,9 @@ def cross_join(df1: pd.DataFrame, df2: pd.DataFrame) -> pd.DataFrame:
     df = df1.merge(df2, on="key", how="outer")
     df = df.drop(columns="key")
     return df
+
+
+def transform_float_to_ints(df: pd.DataFrame) -> pd.DataFrame:
+    float_columns = df.select_dtypes(include=["float"]).columns
+    df[float_columns] = df[float_columns].astype(int)
+    return df

@@ -133,4 +133,6 @@ def get_url_tail(url):
     split_result = urlsplit(url)
     path = split_result.path.rstrip("/")
     tail = path.split("/")[-1]
+    tail = tail.replace(" | LinkedIn", "")
+    tail = tail.replace(",", "")
     return tail

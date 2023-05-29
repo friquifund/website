@@ -1,4 +1,6 @@
 import pandas as pd
+from src.utils.pandas.transformations import transform_float_to_ints
+
 from typing import List
 
 
@@ -54,4 +56,6 @@ def postprocess_web_data(df_csv_web: pd.DataFrame, df_team_parsed: pd.DataFrame)
     df_team_parsed["Title"] = df_team_parsed["Title"].str.split("|").str[1:].str.join("|").str.replace("linkedin", "")
     df_team = pd.concat([df_csv_web[~df_csv_web["LinkedIn"].isin(df_team_parsed["LinkedIn"])], df_team_parsed], axis=0)
     df_team = df_team.sort_values("Membership Number", ascending=True)
+
+    df_team = transform_float_to_ints(df_team)
     return df_team
