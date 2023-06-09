@@ -4,9 +4,7 @@ import src.tasks.linkedin_parse.lib.commons as commons
 from typing import Dict, Tuple
 import urllib.request
 from urllib.parse import urlsplit
-from bs4 import BeautifulSoup
 import requests
-from typing import List
 from serpapi import GoogleSearch
 import pandas as pd
 from src.utils.chrome import Sleep

@@ -4,7 +4,7 @@ import click
 
 
 @click.command()
-@click.option("--task_name", type=str)
+@click.option("--task_name", type=str, help="Task name to execute")
 def run(task_name: str):
     """
     This is the main entry point of the project, a wrapper function that runs a specific task called under string and

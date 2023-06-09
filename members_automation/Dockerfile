@@ -1,5 +1,5 @@
 # docker build -t scraper .
-# docker run scraper python entrypoint_bash --task_name task_parse_profiles
+# docker run scraper python entrypoint_bash.py --task_name task_parse_profiles
 FROM python:3.10
 
 # Copy source code

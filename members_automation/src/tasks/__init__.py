@@ -1,1 +1,2 @@
 from .linkedin_parse.task_parse_linkedin import task_parse_linkedin
+from .linkedin_parse.task_parse_profiles import task_parse_profiles

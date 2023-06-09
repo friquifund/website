@@ -9,7 +9,7 @@ from src.utils.initialization import initialize_run
 from src.tasks.linkedin_parse.lib.etl import preprocess_members, postprocess_web_data, preprocess_csv_web
 
 
-def task_parse_linkedin(config, log):
+def task_parse_profiles(config, log):
 
     # Load raw data
     log.info("Loading: Start")
@@ -20,7 +20,8 @@ def task_parse_linkedin(config, log):
         columns=["LinkedIn", "Name", "In Web Page", "status"]
     )
     # Read team data output file, we read it to understand what was the last update date
-    df_csv_web = load_in_memory(config.datasets.csv_web)
+    if os.path.exists(config.datasets.csv_web):
+        df_csv_web = load_in_memory(config.datasets.csv_web)
     log.info("Loading: End")
 
     df_spreadsheet_members = preprocess_members(df_spreadsheet_members)
@@ -75,6 +76,6 @@ if __name__ == "__main__":
     # Update el fitxer per a que nomes contingui la informacio que ens interessa
     # Opcio 2 - Actualitzar perfils antics
     config, log = initialize_run()
-    task_parse_linkedin(config, log)
+    task_parse_profiles(config, log)
 
 
