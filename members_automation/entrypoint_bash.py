@@ -12,8 +12,6 @@ def run(task_name: str):
     Parameters
     ----------
     task_name: main that will be called by the run function
-    config: path for the config of the pipeline
-    log: path of the log for the pipeline
 
     Returns Nothing
     -------

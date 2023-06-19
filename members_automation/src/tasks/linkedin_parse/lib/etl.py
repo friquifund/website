@@ -1,8 +1,6 @@
 import pandas as pd
 from src.utils.pandas.transformations import transform_float_to_ints
 
-from typing import List
-
 
 def preprocess_members(df_spreadsheet_members: pd.DataFrame) -> pd.DataFrame:
 
@@ -14,6 +12,8 @@ def preprocess_members(df_spreadsheet_members: pd.DataFrame) -> pd.DataFrame:
     df["LinkedIn"] = clean_url(df["LinkedIn"])
 
     df = df[df.columns[~df.columns.str.contains("Unnamed")]]
+
+    df = transform_float_to_ints(df)
 
     return df
 
@@ -47,15 +47,21 @@ def preprocess_csv_web(df_csv_web: pd.DataFrame):
 
     df_csv_web = df_csv_web[df_csv_web.columns[~df_csv_web.columns.str.contains("Unnamed")]]
 
+    df_csv_web = transform_float_to_ints(df_csv_web)
+
     return df_csv_web
 
 
-def postprocess_web_data(df_csv_web: pd.DataFrame, df_team_parsed: pd.DataFrame) -> pd.DataFrame:
+def postprocess_web_data(df_team_parsed: pd.DataFrame) -> pd.DataFrame:
 
     df_team_parsed["Title"] = df_team_parsed["Title"].str.replace("-", "|")
-    df_team_parsed["Title"] = df_team_parsed["Title"].str.split("|").str[1:].str.join("|").str.replace("linkedin", "")
+    df_team_parsed["Title"] = df_team_parsed["Title"].str.split("|").str[1:].str.join("|").str.replace("Linkedin", "")
+
+    return df_team_parsed
+
+
+def append_new_profiles(df_csv_web: pd.DataFrame, df_team_parsed: pd.DataFrame):
+
     df_team = pd.concat([df_csv_web[~df_csv_web["LinkedIn"].isin(df_team_parsed["LinkedIn"])], df_team_parsed], axis=0)
     df_team = df_team.sort_values("Membership Number", ascending=True)
-
-    df_team = transform_float_to_ints(df_team)
     return df_team

@@ -56,10 +56,6 @@ def parse_profile_single(
         nubela_api_key,
         serapi_api_key) -> Tuple[str, bytes]:
     # "https://proxy.scrapeops.io/v1/?api_key=912a36cb-f7af-4563-ada0-0d6147802579&url=https://www.linkedin.com/in/david-bofill-pages/"
-
-    #html_doc = download_html(profile_url, proxy_url, list_scrapeops_api_keys)
-
-    #html_soup = BeautifulSoup(html_doc, features="lxml")
     Sleep.extra_long()
     current_role = get_role_from_google(profile_url, serapi_api_key)
     log.debug("Parsed current role")
@@ -105,6 +101,9 @@ def get_profile_picture(profile_url, nubela_api_key):
     pic_url = response.json()["tmp_profile_pic_url"]
     image_data = requests.get(pic_url).content
     Sleep.short()
+    # Sometimes the Api finds an xml but doesnt contain picture
+    if image_data.startswith(b"<svg xmlns="):
+        raise Exception("Image not found")
     return image_data
 
 

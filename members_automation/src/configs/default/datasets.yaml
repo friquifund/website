@@ -2,6 +2,7 @@ project_paths:
   website_repo: !path [<< WEBSITE_REPO >>]
 
 csv_web: !path ["{datasets.project_paths.website_repo}", _data, team.csv]
+log_updates: !path ["{datasets.project_paths.website_repo}", _data, log_updates.csv]
 image_folder: !path ["{datasets.project_paths.website_repo}", pics]
 spreadsheet_members: << GOOGLE_MEMBERS_SPREADSHEET >>
 spreadsheet_api: << GOOGLE_PROXY_API_SPREADSHEET >>

@@ -6,7 +6,7 @@ from src.utils.connectors.gspreadsheets import Gspread
 from src.utils.datasets.load import load_in_memory
 from src.utils.datasets.save import save_to_disk
 from src.utils.initialization import initialize_run
-from src.tasks.linkedin_parse.lib.etl import preprocess_members, postprocess_web_data, preprocess_csv_web
+from src.tasks.linkedin_parse.lib.etl import preprocess_members, postprocess_web_data, preprocess_csv_web, append_new_profiles
 
 
 def task_parse_profiles(config, log):
@@ -50,18 +50,21 @@ def task_parse_profiles(config, log):
     log.info("Parsing: End")
 
     # Postprocess output
-    df_team_output = postprocess_web_data(df_csv_web, df_team_parsed)
+    df_team_parsed = postprocess_web_data(df_team_parsed)
+
+    df_team_output = append_new_profiles(df_csv_web, df_team_parsed)
 
     log.info("Saving: Start")
-    # Save pictures
+    # Save only pictures that didn't exist before
     for key, picture in dict_pictures.items():
         path_picfile = os.path.join(config.datasets.image_folder, f"{picture['picfile']}.jpeg")
         picture_content = picture["picture_data"]
-        if not os.path.exists(path_picfile) and len(picture) > 0 and not picture_content.startswith(b"<svg xmlns="):
+        if not os.path.exists(path_picfile) and len(picture) > 0:
             save_to_disk(picture_content, path_picfile)
 
     # Update original csv
     save_to_disk(df_team_output, config.datasets.csv_web)
+    save_to_disk(df_team_parsed[["Name", "picfile", "Title"]], config.datasets.log_updates)
     log.info("Saving: End")
 
 
