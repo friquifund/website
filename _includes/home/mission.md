@@ -1,6 +1,6 @@
 **Our Mission:** We support young underprivileged geeks in developing their careers. Geeks (Friqui in Spanish) here is understood in a very narrow sense as: “people interested in pursuing careers in STEM”. FriquiFund members are all professionals related to the STEM world, willing to donate time and money to our mission.
 
-**Our Approch:** We support NGOs which support young underprivileged geeks: with cash donations, networking (internships, scholarships, teachers, jobs), mentoring and any other way we may think of.
+**Our Approach:** We support NGOs which support young underprivileged geeks: with cash donations, networking (internships, scholarships, teachers, jobs), mentoring and any other way we may think of.
 
 **Ongoing Efforts:**
 
