@@ -8,7 +8,7 @@ title: Robotics for girls successfully launched at Escola Marinada in Montornés
 
 The robotics-for-girls' program by Scientia has been successfully launched at Escola Marinada in
 Montornés del Vallès. The little Codey Robots have been received with enthusiasm and curiosity in
-equal parts by the girls who engaged in the course, which will be proposing 1-hour challenges in
+equal parts by the 8-9 year old girls who engaged in the course, which will be proposing 1-hour challenges in
 computational thinking following a no-code icon-based approach. See below some quotes (in Catalan)
 and pictures from the students.
 
