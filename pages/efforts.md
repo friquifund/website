@@ -13,14 +13,11 @@ Our mission is to support young STEM students in need. This support is materiali
 FriquiFund was founded in 2019. At that time, there were and still are many well-structured organizations actively supporting young STEM students in need. We acknowledge their experience and collaborate with them through cash donations, so that they can improve or extend their support to even more people. By 2022, FriquiFund has donated {{ site.data.sitetext.total_donated }}. We are currently collaborating with the following NGOs.
 
 1. **<a href="https://www.aeiraval.org" target="_blank">AEIRaval</a>** (Associació Educativa Integral del Raval): Support vulnerable youngsters in Raval and other neighbourhoods in BCN in pursuing studies and finding initial jobs with both sponsorship of study-related costs and coaching.
-
-- **<a href="https://www.fundacioires.org/ca/que-fem/ecosistema-de-projectes/projecte-click" target="_blank">IRES</a>** (Click program): Support vulnerable youngsters in Sant Martí in BCN in pursuing tech studies and finding initial jobs with both sponsorship of study-related costs and coaching on social, psychological and educational topics.
-
-- **<a href="https://migracode.openculturalcenter.org" target="_blank">MigraCode</a>**: Code academy for refugees and migrants via a free 8-month bootcamp for web development or security & IT support.
-
-- **<a href="https://www.scientia.es/fundacion-scientia" target="_blank">Scientia</a>** (Girls Gems program): Robotics-for-kids program addressed to 8-to-12-year-old girls (and boys!) enrolled in highly-complex schools in the greater BCN.
-- **<a href="https://www.barcelonactua.org/" target="_blank">BarcelonaActua</a>**: Committed people who connect to help cover social needs in our neighborhoods.
-- **<a href="https://explorium.cat/" target="_blank">eXplorium</a>**: eXplorium promotes transversal learning of science, technology, engineering, and maths, through experimentation and gaming.
+1. **<a href="https://www.fundacioires.org/ca/que-fem/ecosistema-de-projectes/projecte-click" target="_blank">IRES</a>** (Click program): Support vulnerable youngsters in Sant Martí in BCN in pursuing tech studies and finding initial jobs with both sponsorship of study-related costs and coaching on social, psychological and educational topics.
+1. **<a href="https://migracode.openculturalcenter.org" target="_blank">MigraCode</a>**: Code academy for refugees and migrants via a free 8-month bootcamp for web development or security & IT support.
+1. **<a href="https://www.scientia.es/fundacion-scientia" target="_blank">Scientia</a>** (Girls Gems program): Robotics-for-kids program addressed to 8-to-12-year-old girls (and boys!) enrolled in highly-complex schools in the greater BCN.
+1. **<a href="https://www.barcelonactua.org/" target="_blank">BarcelonaActua</a>**: Committed people who connect to help cover social needs in our neighborhoods.
+1. **<a href="https://explorium.cat/" target="_blank">eXplorium</a>**: eXplorium promotes transversal learning of science, technology, engineering, and maths, through experimentation and gaming.
 
 
 ## Mentoring and Internships for young STEM students
