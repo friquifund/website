@@ -47,6 +47,10 @@ Here is a list of other related NGOs, programs and companies in this space that 
 
 **<a href="https://twitter.com/DataForGoodBCN" target="_blank">Data for Good Barcelona</a>**: We bring the expertise of data professionals to the service of NGOs to achieve positive social impact.
 
+**<a href="https://twitter.com/DataForGoodBCN" target="_blank">Data for Good Barcelona</a>**: We bring the expertise of data professionals to the service of NGOs to achieve positive social impact.
+
+**<a href="https://www.unicef.org/innovation/giga" target="_blank">Giga (Unicef, Office of Innovation)</a>**: Connecting Every School to the Internet.
+
 **<a href="https://fundacionesplai.org/" target="_blank">Fundació Esplai</a>**: Nuestra misión es la de promover el empoderamiento ciudadano y su compromiso con la mejora de la sociedad, desde la perspectiva de los derechos, la inclusión y la transformación social, con una especial dedicación a fomentar la participación de la juventud.  La llevamos a cabo mediante la intervención social comunitaria, la acción socioeducativa y la inclusión en el ámbito de las TIC trabajando en red con el Tercer Sector y el resto de agentes sociales.  
 
 **<a href="https://fundacionexit.org/?lang=en" target="_blank">Fundación Exit</a>**: The mission of Fundación Exit is to reduce the school dropout rates of at-risk youth by implementing scalable and innovative training projects that offer an itinerary and add value to companies while promoting networking and job placement.
