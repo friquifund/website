@@ -3,3 +3,4 @@
 _site/
 test/
 Gemfile.lock
+.DS_Store
