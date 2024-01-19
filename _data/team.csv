@@ -1,4 +1,5 @@
 team
+team;;;;;;;;;;;;;;;;;;;;;;;;;;
 Membership Number;Year;Start Date;;status;leadership;First Name;Second Name;;;;;;;LinkedIn;Can Share in Web;;;;In Email Group;In Web Page;;Name;picfile;Title;;
 1;2019;06-23;;1;1;Hugo;Zaragoza Ballester;;;;;;;https://www.linkedin.com/in/hugozaragoza/;Yes;;;;YES;YES;;Hugo Zaragoza Ballester;Hugo-Zaragoza;Principal Applied Scientist, Amazon;1;Hugo Zaragoza Ballester
 2;2019;06-23;;1;1;Nathalie;Vento;;;;;;;https://www.linkedin.com/in/nathalie-vento-16088847/;Yes;;;;YES;YES;;Nathalie Vento;Nathalie-Vento;Head of Marketing at HOORYA;2;Nathalie Vento
@@ -100,7 +101,7 @@ Membership Number;Year;Start Date;;status;leadership;First Name;Second Name;;;;;
 98;2022;04-29;;0;0;Germán;García;;;;;;;https://www.linkedin.com/in/gergf/;Yes;;;;YES;YES;;Germán García;Germán-García-Ferrando;Data Strategy Consultant @ BCG;98;Germán García
 99;2022;05-03;;0;0;Miguel;Picallo Cruz;;;;;;;https://www.linkedin.com/in/miguel-picallo-cruz/;Yes;;;;YES;YES;;Miguel Picallo Cruz;Miguel-Picallo-Cruz;Deployment Strategist - Data Scientist/Engineer;99;Miguel Picallo Cruz
 100;2022;05-04;;0;0;Andreu;Lazaro;;;;;;;https://www.linkedin.com/in/andreu-lazaro-715b0320/;Yes;;;;YES;YES;;Andreu Lazaro;Andreu-Lazaro;Associate Director at BCG GAMMA;100;Andreu Lazaro
-101;2022;05-04;;1;0;Andreu;Mayo;;;;;;;https://www.linkedin.com/in/andreu-mayo/;Yes;;;;YES;YES;;Andreu Mayo;Andreu-Mayo-Casademont;Senior Machine Learning Engineer at PepsiCo;101;Andreu Mayo
+101;2022;05-04;;0;0;Andreu;Mayo;;;;;;;https://www.linkedin.com/in/andreu-mayo/;Yes;;;;YES;YES;;Andreu Mayo;Andreu-Mayo-Casademont;Senior Machine Learning Engineer at PepsiCo;101;Andreu Mayo
 102;2022;05-07;;0;0;Diego;Gruber;;;;;;;https://www.linkedin.com/in/diegogruber/;Yes;;;;YES;YES;;Diego Gruber;;Senior Product Manager at Boston Consulting Group (BCG);102;Diego Gruber
 103;2022;05-11;;0;0;Ramon;Pujol;;;;;;;https://www.linkedin.com/in/ramonpujol/;Yes;;;;YES;YES;;Ramon Pujol;Ramon-Pujol;"Co-Founder &amp; CEO @ FISHHotels";103;Ramon Pujol
 104;2022;05-13;;0;0;Patrick;Aloy;;;;;;;https://www.linkedin.com/in/patrick-aloy-7943181a/;Yes;;;;YES;YES;;Patrick Aloy;Patrick-Aloy;ICREA Research Professor at the Institute for Research in Biomedicine;104;Patrick Aloy
