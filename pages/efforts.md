@@ -65,7 +65,7 @@ Here is a list of other related NGOs, programs and companies in this space that 
 
 **<a href="https://www.campusrom.org/" target="_blank">CampusRom, Roma University Network</a>**:  We support and bring together Roma university students to achieve higher university enrollment in the future for Roma people.
 
-**<a href="https://lutravioleta.com/ target="_blank">Lutravioleta</a> vibra amb la ciència, la tecnologia, l’enginyeria, l’art i les matemàtiques, en definitiva, amb les STEAM. Lutravioleta transmet aquesta passió als infants, joves i adults tot recuperant històries de dones científiques d’arreu per experimentar, tocar, jugar i divertir-se mentre aprenem!
+**<a href="https://lutravioleta.com/" target="_blank">Lutravioleta</a>** vibra amb la ciència, la tecnologia, l’enginyeria, l’art i les matemàtiques, en definitiva, amb les STEAM. Lutravioleta transmet aquesta passió als infants, joves i adults tot recuperant històries de dones científiques d’arreu per experimentar, tocar, jugar i divertir-se mentre aprenem!
 
 
 ### Other Companies we are in contact with:
