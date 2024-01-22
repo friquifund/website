@@ -14,7 +14,7 @@
             <!-- Social Media -->
             <div class="col-md-4">
                 <ul class="list-inline social-buttons">
-                   {% for link in site.data.sitetext[site.locale].footer.social %}
+                   {% for link in site.data.sitetext.footer.social %}
                     <li class="list-inline-item">
                         {% if link.url %}
                         <a href="{{ link.url }}">
