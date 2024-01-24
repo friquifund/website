@@ -19,8 +19,8 @@ en: &DEFAULT_EN
       url: /efforts
     - title: "Members"
       url: /members
-    - title: "Blog"
-      url: /blog
+    - title: "News"
+      url: /news
     - title: "Joinus"
       url: /join-us
 en-US:
