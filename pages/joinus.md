@@ -20,6 +20,8 @@ To become a FriquiFund member, please follow the steps below:
     Concepte: FriquiFund 2023 - YOUR NAME HERE
     ```
 
+    Or, alternatively, at Benevity under "FriquiFund Membership 2024"
+
     (\*) The fee is 240€ every year, but when you first join you can make it 20€ per remaining full month of the year. For example, if you join in October, you would need to transfer 40€ for your first year membership.
 
 Since FriquiFund is fully managed by volunteers, it may take us a few days to get back to you... bear with us!
