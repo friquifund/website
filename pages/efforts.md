@@ -10,7 +10,7 @@ Our mission is to support young STEM students in need. This support is materiali
 
 ## Collaboration with NGOs
 
-FriquiFund was founded in 2019. At that time, there were and still are many well-structured organizations actively supporting young STEM students in need. We acknowledge their experience and collaborate with them through cash donations, so that they can improve or extend their support to even more people. By 2022, FriquiFund has donated {{ site.data.sitetext.total_donated }}. We are currently collaborating with the following NGOs.
+FriquiFund was founded in 2019. At that time, there were and still are many well-structured organizations actively supporting young STEM students in need. We acknowledge their experience and collaborate with them through cash donations, so that they can improve or extend their support to even more people. By 2023, FriquiFund has donated {{ site.data.sitetext.total_donated }}. We are currently collaborating with the following NGOs:
 
 1. **<a href="https://www.aeiraval.org" target="_blank">AEIRaval</a>** (Associació Educativa Integral del Raval): Support vulnerable youngsters in Raval and other neighbourhoods in BCN in pursuing studies and finding initial jobs with both sponsorship of study-related costs and coaching.
 1. **<a href="https://www.fundacioires.org/ca/que-fem/ecosistema-de-projectes/projecte-click" target="_blank">IRES</a>** (Click program): Support vulnerable youngsters in Sant Martí in BCN in pursuing tech studies and finding initial jobs with both sponsorship of study-related costs and coaching on social, psychological and educational topics.
@@ -22,7 +22,7 @@ FriquiFund was founded in 2019. At that time, there were and still are many well
 
 ## Mentoring and Internships for young STEM students
 
-Lots of members in FriquiFund have IT, engineering or science-related professional careers. This provides us the knowledge and workforce to run a Mentoring program to closely support young STEM students and an Internships program to help them find the right place to do internships. We started these prorgams mid 2022. By the end of 2022 we are mentoring {{ site.data.sitetext.n_mentored_students }} students. 
+Lots of members in FriquiFund have IT, engineering or science-related professional careers. This provides us the knowledge and workforce to run a Mentoring program to closely support young STEM students and an Internships program to help them find the right place to do internships. We started these programs mid 2022. By the end of 2023 we are mentoring {{ site.data.sitetext.n_mentored_students }} students. 
 
 **Mentoring**: We guide students and help them in the process of deciding their future, finding internships and professional opportunities, applying for a job or preparing for job interviews. A mentor is assigned to the student and one-to-one sessions or calls are scheduled to discuss any topic of interest of the student. In the following links more information can be found regarding the mentoring program and how to apply for it:
 
@@ -44,8 +44,6 @@ Here is a list of other related NGOs, programs and companies in this space that 
 **<a href="https://barcelonadigitaltalent.com/en" target="_blank">Barcelona Digital Talent</a>**: We aim to fight the digital talent gap in order to promote market competitiveness. We want to position Barcelona as a talent capital and, to achieve this, we are committed to training in digital skills and attracting new digital talent to the city. Check out their BCN Inclusive Coding program <a href="https://barcelonadigitaltalent.com/ca/bcn-inclusive-coding" target="_blank">here</a>.
 
 **<a href="https://fundaciobofill.cat/" target="_blank">Fundació Bofill</a>** The Fundació Bofill is a non-profit organization created in 1969 with the goal of promoting the transformation and social change of our country. We are a research and proposal laboratory focused on the field of education that we work to promote research, debates and initiatives to generate educational opportunities and combat social inequalities.
-
-**<a href="https://twitter.com/DataForGoodBCN" target="_blank">Data for Good Barcelona</a>**: We bring the expertise of data professionals to the service of NGOs to achieve positive social impact.
 
 **<a href="https://twitter.com/DataForGoodBCN" target="_blank">Data for Good Barcelona</a>**: We bring the expertise of data professionals to the service of NGOs to achieve positive social impact.
 
