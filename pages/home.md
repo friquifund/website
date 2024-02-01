@@ -7,4 +7,4 @@
 {% include home/section.html id='mission' title='Mission' %}
 
 <!-- Original Announcement -->
-{% include home/section.html id='announcement' title='Original Announcement' font_size='smaller' %}
+<!-- include home/section.html id='announcement' title='Original Announcement' font_size='smaller'-->
