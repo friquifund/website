@@ -6,7 +6,7 @@ permalink: /efforts
 
 # Our efforts
 
-Our mission is to support young STEM students in need. This support is materialized through different actions and efforts.
+Our mission is to support young STEM students in need. We've come a long way from our [initial call to action]](/announcement), and today we support students through multiple actions and efforts.
 
 ## Collaboration with NGOs
 
