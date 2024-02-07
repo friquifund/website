@@ -36,13 +36,13 @@ a.nav-link:hover{
 
 
 footer{
-    *a:hover{
+    a:hover{
     color:$onhover-color !important;
     }
 }
 
 footer{
-    *a{
+    a{
     color:$header-footer-text-color !important;
     }
 }
