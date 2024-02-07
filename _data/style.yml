@@ -1,12 +1,13 @@
 #Color Customization
-highlight: "#79a2ff" #color of links through the website
+highlight: "#79a2ff" 
+# highlight defines the color of links through the website
 #white: "#FF0000"
 #black: "#79a2ff"
 
 #Most of styles are defined as variables in main.scss 
 
 #Image Customization
-header-image: "" #define background image to show in header
+header-image: "../img/Math-Wallpaper.jpg" #define background image to show in header
 # contact-image: "../img/contact.png"
 #Font Awesome icon for portfolio grid when an item is hovered over
 #portfolio-icon: fas fa-expand-arrows-alt fa-3x #default: fas fa-plus fa-3x
