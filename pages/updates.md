@@ -9,6 +9,5 @@ permalink: /news
 <a class="twitter-timeline" data-dnt="true"  data-theme="light" href="https://twitter.com/friquifund?ref_src=twsrc%5Etfw">Loading feed.. please wait a second</a> 
 </div>
 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
