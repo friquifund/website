@@ -34,9 +34,15 @@ a.nav-link:hover{
     color:$onhover-color !important;
 }
 
-/*footer > *a:hover{
+/*
+footer > *a:hover{
     color:$onhover-color !important;
-}*/
+}
+
+footer > *a{
+    color:$header-footer-text-color !important;
+}
+*/
 
 
 
@@ -57,7 +63,7 @@ header.masthead, .footer, #mainNav{
     background-color:$header-footer-color;
 }
 
-div.intro-text>h2, footer > *a{
+div.intro-text>h2 {
     color:$header-footer-text-color !important;
 }
 
