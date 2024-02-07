@@ -35,16 +35,12 @@ a.nav-link:hover{
 }
 
 
-footer{
-    a:hover{
+a.footerlink:hover{
     color:$onhover-color !important;
-    }
 }
 
-footer{
-    a{
+a.footerlink{
     color:$header-footer-text-color !important;
-    }
 }
 
 
