@@ -29,9 +29,14 @@ a:hover{
     text-decoration:none;
 }
 
-a.nav-link:hover, footer > *a:hover{
+
+a.nav-link:hover{
     color:$onhover-color !important;
 }
+
+/*footer > *a:hover{
+    color:$onhover-color !important;
+}*/
 
 
 
