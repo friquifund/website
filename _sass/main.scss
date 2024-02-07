@@ -8,7 +8,6 @@ $text-color-muted:#3f405f;
 
 
 h1 {
-    text-transform: uppercase;
     text-align: center;
     margin-top: 30px;
     margin-bottom: 20px;
@@ -18,6 +17,7 @@ h2 {
     margin-top: 30px;
     margin-bottom: 20px;
     color:#070738;
+    text-align:left;
 }
 
 h3 {
@@ -106,8 +106,6 @@ div.headerimg>img{
 #pagecontainer>div{
     margin-top: 0px;
     margin-bottom: 80px;
-    margin-left:10px;
-    margin-right:10px;
     text-align:justify;
 }
 
@@ -121,18 +119,18 @@ div.headerimg>img{
     justify-content: center;
     width: 100%;
     display: flex;
-    gap: 26px;
+    gap: 16px;
     flex-wrap: wrap;
 }
 .ff-team-member {
-    width: 200px;
+    width: 170px;
     margin-bottom: 10px;
     margin-top:5px;
 }
 
 .team-member img{
     border: 3px solid #efefef;
-    width:170px;
+    width:150px;
     height:auto;
 }
 
@@ -142,5 +140,9 @@ div.headerimg>img{
 
 .ff-team-member-p {
     margin-bottom: 0px; /* between paragraphs */
-    line-height:1.2 !important;
+    line-height:1 !important;
+}
+.ff-team-member-p > em {
+    font-size:10pt;
+    
 }
