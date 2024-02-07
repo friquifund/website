@@ -4,7 +4,7 @@ title: News
 permalink: /news
 ---
 
-<h1>News from FriquiFund</h1>
+# Latest News
 <div style="min-height:500px; max-width:700px; margin:auto;">
 <a class="twitter-timeline" data-dnt="true"  data-theme="light" href="https://twitter.com/friquifund?ref_src=twsrc%5Etfw">Loading feed.. please wait a second</a> 
 </div>

@@ -1,35 +1,134 @@
+
+/* FriquiFund Color Definitions */
+
+$header-footer-color: #79a2ff;
+$header-footer-text-color:#ffffff;
+$onhover-color:#353567;
+$text-color-muted:#3f405f;
+
+
 h1 {
     text-transform: uppercase;
     text-align: center;
     margin-top: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 h2 {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color:#070738;
+}
+
+h3 {
+    margin-top:30px;
+    margin-bottom:10px;
+}
+
+a:hover{
+    text-decoration:none;
+}
+
+a.nav-link:hover, footer > *a:hover{
+    color:$onhover-color !important;
+}
+
+
+
+/* Header and Footer */
+header.masthead {
+    .intro-text {
+        padding-top: 100px;
+        padding-bottom: 0px;
+    }
+    .intro-text>h2{
+        margin-top:10px;
+        margin-bottom:0px;
+    }
+}
+
+
+header.masthead, .footer, #mainNav{
+    background-color:$header-footer-color;
+}
+
+div.intro-text>h2, footer > *a{
+    color:$header-footer-text-color !important;
+}
+
+ul.social-buttons li a {
+    background-color:$onhover-color;
 }
 
 div.home-header {
     span {
         font-size: 140%;
     }
-}
-
-div.home-header {
     span.highlight {
         font-weight: bold;
         font-size: 200%;
     }
 }
 
-header.masthead {
-    .intro-text {
-        padding-top: 200px;
-        padding-bottom: 50px;
-    }
+div.headerimg{
+    padding-top:20px !important; 
+    text-align:center !important;
 }
 
+div.headerimg>img{
+    width:55%; 
+    max-width:700px;
+}
+
+.navbar-shrink{
+    background-color:$header-footer-color !important;
+}
+
+
+
+/* Common page styles */
 .page-section {
-    padding: 50px 0 !important;
+    padding: 20px 0 20px 0 !important;
+}
+.page-section#friquiwhat{
+    padding-top:50px !important;
+}
+#pagecontainer>div{
+    margin-top: 0px;
+    margin-bottom: 80px;
+    text-align:justify;
+}
+
+.text-muted{
+    color:$text-color-muted !important;
+}
+
+
+/* Hugo - Styles for Members List*/
+.layout_members {
+    justify-content: center;
+    width: 100%;
+    display: flex;
+    gap: 26px;
+    flex-wrap: wrap;
+}
+.ff-team-member {
+    width: 200px;
+    margin-bottom: 10px;
+    margin-top:5px;
+}
+
+.team-member img{
+    border: 3px solid #efefef;
+    width:170px;
+    height:auto;
+}
+
+.team-member img:hover{
+    border:2px solid $header-footer-color;
+}
+
+.ff-team-member-p {
+    margin-bottom: 0px; /* between paragraphs */
+    line-height:1.2 !important;
 }
