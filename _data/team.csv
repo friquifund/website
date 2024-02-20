@@ -45,7 +45,7 @@ Membership Number,Year,Start Date,NIF,status,leadership,First Name,Second Name,I
 44,2022,01-09,,0,0,Lluís,Garcia Pueyo,,,,,,,https://www.linkedin.com/in/lgpueyo/,Yes,,,,YES,YES,,Lluís Garcia Pueyo,Lluís-Garcia-Pueyo,Director of Engineering at Meta
 45,2022,01-09,,0,0,Anna,Sáez de Tejada,,,,,,,https://www.linkedin.com/in/annasdtc/,Yes,,,,YES,YES,,Anna Sáez de Tejada,Anna-Sáez-de-Tejada-Cuenca,Assistant Professor at IESE Business School
 46,2022,01-10,,0,0,Alberto,Mancheño,,,,,,,https://www.linkedin.com/in/alberto-mancheno-villena/,Yes,,,,YES,YES,,Alberto Mancheño,Alberto-Mancheño-Villena,Freelance - ML & Data EngineerFreelance
-47,2022,01-10,,0,0,David,Xicota,,,,,,,https://www.linkedin.com/in/davidxicota/,Yes,,,,YES,YES,,David Xicota,David-Xicota,"VP of Engineering at The Knot Worldwide, Mentor, Business Angel"
+47,2022,01-10,,-1,0,David,Xicota,,,,,,,https://www.linkedin.com/in/davidxicota/,Yes,,,,YES,YES,,David Xicota,David-Xicota,"VP of Engineering at The Knot Worldwide, Mentor, Business Angel"
 48,2022,01-11,,0,0,Jose,Rodriguez Serrano,,,,,,,https://www.linkedin.com/in/jose-a-rodriguez-serrano-46505653/,Yes,,,,YES,YES,,Jose Rodriguez Serrano,Jose-A.-Rodriguez-Serrano,Senior Lecturer at Esade Business School
 49,2022,01-13,,0,0,Daniel,Villatoro Segura,,,,,,,https://www.linkedin.com/in/danielvillatoro/,Yes,,,,YES,YES,,Daniel Villatoro Segura,Daniel-Villatoro,Chief Data Scientist at Openbank
 50,2022,01-14,,0,0,Bernat,Puig Camps,,,,,,,https://www.linkedin.com/in/bepuca/,Yes,,,,YES,YES,,Bernat Puig Camps,Bernat-Puig-Camps,Applied Machine Learning @ Microsoft
@@ -144,12 +144,12 @@ Membership Number,Year,Start Date,NIF,status,leadership,First Name,Second Name,I
 143,2023,01-20,,0,0,Maria,Fernandez Ruiz,,,,,,,https://www.linkedin.com/in/maria-fdez-ruiz/,Yes,,,,YES,YES,,Maria Fernandez Ruiz,,Lead Data Scientist at BCG GAMMA
 144,2023,01-21,,0,0,Mario,Cavero,,,,,,,https://www.linkedin.com/in/mariocavero/,Yes,,,,YES,YES,,Mario Cavero,,Senior Software Engineer at eterlast
 145,2023,01-22,,0,0,Jordi,Nin,,,,,,,https://www.linkedin.com/in/dataminion/,Yes,,,,YES,YES,,Jordi Nin,Jordi Nin,"Assistant Professor @ ESADE, Academic Director Executive Master in Business Analytics (EMIBA)"
-146,2023,01-23,,0,0,Caterina,Calsamiglia Costa,,,,,,,https://www.linkedin.com/in/caterina-calsamiglia-a601b3a/?originalSubdomain=es,Yes,,,,YES,YES,,Caterina Calsamiglia Costa,Caterina Calsamiglia Costa,Co-founder of Pentabilities
+146,2023,01-23,,-1,0,Caterina,Calsamiglia Costa,,,,,,,https://www.linkedin.com/in/caterina-calsamiglia-a601b3a/?originalSubdomain=es,Yes,,,,YES,YES,,Caterina Calsamiglia Costa,Caterina Calsamiglia Costa,Co-founder of Pentabilities
 147,2023,01-24,,0,0,Raúl,García,,,,,,,https://www.linkedin.com/in/raulgarciamonclus/,Yes,,,,YES,YES,,Raúl García,Raul Garcia Monclus,CEO & Senior Partner at Cognodata - Customer Science - Digital Sales - Fintech - Marketing Automation - CRM
 148,2023,01-24,,0,0,Eduard,Aran,,,,,,,https://www.linkedin.com/in/eduard-ar%C3%A1n-calonja-44a103141/,Yes,,,,YES,YES,,Eduard Aran,Eduard-Aran-Calonja,Applying AI in Procurement with Valerdat | Physicist
 149,2023,01-27,,0,0,Joshua,Mora,,,,,,,https://www.linkedin.com/in/joshuamora/,Yes,,,,YES,YES,,Joshua Mora,Joshua-Mora,Large scale machine learning at Intel
 150,2023,01-28,,0,0,Derick,Leony,,,,,,,https://www.linkedin.com/in/dleony/,Yes,,,,YES,YES,,Derick Leony,Derick Leony,"Senior Manager, Analytics at Criteo"
-151,2023,01-30,,-1,-1,Manuel,Peralta Danoz,,,,,,,https://www.linkedin.com/in/manuel-peralta-danoz/,Yes,,,,YES,YES,,Manuel Peralta Danoz,,Senior Engineering Manager
+151,2023,01-30,,-1,0,Manuel,Peralta Danoz,,,,,,,https://www.linkedin.com/in/manuel-peralta-danoz/,Yes,,,,YES,YES,,Manuel Peralta Danoz,,Senior Engineering Manager
 152,2023,01-31,,0,0,Cristian,Canton,,,,,,,https://www.linkedin.com/in/cristiancanton/,Yes,,,,YES,YES,,Cristian Canton,Cristian Canton,Responsible AI @ Meta - Head of Engineering
 153,2023,01-31,,0,0,Arnau,Llovera Aparicio,,,,,,,https://www.linkedin.com/in/arnaullovera/,Yes,,,,YES,YES,,Arnau Llovera Aparicio,Arnau Llovera,Data Scientist at BCG X | PSPO and PSM
 154,2023,01-31,,0,0,Alex,Martin Alay,,,,,,,https://www.linkedin.com/in/alexmartinalay/,Yes,,,,YES,YES,,Alex Martin Alay,Alex Martin,Data Science Manager -- Advanced Analytics Commercial at PepsiCo
@@ -181,7 +181,7 @@ Membership Number,Year,Start Date,NIF,status,leadership,First Name,Second Name,I
 180,2023,06-21,,0,0,Joel,Montoy,,,,,,,https://www.linkedin.com/in/joel-montoy-181753/,Yes,,,,YES,YES,,Joel Montoy,,CEO Aquiles Solutions
 181,2023,07-06,,0,0,Anna,Via,,,,,,,https://www.linkedin.com/in/anna-via/,Yes,,,,YES,YES,,Anna Via,,ML Product Manager
 182,2023,07-08,,0,0,Sampsa,Samila,,,,,,,https://www.linkedin.com/in/ssamila/,Yes,,,,YES,YES,,Sampsa Samila,,Professor at IESE Business School
-183,2023,07-08,,0,0,Miquel,Farré,,,,,,,https://www.linkedin.com/in/miquelangelfarre/,Yes,,,,YES,YES,,Miquel Farré,Miquel-Angel-Farre,Entrepreneur
+183,2023,07-08,,-1,0,Miquel,Farré,,,,,,,https://www.linkedin.com/in/miquelangelfarre/,Yes,,,,YES,YES,,Miquel Farré,Miquel-Angel-Farre,Entrepreneur
 184,2023,07-10,,0,0,Enric,Delgado Samper,,,,,,,https://www.linkedin.com/in/enric-delgado-samper/,Yes,,,,YES,YES,,Enric Delgado Samper,,"Director of the IBM Client Engineering Team in Spain, Portugal, Greece and Israel"
 185,2023,09-07,,0,0,Gustavo,Martin Morcuende,,,,,,,https://www.linkedin.com/in/gustavo-martin-morcuende/,Yes,,,,YES,YES,,Gustavo Martin Morcuende,,Senior Data Engineer at Adevinta Spain
 186,2023,09-07,,0,0,Pau,Contreras,,,,,,,https://www.linkedin.com/in/paucontreras,Yes,,,,YES,YES,,Pau Contreras,,"VP, Solution Engineering at Salesforce"
@@ -195,7 +195,9 @@ Membership Number,Year,Start Date,NIF,status,leadership,First Name,Second Name,I
 194,2023,11-14,,0,0,Christian,Herrera,,,,,,,https://www.linkedin.com/in/cherreraj/,Yes,,,,YES,YES,,Christian Herrera,,Data Engineer @ Adevinta Spain
 195,2023,11-15,,0,0,Joren,Gijsbrechts,,,,,,,https://www.linkedin.com/in/joren-gijsbrechts/,Yes,,,,YES,YES,,Joren Gijsbrechts,,Assistant Professor at Esade
 196,2023,11-17,,0,0,Gemma,Comellas,,,,,,,https://www.linkedin.com/in/gemma-comellas,Yes,,,,YES,YES,,Gemma Comellas,,Data Scientist at Amazon | PhD
-197,2023,11-18,,0,1,Joan,Capdevila Pujol,,,,,,,https://www.linkedin.com/in/joan-capdevila-phd-00513121/,Yes,,,,YES,YES,,Joan Capdevila Pujol,,Data Science Manager in Health & Nutrition Science
+197,2024,01-01,,0,1,Joan,Capdevila Pujol,,,,,,,https://www.linkedin.com/in/joan-capdevila-phd-00513121/,Yes,,,,YES,YES,,Joan Capdevila Pujol,,Data Science Manager in Health & Nutrition Science
 198,2023,11-24,,0,0,Ricard,Santamaria Castel,,,,,,,https://www.linkedin.com/in/riscardsantamariacastel/,Yes,,,,NO,YES,,Ricard Santamaria Castel,,Socio Fundador y Director en H.A.U.S HEALTHY BUILDINGS S.L.
 199,2023,12-12,,0,0,Pau,Garcia-Mila,,,,,,,https://www.linkedin.com/in/paugarciamila/,Yes,,,,YES,YES,,Pau Garcia-Mila,Pau-Garcia-Mila,Linkedin Top Voice 2022. Founderz Business School Co-founder
 200,2024,01-29,,0,0,Natalia,Subirana,,,,,,,https://www.linkedin.com/in/natalia-subirana-art%C3%BAs-b222791b5/,Yes,,,,YES,YES,,Natalia Subirana,,Research Assistant at IESE | Mathematics at the University of Barcelona
+201,2024,02-15,,0,0,Hector,Fornes Martinez,,,,,,,https://www.linkedin.com/in/fornes,Yes,,,,YES,YES,,Hector Fornes Martinez,,Manager at Vueling Airlines | Air Transport Management Lecturer @ UPC | MIT alumn
+202,2024,02-15,,0,0,Lledó,Esquerra Ortells,,,,,,,https://www.linkedin.com/in/lledoe/,Yes,,,,YES,YES,,Lledó Esquerra Ortells,Lledo-Esquerra,Sr. Research Scientist at Amazon
