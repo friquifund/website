@@ -20,6 +20,7 @@ FriquiFund was founded in 2019. At that time, there were and still are many well
 1. **<a href="https://explorium.cat/" target="_blank">eXplorium</a>**: eXplorium promotes transversal learning of science, technology, engineering, and maths, through experimentation and gaming.
 1. **<a href="https://factoriaf5.org" target="_blank">Factoria F5</a>**: We are an NGO that builds the first network of solidarity, inclusive and free digital schools in Spain, dedicated to offering opportunities to people in vulnerable situations in the world of programming and web development.
 
+
 ## Mentoring and Internships for young STEM students
 
 Lots of members in FriquiFund have IT, engineering or science-related professional careers. This provides us the knowledge and workforce to run a Mentoring program to closely support young STEM students and an Internships program to help them find the right place to do internships. We started these programs mid 2022. By the end of 2023 we are mentoring {{ site.data.sitetext.n_mentored_students }} students. 
@@ -64,6 +65,8 @@ Here is a list of other related NGOs, programs and companies in this space that 
 **<a href="https://www.campusrom.org/" target="_blank">CampusRom, Roma University Network</a>**:  We support and bring together Roma university students to achieve higher university enrollment in the future for Roma people.
 
 **<a href="https://lutravioleta.com/" target="_blank">Lutravioleta</a>**: Lultravioleta vibra amb la ciència, la tecnologia, l’enginyeria, l’art i les matemàtiques, en definitiva, amb les STEAM. Lutravioleta transmet aquesta passió als infants, joves i adults tot recuperant històries de dones científiques d’arreu per experimentar, tocar, jugar i divertir-se mentre aprenem!
+
+**<a href="https://nascoict.org/ca/" target="_blank">NASCO</a>**: Our objective: feeding minds. With your donation, we build computer classrooms in rural schools in Ghana and we provide solutions to the immigration problem in the origin country.
 
 
 ### Other Companies we are in contact with:
