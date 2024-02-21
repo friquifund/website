@@ -90,7 +90,7 @@ Membership Number,Year,Start Date,NIF,status,leadership,First Name,Second Name,I
 89,2022,03-26,,0,0,Daniel,Rodrigo López,,,,,,,https://www.linkedin.com/in/danielrodrigolopez,Yes,,,,YES,YES,,Daniel Rodrigo López,Daniel-Rodrigo-López,Senior Data Scientist at Volotea
 90,2022,03-29,,0,0,Carlos,Domingo,,,,,,,https://www.linkedin.com/in/carlosdomingo/,Yes,,,,YES,YES,,Carlos Domingo,Carlos-Domingo,"Founder CEO at Securitize, Founder Managing Partner at SPiCE VC"
 91,2022,04-04,,0,0,Jose-Miguel,Pulido Villaverde,,,,,,,https://www.linkedin.com/in/josemiguelpulido/,Yes,,,,YES,YES,,Jose-Miguel Pulido Villaverde,Jose-Miguel-Pulido-Villaverde,Engineer and Entrepreneur
-92,2022,04-04,,1,0,Enric,Spagnolo,,,,,,,https://www.linkedin.com/in/enric-spagnolo-arrizabalaga-57b394ab,Yes,,,,YES,YES,,Enric Spagnolo,Enric-Spagnolo-Arrizabalaga,Software Engineer &amp; Data Scientist at Capchase
+92,2022,04-04,,1,-1,Enric,Spagnolo,,,,,,,https://www.linkedin.com/in/enric-spagnolo-arrizabalaga-57b394ab,Yes,,,,YES,YES,,Enric Spagnolo,Enric-Spagnolo-Arrizabalaga,Software Engineer &amp; Data Scientist at Capchase
 93,2022,04-06,,-1,-1,Joaquim,Lecha,,,,,,,https://www.linkedin.com/in/joaquim-lecha-040136,Yes,,,,YES,YES,,Joaquim Lecha,Joaquim-Lecha,CEO at Typeform.com
 94,2022,04-08,,0,0,Santiago,Murillo,,,,,,,https://www.linkedin.com/in/santimurrillo,Yes,,,,YES,YES,,Santiago Murillo,Santiago-M,Data Products Director at CaixaBank
 95,2022,04-19,,0,0,Antonio,Calvo,,,,,,,https://www.linkedin.com/in/antoniocalvog,Yes,,,,YES,YES,,Antonio Calvo,Antonio-Calvo,Head Retail &amp; CPG at SAS
@@ -144,7 +144,7 @@ Membership Number,Year,Start Date,NIF,status,leadership,First Name,Second Name,I
 143,2023,01-20,,0,0,Maria,Fernandez Ruiz,,,,,,,https://www.linkedin.com/in/maria-fdez-ruiz/,Yes,,,,YES,YES,,Maria Fernandez Ruiz,,Lead Data Scientist at BCG GAMMA
 144,2023,01-21,,0,0,Mario,Cavero,,,,,,,https://www.linkedin.com/in/mariocavero/,Yes,,,,YES,YES,,Mario Cavero,,Senior Software Engineer at eterlast
 145,2023,01-22,,0,0,Jordi,Nin,,,,,,,https://www.linkedin.com/in/dataminion/,Yes,,,,YES,YES,,Jordi Nin,Jordi Nin,"Assistant Professor @ ESADE, Academic Director Executive Master in Business Analytics (EMIBA)"
-146,2023,01-23,,-1,0,Caterina,Calsamiglia Costa,,,,,,,https://www.linkedin.com/in/caterina-calsamiglia-a601b3a/?originalSubdomain=es,Yes,,,,YES,YES,,Caterina Calsamiglia Costa,Caterina Calsamiglia Costa,Co-founder of Pentabilities
+146,2023,01-23,,0,0,Caterina,Calsamiglia Costa,,,,,,,https://www.linkedin.com/in/caterina-calsamiglia-a601b3a/?originalSubdomain=es,Yes,,,,YES,YES,,Caterina Calsamiglia Costa,Caterina Calsamiglia Costa,Co-founder of Pentabilities
 147,2023,01-24,,0,0,Raúl,García,,,,,,,https://www.linkedin.com/in/raulgarciamonclus/,Yes,,,,YES,YES,,Raúl García,Raul Garcia Monclus,CEO & Senior Partner at Cognodata - Customer Science - Digital Sales - Fintech - Marketing Automation - CRM
 148,2023,01-24,,0,0,Eduard,Aran,,,,,,,https://www.linkedin.com/in/eduard-ar%C3%A1n-calonja-44a103141/,Yes,,,,YES,YES,,Eduard Aran,Eduard-Aran-Calonja,Applying AI in Procurement with Valerdat | Physicist
 149,2023,01-27,,0,0,Joshua,Mora,,,,,,,https://www.linkedin.com/in/joshuamora/,Yes,,,,YES,YES,,Joshua Mora,Joshua-Mora,Large scale machine learning at Intel
