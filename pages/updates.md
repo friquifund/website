@@ -9,7 +9,7 @@ permalink: /news
 <!--<a class="twitter-timeline" data-dnt="true"  data-theme="light" href="https://twitter.com/friquifund?ref_src=twsrc%5Etfw">Loading feed.. please wait a second</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 -->
 
-<a class="twitter-timeline" href="https://www.twitter.com/friquifund?ref_src=twsrc%5Etfw">Tweets by friquifund</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://www.twitter.com/friquifund?ref_src=twsrc%5Etfw">Loading Tweets from FriquiFund...</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!--<div class='sk-ww-twitter-feed' data-embed-id='25360792'></div><script src='https://widgets.sociablekit.com/twitter-feed/widget.js' async defer></script>-->
 </div>
