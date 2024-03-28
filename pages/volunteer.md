@@ -6,7 +6,7 @@ permalink: /volunteer
 
 # Get Involved
 We are always looking for volunteers to help us grow and be able to reach more vulnerable youngsters. 
-[Contact us to join the Friqui revolution!]('https://forms.gle/qvA6dyxtcm7rNTK79')
+<a href="https://forms.gle/qvA6dyxtcm7rNTK79" target="_blank">Contact us to join the Friqui revolution!</a>
 
 ## Have recurrent availability
 
@@ -26,9 +26,9 @@ We are always looking for volunteers to help us grow and be able to reach more v
 
 2. **FriquiFund Talks:** we organize 2 fundraising talks every year.  The objective of these talks is two-fold: on one hand, it allows us to raise funds for our initiatives (speakers volunteer to give a talk at no cost, and all proceeds go to FriquiFund). On the other, it creates a place to meet for FriquiFund members, mentees, students participating in our iniatives and other interested audience, allowing us to have a common (and diverse) space to meet. We are always seeking volunteers to help organize these initiatives, find new speakers, etc. 
 
-3. **Others:** do you want to help us communicate better, reach more members, find more NGOs or broaden our impact? Do not hesitate to contact us!
+3. **Others:** do you want to help us communicate better, reach more members, find more NGOs or broaden our impact?  Let us know!
 
-Do you want to know more about our volunteering opportunities, or share your interest? [Please Reach Us!]('https://forms.gle/qvA6dyxtcm7rNTK79')
+Do you want to know more about our volunteering opportunities, or share your interest? <a href="https://forms.gle/qvA6dyxtcm7rNTK79" target="_blank">Please Reach Us!</a>
 
 
 
