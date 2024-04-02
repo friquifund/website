@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Volunteer
-permalink: /volunteer
+title: Get Involved
+permalink: /get-involved
 ---
 
 # Get Involved
@@ -15,7 +15,7 @@ There are many ways to help, and we are always looking for volunteers to help us
 
 2. **Free-will Mentoring:** This initiative fosters organic mentorship relationships between mentors and mentees, tailored to the individual needs of the mentees. It supports a variety of objectives, from academic assistance to transitioning into STEM fields or securing initial tech industry positions.
 
-## Looking for one-off volunteering opportunities
+## One-off volunteering opportunities
 1. **Company Tour:** Do you want to sponsor a visit to your Company? Our mentees really appreciate visiting tech companies and getting to see first-hand how the sector works. If your company is open for external visits, we would really apprecite your help! This would require **2h to organize, plus 2h the day of the visit.**
 
 2. **High School Talks:** This prograim aims to showcase STEM careers in high complexity schools. Usually, these sessions **-which last for 90 minutes-**involve two or more speakers, that share their careers and the work they do, in an inspiring and educational manner. If you have sparse availability and you want to showcase STEM careers to vulnerable youngsters, please join us, we are always in the look for volunteers! 
@@ -26,7 +26,7 @@ There are many ways to help, and we are always looking for volunteers to help us
 
 2. **FriquiFund Talks:** we organize 2 fundraising talks every year.  The objective of these talks is two-fold: on one hand, it allows us to raise funds for our initiatives (speakers volunteer to give a talk at no cost, and all proceeds go to FriquiFund). On the other hand, it creates a place to meet for FriquiFund members, mentees, students participating in our iniatives and other interested audience, allowing us to have a common (and diverse) space to meet. We are always seeking volunteers to help organize these initiatives, find new speakers, etc. 
 
-3. **NGO Follow-Up Taskforce:** we need volunteers to help us maintain good relationships with the NGOs we help. Some of the tasks include: keep up with their reporting, answer their questions, and prepare the budget vote proposals. For most of the year this is a ver low commitment (a few emails here and there, one or two phone calls, one or two visits if you want to), but there is a peak of work around February  (e.g. 3-6h of work) when we need to prepare the plenary budget vote. We need people who can maintain this commitment for a year or more, so they build a relationship with our partners. 
+3. **NGO Follow-Up:** we need volunteers to help us maintain good relationships with the NGOs we help. Some of the tasks include: keep up with their reporting, answer their questions, and prepare the budget vote proposals. For most of the year this is a ver low commitment (a few emails here and there, one or two phone calls, one or two visits if you want to), but there is a peak of work around February  (e.g. 3-6h of work) when we need to prepare the plenary budget vote. We need people who can maintain this commitment for a year or more, so they build a relationship with our partners. 
 
 4. **Others:** do you want to help us communicate better, reach more members, find more NGOs or broaden our impact?  Let us know!
 

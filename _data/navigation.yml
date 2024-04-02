@@ -21,7 +21,9 @@ en: &DEFAULT_EN
       url: /members
     - title: "News"
       url: /news
-    - title: "Joinus"
+    - title: "Get Involved"
+      url: /get-involved
+    - title: "Join Us"
       url: /join-us
 en-US:
   <<: *DEFAULT_EN
