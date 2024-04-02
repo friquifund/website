@@ -26,7 +26,9 @@ There are many ways to help, and we are always looking for volunteers to help us
 
 2. **FriquiFund Talks:** we organize 2 fundraising talks every year.  The objective of these talks is two-fold: on one hand, it allows us to raise funds for our initiatives (speakers volunteer to give a talk at no cost, and all proceeds go to FriquiFund). On the other hand, it creates a place to meet for FriquiFund members, mentees, students participating in our iniatives and other interested audience, allowing us to have a common (and diverse) space to meet. We are always seeking volunteers to help organize these initiatives, find new speakers, etc. 
 
-3. **Others:** do you want to help us communicate better, reach more members, find more NGOs or broaden our impact?  Let us know!
+3. **NGO Follow-Up Taskforce:** we need volunteers to help us maintain good relationships with the NGOs we help. Some of the tasks include: keep up with their reporting, answer their questions, and prepare the budget vote proposals. For most of the year this is a ver low commitment (a few emails here and there, one or two phone calls, one or two visits if you want to), but there is a peak of work around February  (e.g. 3-6h of work) when we need to prepare the plenary budget vote. We need people who can maintain this commitment for a year or more, so they build a relationship with our partners. 
+
+4. **Others:** do you want to help us communicate better, reach more members, find more NGOs or broaden our impact?  Let us know!
 
 Do you want to know more about our volunteering opportunities, or share your interest? <a href="https://forms.gle/qvA6dyxtcm7rNTK79" target="_blank">Please Reach Us!</a>
 
