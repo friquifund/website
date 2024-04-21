@@ -26,4 +26,5 @@ To become a FriquiFund member, please follow the steps below:
 
 Since FriquiFund is fully managed by volunteers, it may take us a few days to get back to you... bear with us!
 
-*\* : FriquiFund is a registered *'Asociación al amparo de la Ley Orgánica 1/2002, 16/09/2020'* with NIF G42973735. However we do not yet have the status of *'Utilitat Pública'* and so your donation will not be tax-deductible under Spanish tax law.*
+
+*(\*) FriquiFund is a registered* 'Asociación al amparo de la Ley Orgánica 1/2002, 16/09/2020' *with NIF G42973735. However we do not yet have the status of* 'Utilitat Pública' *and so your donation will not be tax-deductible under Spanish tax law.*
