@@ -6,11 +6,11 @@ Membership Number,Year,Start Date,NIF,status,First Name,Second Name,In Name Of:,
 5,2019,06-29,,0,Maria,Simi,,,,,,,https://www.linkedin.com/in/maria-simi-4266395/,Yes,,,,YES,YES,,Maria Simi,Maria-Simi,Professor at University of Pisa
 6,2019,06-29,,0,Sai,Kopuri,,,,,,,https://www.linkedin.com/in/saileshkopuri/,Yes,,,,YES,YES,,Sai Kopuri,Sai-Kopuri,"Head of Technology, Prime Video X-Ray Live Sports at Amazon"
 7,2019,06-24,,0,Ricardo,Baeza-Yates,,,,,,,https://www.linkedin.com/in/ricardobaezayates/,Yes,,,,YES,YES,,Ricardo Baeza-Yates,Ricardo-Baeza-Yates,"Director of Research, Institute for Experiential AI @ Northeastern University"
-8,2019,06-23,,0,José,Aguirre,,,,,,,https://www.linkedin.com/in/jose-aguirre-b513603/,Yes,,,,YES,YES,,José Aguirre,Jose-Aguirre,CEO at Bestiario
+8,2019,06-23,,-1,José,Aguirre,,,,,,,https://www.linkedin.com/in/jose-aguirre-b513603/,Yes,,,,YES,YES,,José Aguirre,Jose-Aguirre,CEO at Bestiario
 9,2020,09-18,,0,Jordi,Atserias Batalla,,,,,,,https://www.linkedin.com/in/atserias,Yes,,,,YES,YES,,Jordi Atserias Batalla,Jordi-Atserias-Batalla,"Sr Software Development Engineer, Amazon"
 10,2020,09-18,,0,Javier,Romero,,,,,,,https://www.linkedin.com/search/results/all/?keywords=javier%20romero&origin=GLOBAL_SEARCH_HEADER,Yes,,,,YES,YES,,Javier Romero,Javier-Romero,Research Scientist at Facebook Reality Labs
 11,2020,09-21,,0,Liannet,Reyes Hernandez,,,,,,,https://www.linkedin.com/in/liannetreyes/,Yes,,,,YES,YES,,Liannet Reyes Hernandez,Liannet-Reyes-Hernandez,"Sr Software Development Engineer, Amazon"
-12,2020,09-22,,0,Lluis,Marquez,,,,,,,https://www.linkedin.com/in/lluis-marquez-66372515a/,Yes,,,,YES,YES,,Lluis Marquez,Lluis-Marquez,"Principal Applied Scientist, Amazon"
+12,2020,09-22,,-1,Lluis,Marquez,,,,,,,https://www.linkedin.com/in/lluis-marquez-66372515a/,Yes,,,,YES,YES,,Lluis Marquez,Lluis-Marquez,"Principal Applied Scientist, Amazon"
 13,2020,09-21,,0,Marta-Gaia,Zanchi,,,,,,,https://www.linkedin.com/in/mgzanchi/,Yes,,,,YES,YES,,Marta-Gaia Zanchi,Marta-Gaia-Zanchi,Investing in health technology @ nina
 14,2020,09-23,,1,Pau,Agulló,,,,,,,https://www.linkedin.com/in/pauagullo/,Yes,,,,YES,YES,,Pau Agulló,Pau-Agulló,Entrepreneur
 15,2020,11-04,,0,Mauricio,Rodríguez Sáenz,,,,,,,https://www.linkedin.com/in/mauriciordzsaenz/,Yes,,,,YES,YES,,Mauricio Rodríguez Sáenz,Mauricio-Rodriguez-Saenz,
@@ -20,10 +20,10 @@ Membership Number,Year,Start Date,NIF,status,First Name,Second Name,In Name Of:,
 19,2021,01-11,,0,Pau,Rué,,,,,,,https://www.linkedin.com/in/paurue/,Yes,,,,YES,YES,,Pau Rué,Pau-Rué,VP of Artificial Intelligence at Infermedica
 20,2021,01-12,,0,Josep M. (Pep),Martorell,,,,,,,https://www.linkedin.com/in/josepmariamartorellrodon/,Yes,,,,YES,YES,,Josep M. (Pep) Martorell,Josep-Maria-Martorell-Rodon,Associate Director at Barcelona Supercomputing Center
 21,2021,01-11,,1,Oleguer,Sagarra,,,,,,,https://www.linkedin.com/in/oleguer-sagarra-64588a40,Yes,,,,YES,YES,,Oleguer Sagarra,Oleguer-Sagarra,Co-founder & co-CEO at DRIBIA: Data Research in Business Intel. Analytics
-22,2021,01-20,,0,Diego,Villuendas Pellicero,,,,,,,https://www.linkedin.com/in/diegovilluendas,Yes,,,,YES,YES,,Diego Villuendas Pellicero,Diego-Villuendas-Pellicero,"Actor // Innovation, technology, data, leadership"
+22,2021,01-20,,-1,Diego,Villuendas Pellicero,,,,,,,https://www.linkedin.com/in/diegovilluendas,Yes,,,,YES,YES,,Diego Villuendas Pellicero,Diego-Villuendas-Pellicero,"Actor // Innovation, technology, data, leadership"
 23,2021,01-27,,1,Xavier,Amatriain,,,,,,,https://www.linkedin.com/in/xamatriain/,Yes,,,,YES,YES,,Xavier Amatriain,Xavier-Amatriain,Leading Generative AI Engineering and Product Initiatives at LinkedIn
 24,2021,02-08,,0,Cristina,Bellido,,,,,,,https://www.linkedin.com/in/cristina-bellido-28a089b/,Yes,,,,YES,YES,,Cristina Bellido,Cristina-Bellido,Directora de Negocio y Analytics en VidaCaixa
-25,2021,03-10,,0,Marc,Torrens,,,,,,,https://www.linkedin.com/in/marctorrens/,Yes,,,,YES,YES,,Marc Torrens,Marc-Torrens,"Director, Department of Operations, Innovation and Data Sciences at ESADE Business & Law School"
+25,2021,03-10,,-1,Marc,Torrens,,,,,,,https://www.linkedin.com/in/marctorrens/,Yes,,,,YES,YES,,Marc Torrens,Marc-Torrens,"Director, Department of Operations, Innovation and Data Sciences at ESADE Business & Law School"
 26,2021,03-15,,0,Hannes Felix,Mueller,,,,,,,https://www.linkedin.com/in/hannes-mueller-research/,Yes,,,,YES,YES,,Hannes Felix Mueller,Hannes-Mueller,"Tenured Researcher (IAE - CSIC), Program Director M.Sc. Data Science for Decision Making (BSE)"
 27,2021,08-18,,0,Paula,Batlle,,,,,,,https://www.linkedin.com/in/paulabatlle/,Yes,,,,YES,YES,,Paula Batlle,Paula-Battle,"Sr manager, Product Manager tech at Amazon "
 28,2022,01-02,,0,Eduard,Gimenez Funes,,,,,,,https://www.linkedin.com/in/eduard-gimenez-funes/,Yes,,,,YES,YES,,Eduard Gimenez Funes,Eduard-Gimenez,AI & Data Analytics at Basetis
@@ -51,7 +51,7 @@ Membership Number,Year,Start Date,NIF,status,First Name,Second Name,In Name Of:,
 50,2022,01-14,,0,Bernat,Puig Camps,,,,,,,https://www.linkedin.com/in/bepuca/,Yes,,,,YES,YES,,Bernat Puig Camps,Bernat-Puig-Camps,Applied Machine Learning @ Microsoft
 51,2022,01-16,,0,Victor,Martínez de Albéniz,,,,,,,https://www.linkedin.com/in/victor-martinez-de-albeniz-30a593/,Yes,,,,YES,YES,,Victor Martínez de Albéniz,Victor-Martinez-de-Albeniz,Professor and entrepreneur
 52,2022,01-17,,0,Miquel,Camprodon,,,,,,,https://www.linkedin.com/in/miquel-camprodon-masnou/,Yes,,,,YES,YES,,Miquel Camprodon,Miquel-Camprodon-Masnou,Lead Data Scientist at Bonpreu
-53,2022,01-17,,0,Josep M.,Ganyet,,,,,,,https://www.linkedin.com/in/josepmganyet/,Yes,,,,YES,YES,,Josep M. Ganyet,Josep-M-Ganyet,"CEO at Mortensen, S.L. and new media professor at UPF"
+53,2022,01-17,,-1,Josep M.,Ganyet,,,,,,,https://www.linkedin.com/in/josepmganyet/,Yes,,,,YES,YES,,Josep M. Ganyet,Josep-M-Ganyet,"CEO at Mortensen, S.L. and new media professor at UPF"
 54,2022,01-17,,0,Anna,Saumell Mendiola,,,,,,,https://www.linkedin.com/in/anna-saumell-mendiola-61b6b841/,Yes,,,,YES,YES,,Anna Saumell Mendiola,Anna-Saumell-Mendiola,Analytics development manager at Caixabank
 55,2022,01-17,,1,David,Bofill,,,,,,,https://www.linkedin.com/in/david-bofill-pages/,Yes,,,,YES,YES,,David Bofill,David-Bofill-Pagès,Data Science Manager at PepsiCo
 56,2022,01-17,,0,Roberto,Sanchis Ojeda,,,,,,,https://www.linkedin.com/in/sanchisojeda/,Yes,,,,YES,YES,,Roberto Sanchis Ojeda,Roberto-Sanchis-Ojeda,Senior ML Engineering Manager at Spotify
@@ -79,16 +79,16 @@ Membership Number,Year,Start Date,NIF,status,First Name,Second Name,In Name Of:,
 78,2022,03-01,,0,Aleix,Ruiz de Villa Robert,,,,,,,https://www.linkedin.com/in/aleixrvr/,Yes,,,,YES,YES,,Aleix Ruiz de Villa Robert,Aleix-Ruiz-de-Villa-Robert,Data Science Consultant: Causal Inference &amp; Machine Learning
 79,2022,03-02,,0,Màrius,Boada Pla,,,,,,,https://www.linkedin.com/in/mariusboada/,Yes,,,,YES,YES,,Màrius Boada Pla,Màrius-Boada-i-Pla,Director de l&#8217;Oficina Municipal de Dades &#8211; CDO en Ajuntament de Barcelona
 80,2022,03-02,,-1,Aida,Miguel Gutiérrez,,,,,,,https://www.linkedin.com/in/aidamiguel,Yes,,,,YES,YES,,Aida Miguel Gutiérrez,Aida-Miguel,Advanced Analytics Director
-81,2022,03-03,,0,Alberto,Camacho,,,,,,,https://www.linkedin.com/in/albertocamachomartinez/,Yes,,,,YES,YES,,Alberto Camacho,Alberto-Camacho,PhD candidate and AI resident at Google
+81,2022,03-03,,-1,Alberto,Camacho,,,,,,,https://www.linkedin.com/in/albertocamachomartinez/,Yes,,,,YES,YES,,Alberto Camacho,Alberto-Camacho,PhD candidate and AI resident at Google
 82,2022,03-07,,0,Joan,Fernández Bessa,,,,,,,https://www.linkedin.com/in/joanfernandezbessa,Yes,,,,YES,YES,,Joan Fernández Bessa,Joan-Fernandez-Bessa,Senior manager at Adamo Telecom
 83,2022,03-16,,0,Mauricio,Arnau,,,,,,,https://www.linkedin.com/in/mauricioarnau,Yes,,,,YES,YES,,Mauricio Arnau,Mauricio-Arnau,Director of Analytics at CaixaBank
-84,2022,03-17,,0,Eduardo,Sanchez-Colorado,,,,,,,https://www.linkedin.com/in/eduardo-scrm,Yes,,,,YES,YES,,Eduardo Sanchez-Colorado,Eduardo-Sánchez-Colorado-Riera-Marsá,Founder &amp; CEO at SCRM Lidl International
+84,2022,03-17,,-1,Eduardo,Sanchez-Colorado,,,,,,,https://www.linkedin.com/in/eduardo-scrm,Yes,,,,YES,YES,,Eduardo Sanchez-Colorado,Eduardo-Sánchez-Colorado-Riera-Marsá,Founder &amp; CEO at SCRM Lidl International
 85,2022,03-21,,0,Guillem,Borrell,,,,,,,https://www.linkedin.com/in/guillemborrell/,Yes,,,,YES,YES,,Guillem Borrell,Guillem-Borrell,Senior AI Software Engineer at BCG GAMMA
-86,2022,03-21,,0,Luis,Echavarri,,,,,,,https://www.linkedin.com/in/luisechavarrilasa,Yes,,,,YES,YES,,Luis Echavarri,Luis-Echavarri-Lasa,Responsable de Analítica de datos e Inteligencia Artificial en Banco Sabadell
+86,2022,03-21,,-1,Luis,Echavarri,,,,,,,https://www.linkedin.com/in/luisechavarrilasa,Yes,,,,YES,YES,,Luis Echavarri,Luis-Echavarri-Lasa,Responsable de Analítica de datos e Inteligencia Artificial en Banco Sabadell
 87,2022,03-22,,0,Ruben,Marias,,,,,,,https://www.linkedin.com/in/rubenmarias/,Yes,,,,YES,YES,,Ruben Marias,Ruben-Marias,Applied Scientist @ Microsoft
 88,2022,03-25,,-1,Carmen,Herrero,,,,,,,https://www.linkedin.com/in/carherrero/,Yes,,,,YES,YES,,Carmen Herrero,Carmen-Herrero,Data Science Manager @ Typeform
 89,2022,03-26,,0,Daniel,Rodrigo López,,,,,,,https://www.linkedin.com/in/danielrodrigolopez,Yes,,,,YES,YES,,Daniel Rodrigo López,Daniel-Rodrigo-López,Senior Data Scientist at Volotea
-90,2022,03-29,,0,Carlos,Domingo,,,,,,,https://www.linkedin.com/in/carlosdomingo/,Yes,,,,YES,YES,,Carlos Domingo,Carlos-Domingo,"Founder CEO at Securitize, Founder Managing Partner at SPiCE VC"
+90,2022,03-29,,-1,Carlos,Domingo,,,,,,,https://www.linkedin.com/in/carlosdomingo/,Yes,,,,YES,YES,,Carlos Domingo,Carlos-Domingo,"Founder CEO at Securitize, Founder Managing Partner at SPiCE VC"
 91,2022,04-04,,0,Jose-Miguel,Pulido Villaverde,,,,,,,https://www.linkedin.com/in/josemiguelpulido/,Yes,,,,YES,YES,,Jose-Miguel Pulido Villaverde,Jose-Miguel-Pulido-Villaverde,Engineer and Entrepreneur
 92,2022,04-04,,0,Enric,Spagnolo,,,,,,,https://www.linkedin.com/in/enric-spagnolo-arrizabalaga-57b394ab,Yes,,,,YES,YES,,Enric Spagnolo,Enric-Spagnolo-Arrizabalaga,Software Engineer &amp; Data Scientist at Capchase
 93,2022,04-06,,-1,Joaquim,Lecha,,,,,,,https://www.linkedin.com/in/joaquim-lecha-040136,Yes,,,,YES,YES,,Joaquim Lecha,Joaquim-Lecha,CEO at Typeform.com
