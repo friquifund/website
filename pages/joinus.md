@@ -20,7 +20,7 @@ To become a FriquiFund member, please follow the steps below:
     Concepte: FriquiFund 2024 - YOUR NAME HERE
     ```
 
-    You can also transfer the funds via Stripe, and pay with your credit card: https://donate.stripe.com/aEU8xR8m0d8w7cI146
+    You can also transfer the funds via Stripe, and pay with your credit card <a href="https://donate.stripe.com/aEU8xR8m0d8w7cI146" target="_blank">here</a>.
 
     Or, alternatively, at Benevity under "FriquiFund Membership 2024"
 
