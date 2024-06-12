@@ -20,6 +20,8 @@ To become a FriquiFund member, please follow the steps below:
     Concepte: FriquiFund 2024 - YOUR NAME HERE
     ```
 
+    You can also transfer the funds via Stripe, and pay with your credit card: https://donate.stripe.com/aEU8xR8m0d8w7cI146
+
     Or, alternatively, at Benevity under "FriquiFund Membership 2024"
 
     The fee is 240€ every year (\*), but when you first join you can make it 20€ per remaining full month of the year. For example, if you join in October, you would need to transfer 40€ for your first year membership. 
