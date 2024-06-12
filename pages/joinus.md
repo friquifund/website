@@ -17,7 +17,7 @@ To become a FriquiFund member, please follow the steps below:
     ASSOC. FRIQUIFUND
     IBAN: ES71 3025 0017 4314 0005 6392
     BIC: CDENESBBXXX
-    Concepte: FriquiFund 2023 - YOUR NAME HERE
+    Concepte: FriquiFund 2024 - YOUR NAME HERE
     ```
 
     Or, alternatively, at Benevity under "FriquiFund Membership 2024"
