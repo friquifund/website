@@ -4,11 +4,13 @@ title: Members
 permalink: /members
 ---
 
-<h1>Members</h1>
+<h1> About Us </h1>
 
-FriquiFund currently has {{ site.data.team.size }} members. Most of them are people working or tightly involved in IT, engineering and science sectors and with a strong attachment to Barcelona.
+FriquiFund is funded through its members and corporate partners. We currently are {{ site.data.team.size }} members, working or tightly involved in IT, engineering and science sectors and with a strong attachment to Barcelona. <br /><br />
 
-<h2>Leadership</h2>
+See below our <a href="#membersection"> Members</a> and <a href="#corporatesection"> Corporate Partners</a>.
+
+<h2 id="leadershipsection" >Leadership</h2>
 
 <div class="layout_members">
     {% for person in site.data.team %}
@@ -18,7 +20,7 @@ FriquiFund currently has {{ site.data.team.size }} members. Most of them are peo
     {% endfor %}
 </div>
 
-<h2>Members</h2>
+<h2 id="membersection">Members</h2>
 
 <div class="layout_members">
     {% for person in site.data.team %}
@@ -26,4 +28,12 @@ FriquiFund currently has {{ site.data.team.size }} members. Most of them are peo
     {% include members/member.html person=person %}
     {% endif %}
     {% endfor %}
+</div>
+
+<h2 id="corporatesection">Corporate Partners</h2>
+<div class="row">
+    <div class="col-md-4">
+    <img src="img/luctalogo.png" style="max-height:100px;"/></div>
+    <div class="col-md-6" >
+    <img src="img/founderzlogo.png" style="max-height:70px;"/></div>
 </div>
