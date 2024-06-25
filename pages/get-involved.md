@@ -22,13 +22,11 @@ There are many ways to help, and we are always looking for volunteers to help us
 
 ## Have flexible dedication
 
-1. **NGO Metrics:**  we recently created a taskforce to evaluate all the different initiatives we are fostering and better measure their metrics. This is a newly created group, actively looking for volunteers interested on the intersection between data & non-profit.
 
-2. **FriquiFund Talks:** we organize 2 fundraising talks every year.  The objective of these talks is two-fold: on one hand, it allows us to raise funds for our initiatives (speakers volunteer to give a talk at no cost, and all proceeds go to FriquiFund). On the other hand, it creates a place to meet for FriquiFund members, mentees, students participating in our iniatives and other interested audience, allowing us to have a common (and diverse) space to meet. We are always seeking volunteers to help organize these initiatives, find new speakers, etc. 
+1. **FriquiFund Talks:** we organize 2 fundraising talks every year.  The objective of these talks is two-fold: on one hand, it allows us to raise funds for our initiatives (speakers volunteer to give a talk at no cost, and all proceeds go to FriquiFund). On the other hand, it creates a place to meet for FriquiFund members, mentees, students participating in our iniatives and other interested audience, allowing us to have a common (and diverse) space to meet. We are always seeking volunteers to help organize these initiatives, find new speakers, etc. 
 
-3. **NGO Follow-Up:** we need volunteers to help us maintain good relationships with the NGOs we help. Some of the tasks include: keep up with their reporting, answer their questions, and prepare the budget vote proposals. For most of the year this is a ver low commitment (a few emails here and there, one or two phone calls, one or two visits if you want to), but there is a peak of work around February  (e.g. 3-6h of work) when we need to prepare the plenary budget vote. We need people who can maintain this commitment for a year or more, so they build a relationship with our partners. 
 
-4. **Others:** do you want to help us communicate better, reach more members, find more NGOs or broaden our impact?  Let us know!
+2. **Others:** do you want to help us communicate better, reach more members, find more NGOs or broaden our impact?  Let us know!
 
 Do you want to know more about our volunteering opportunities, or share your interest? <a href="https://forms.gle/qvA6dyxtcm7rNTK79" target="_blank">Please Reach Us!</a>
 
