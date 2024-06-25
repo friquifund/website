@@ -17,8 +17,8 @@ en: &DEFAULT_EN
     #  url: /#team
     - title: "Efforts"
       url: /efforts
-    - title: "Members"
-      url: /members
+    - title: "About Us"
+      url: /about-us
     - title: "News"
       url: /news
     - title: "Get Involved"

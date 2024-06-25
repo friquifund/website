@@ -16,7 +16,7 @@ Do you have questions about a technology-related topic and want someone expert t
 
 Need help passing a STEM subject?
 
-Our **mentoring program** is led by [Friquifund members](/members) with years of experience working in STEM-related jobs (Software Engineering, Data Science, Data Engineering, etc.) willing to guide you.
+Our **mentoring program** is led by [Friquifund members](/about-us) with years of experience working in STEM-related jobs (Software Engineering, Data Science, Data Engineering, etc.) willing to guide you.
 
 You choose the **frequency** that best suits your availability and needs: from an informal chat every two months to more pressing sessions every week!
 

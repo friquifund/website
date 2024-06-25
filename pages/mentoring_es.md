@@ -16,7 +16,7 @@ permalink: /mentoring/es
 
 ¿Necesitas ayuda para aprobar una asignatura STEM?
 
-Nuestro **programa de mentoría** está liderado por [miembros de FriquiFund](/members) con años de experiencia trabajando en puestos relacionados con STEM (Ingeniería de software, Ciencia de datos, Ingeniería de datos, etc.) dispuestos a guiar-te.
+Nuestro **programa de mentoría** está liderado por [miembros de FriquiFund](/about-us) con años de experiencia trabajando en puestos relacionados con STEM (Ingeniería de software, Ciencia de datos, Ingeniería de datos, etc.) dispuestos a guiar-te.
 
 Tú eliges la **frecuencia** que mejor se ajusta a tu disponibilidad y necesidades: ¡desde una charla informal cada dos meses hasta una sesión más seria cada semana!
 
