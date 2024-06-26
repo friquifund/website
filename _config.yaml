@@ -21,6 +21,7 @@ locale: "en-US" # See available languages in _data/sitetext.yml
 analytics:
   google: G-CDEB4MQ0QJ # Google Analytics tracking code (Andreu Mayo account)
 
+
 #collections:
 #  portfolio:
 

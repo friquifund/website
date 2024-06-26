@@ -12,6 +12,7 @@ Our mission is to support vulnerable boys and girls in STEM, from age 8 until th
 
 We provide **funding to NGOs** (after-school programs, robotic courses for kids, IT materials/hardware), **sponsor educational programs** (summer camps, bootcamps, technical education or superior studies). Additionally, we support the students during the entire process, by **mentoring and helping them get their first internship or job**.
 
+
 ## Collaboration with NGOs
 
 Tere are many well-structured organizations actively supporting STEM students in need. We acknowledge their experience and collaborate with them through cash donations, so that they can improve or extend their support to even more people. By 2023, FriquiFund has donated {{ site.data.sitetext.total_donated }} to the following NGOs:
