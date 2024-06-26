@@ -8,7 +8,7 @@
 <!-- Mission -->
 {% include home/section.html id='mission' title='Mission' %}
 
-{% include carousel.html height="30" unit="%" duration="10" number="1" %}
+<!--{% include carousel.html height="30" unit="%" duration="10" number="1" %}-->
 
 {% include home/section.html id='ongoingefforts' title='Ongoing Efforts' %}
 
