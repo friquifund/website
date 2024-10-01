@@ -9,5 +9,5 @@
 
 Want to find more about us? check our [latest news and updates](news.html).
 
-If you like what we do, please consider [Joining Us](join-us.html) or [Volunteering](get-involved.html)!
+If you like what we do, please consider [joining Us](join-us.html) or [volunteering](get-involved.html)!
 
