@@ -7,6 +7,7 @@
 - We organize fundraising Talks with industry-experts on STEM topics to raise money towards our mission.
 - We hold plenary meetings four times per year.
 
-Want to find more about what we do? check our [current initiatives](efforts.html) or find out about our [latest news and updates](news.html).
+Want to find more about us? check our [latest news and updates](news.html).
 
+If you like what we do, please consider [Joining Us](join-us.html) or [Volunteering](get-involved.html)!
 
