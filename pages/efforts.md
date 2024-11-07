@@ -42,4 +42,9 @@ FriquiFund has a close relationship with Barcelona tech companies through its me
 **Others**:
 Finally, our ambition is to provide help in any STEM-related area. We are aware that a challenge some of our students face is not having access to IT material. In this area, we facilitate hardware donations to NGOs and students ({{ site.data.sitetext.hardware_donated }} so far).
 
-There are other efforts and companies that also work in this area and we are in contact with, see full list [here](/otherefforts).
+# Related Initiatives
+
+There are many initiatives, NGOs, projects and companies that work in related areas. Every year our members vote on which of their projects to fund.
+
+[You can find here the full list of initiatives we now of!](/otherefforts)
+
