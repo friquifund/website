@@ -21,6 +21,8 @@ Here is a list of other related NGOs, programs and companies in this space that 
 
 **<a href="https://fundacionexit.org/?lang=en" target="_blank">Fundación Exit</a>**: The mission of Fundación Exit is to reduce the school dropout rates of at-risk youth by implementing scalable and innovative training projects that offer an itinerary and add value to companies while promoting networking and job placement.
 
+**<a href="https://www.goodgamegen.com/">Good Game Generation</a>**: Descubre de la mano de las actividades de Good Game Generation cómo los videojuegos y el good gaming pueden llevarte al siguiente nivel.
+
 **<a href="https://www.unicef.org/innovation/giga" target="_blank">Giga (Unicef, Office of Innovation)</a>**: Connecting Every School to the Internet.
 
 **<a href="https://www.nouscims.com/en/who-we-are/about-nous-cims" target="_blank">Fundación Privada Nous Cims</a>**: We are a BCN-based NGO that creates and develops innovative, transformative and sustainable social projects in the fields of employability, emotional well-being and global development with the aim of impacting the most vulnerable people, especially women, youth and children, both here and in emerging countries.
