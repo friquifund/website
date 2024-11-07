@@ -46,5 +46,5 @@ Finally, our ambition is to provide help in any STEM-related area. We are aware 
 
 There are many initiatives, NGOs, projects and companies that work in related areas. Every year our members vote on which of their projects to fund.
 
-[You can find here the full list of initiatives we now of!](/otherefforts)
+[You can find here the full list of initiatives we know of!](/otherefforts)
 
