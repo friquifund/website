@@ -18,7 +18,7 @@ Membership Number,Year,Start Date,status,First Name,Second Name,LinkedIn,Can Sha
 19,2021,01-11,0,Pau,Rué,https://www.linkedin.com/in/paurue/,Yes,Pau Rué,Pau-Rué,VP of Artificial Intelligence at Infermedica
 20,2021,01-12,0,Josep M. (Pep),Martorell,https://www.linkedin.com/in/josepmariamartorellrodon/,Yes,Josep M. (Pep) Martorell,Josep-Maria-Martorell-Rodon,Associate Director at Barcelona Supercomputing Center
 21,2021,01-11,1,Oleguer,Sagarra,https://www.linkedin.com/in/oleguer-sagarra-64588a40,Yes,Oleguer Sagarra,Oleguer-Sagarra,Co-founder & co-CEO at DRIBIA: Data Research in Business Intel. Analytics
-23,2021,01-27,1,Xavier,Amatriain,https://www.linkedin.com/in/xamatriain/,Yes,Xavier Amatriain,Xavier-Amatriain,Leading Generative AI Engineering and Product Initiatives at LinkedIn
+23,2021,01-27,1,Xavier,Amatriain,https://www.linkedin.com/in/xamatriain/,Yes,Xavier Amatriain,Xavier-Amatriain,Leading AI Products at Google
 24,2021,02-08,0,Cristina,Bellido,https://www.linkedin.com/in/cristina-bellido-28a089b/,Yes,Cristina Bellido,Cristina-Bellido,Directora de Negocio y Analytics en VidaCaixa
 26,2021,03-15,0,Hannes Felix,Mueller,https://www.linkedin.com/in/hannes-mueller-research/,Yes,Hannes Felix Mueller,Hannes-Mueller,"Tenured Researcher (IAE - CSIC), Program Director M.Sc. Data Science for Decision Making (BSE)"
 27,2021,08-18,0,Paula,Batlle,https://www.linkedin.com/in/paulabatlle/,Yes,Paula Batlle,Paula-Battle,"Sr manager, Product Manager tech at Amazon "
@@ -188,3 +188,5 @@ Membership Number,Year,Start Date,status,First Name,Second Name,LinkedIn,Can Sha
 215,2024,07-28,0,Jaume,Archidona,https://www.linkedin.com/in/james-archidona-11018431/,Yes,Jaume Archidona,,CEO at Freightol
 216,2024,09-19,0,Ana,García del Molino,https://www.linkedin.com/in/anagarciadelmolino/,Yes,Ana García del Molino,Ana-Garcia-del-Molino,Associate Principal AI Engineer at AstraZeneca
 217,2024,10-22,0,Irene,Font Peradejordi,https://www.linkedin.com/in/irenefontperadejordi/,Yes,Irene Font Peradejordi,,"Asst Director Responsible AI @ Liberty Mutual, Ex-Twitter"
+218,2024,11-07,0,Ali,Parsa,www.linkedin.com/in/ali-parsa-7bb99873,Yes,Ali Parsa,,"Healthcare Entrepreneur, Founder of Quadrivia, Babylon and Circle"
+219,2024,11-22,0,Albert,Mercadé Blasco,https://www.linkedin.com/in/albert-mercade-b4732b31/,Yes,Albert Mercadé Blasco,Albert-Mercade,Data Analytics & Engineering
