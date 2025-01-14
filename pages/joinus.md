@@ -10,7 +10,7 @@ To become a FriquiFund member, please follow the steps below:
 
 1. Fill the <a href="https://docs.google.com/forms/d/e/1FAIpQLScdUiUZQpEtSQ-f2Lc4Aljb7Rfd_wR5yOJO1Nny7dOpX3pgxw/viewform" target="_blank">FriquiFund Membership Form</a>
 
-2. Pay the subscription fee, which is 240€ per year.<br>(up to 80% deductible from your Spanish taxes*!)<br><em>When you first join you can make it 20€ per remaining full month of the year. For example, if you join in October, you would need to transfer 40€ for your first year of membership.</em><br><br>You have three ways to pay your fee:<br>
+2. Pay the subscription fee, which is 240€ per year (up to 40-80% deductible!)<br><em>When you first join you can adjust the fee to 20€ per remaining full month of the year (e.g. if you join in October, your first fee would be 40€).</em><br><br>You have three ways to pay your fee:<br>
         a) Pay with your credit card <a href="https://donate.stripe.com/aEU8xR8m0d8w7cI146" target="_blank">here</a>.<br>
         b) Pay with bank transfer to:<br>
     ```
