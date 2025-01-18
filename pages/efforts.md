@@ -12,6 +12,7 @@ Our mission is to support vulnerable boys and girls in STEM, from age 8 until th
 
 We provide **funding to NGOs** (after-school programs, robotic courses for kids, IT materials/hardware), **sponsor educational programs** (summer camps, bootcamps, technical education or superior studies). Additionally, we support the students during the entire process, by **mentoring and helping them get their first internship or job**.
 
+<table><tr><td>End of Year Newsletters:</td><td>[2024]()</td><td>[2023]()</td></tr></table></table>
 
 ## Collaboration with NGOs
 
