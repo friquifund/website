@@ -12,9 +12,10 @@ Our mission is to support vulnerable boys and girls in STEM, from age 8 until th
 
 We provide **funding to NGOs** (after-school programs, robotic courses for kids, IT materials/hardware), **sponsor educational programs** (summer camps, bootcamps, technical education or superior studies). Additionally, we support the students during the entire process, by **mentoring and helping them get their first internship or job**.
 
-|   |   |
-|---|---|
-|__Year Summaries:__| <a href="https://friquifund.beefreecontent.com/ZFyI">2024</a> |
+
+**Annual Overviews:**
+<ul><li><a href="https://friquifund.beefreecontent.com/ZFyI" target="_blank_">2024 Recap</a></li><li><a href="https://friquifund.beefreecontent.com/f2yT" target="_blank">2023 Recap </a></li></ul>
+
 
 
 ## Collaboration with NGOs
