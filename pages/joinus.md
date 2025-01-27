@@ -10,10 +10,10 @@ To become a FriquiFund member, please follow the steps below:
 
 1. Fill the <a href="https://docs.google.com/forms/d/e/1FAIpQLScdUiUZQpEtSQ-f2Lc4Aljb7Rfd_wR5yOJO1Nny7dOpX3pgxw/viewform" target="_blank">FriquiFund Membership Form</a>
 
-2. Pay the subscription fee, which is 240€ for 12 months (up to 80% deductible*!)<br>&nbsp;<br>
-You have three ways to pay your fee:<br>
-&nbsp;&nbsp;a) <a href="https://buy.stripe.com/fZe7tN7hW1pOfJe4gg" target="_blank">Online Subscription</a><br>
-&nbsp;&nbsp;b) Pay via Benevity under "FriquiFund Membership 2025"
+2. Pay the subscription fee, which is 240€ for 12 months (up to 80% deductible*!)<br>&nbsp;<br/>
+You have three ways to pay your fee:<br/>
+&nbsp;&nbsp;a) <a href="https://buy.stripe.com/fZe7tN7hW1pOfJe4gg" target="_blank">Online Subscription</a><br/>
+&nbsp;&nbsp;b) Pay via Benevity under "FriquiFund Membership 2025"<br/>
 &nbsp;&nbsp;c) Bank transfer:
 ```
     ASSOC. FRIQUIFUND
