@@ -10,7 +10,7 @@ FriquiFund is funded through its members and corporate partners. We currently ar
 
 See below our <a href="#membersection"> Members</a> and <a href="#corporatesection"> Corporate Partners</a>.
 
-<h2 id="leadershipsection" >Leadership</h2>
+<h2 id="leadershipsection" >Working Group</h2>
 
 <div class="layout_members">
     {% for person in site.data.team %}
@@ -24,7 +24,7 @@ See below our <a href="#membersection"> Members</a> and <a href="#corporatesecti
 
 <div class="layout_members">
     {% for person in site.data.team %}
-    {% if person["Can Share in Web"] != "No" and person.status == "0" %}
+    {% if person["Can Share in Web"] != "No" %}
     {% include members/member.html person=person %}
     {% endif %}
     {% endfor %}

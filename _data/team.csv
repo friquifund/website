@@ -51,7 +51,7 @@ Membership Number,Year,Start Date,status,First Name,Second Name,LinkedIn,Can Sha
 58,2022,2022-01,0,Marc,Ollé,https://www.linkedin.com/in/marc-olle-soronellas-phd-01984/,Yes,Marc Ollé,Marc-Olle,Associate Director - Data science at BCG
 60,2022,2022-01,0,Miguel Ángel,Barja Yáñez,https://www.linkedin.com/in/miguel-%C3%A1ngel-barja-y%C3%A1%C3%B1ez-b1b58b25/,Yes,Miguel Ángel Barja Yáñez,Miguel-Ángel-Barja-Yáñez,Director CFIS at Universitat Politècnica de Catalunya
 62,2022,2022-01,0,Eva,Romero Beneyto,https://www.linkedin.com/in/eva-romero-beneyto-632b1019,Yes,Eva Romero Beneyto,Eva-Romero-Beneyto,Director of Quantitative Analysis Unit at Banco Sabadell
-63,2022,2022-01,1,Elisenda,Bou,https://www.linkedin.com/in/elisendabou,Yes,Elisenda Bou,Elisenda-Bou-Balust,"Co-Founder and CTO at Vilynx, now Head of Apple Media Knowledge"
+63,2022,2022-01,1,Elisenda,Bou,https://www.linkedin.com/in/elisendabou,Yes,Elisenda Bou,Elisenda-Bou-Balust,Co-founder & CEO at Cala
 64,2022,2022-01,0,Joan,Vendrell,https://www.linkedin.com/in/jvendrell/,Yes,Joan Vendrell,Joan-Vendrell-Farreny,CEO & Co-Founder at Singularly
 65,2022,2022-01,0,Anna,Schlegel,https://www.linkedin.com/in/annanschlegel/,Yes,Anna Schlegel,Anna-N-Schlegel,Vice-President @ Procore.
 66,2022,2022-01,0,Oriol,Vinyals,https://www.linkedin.com/in/oriol-vinyals-00b3366/,Yes,Oriol Vinyals,Oriol-Vinyals,Principal Research Scientist at Google DeepMind
@@ -67,6 +67,7 @@ Membership Number,Year,Start Date,status,First Name,Second Name,LinkedIn,Can Sha
 89,2022,2022-03,0,Daniel,Rodrigo López,https://www.linkedin.com/in/danielrodrigolopez,Yes,Daniel Rodrigo López,Daniel-Rodrigo-López,Senior Data Scientist at Volotea
 91,2022,2022-04,0,Jose-Miguel,Pulido Villaverde,https://www.linkedin.com/in/josemiguelpulido/,Yes,Jose-Miguel Pulido Villaverde,Jose-Miguel-Pulido-Villaverde,Engineer and Entrepreneur
 92,2022,2022-04,0,Enric,Spagnolo,https://www.linkedin.com/in/enric-spagnolo-arrizabalaga-57b394ab,Yes,Enric Spagnolo,Enric-Spagnolo-Arrizabalaga,Software Engineer &amp; Data Scientist at Capchase
+94,2022,2022-04,0,Santiago,Murillo,https://www.linkedin.com/in/santimurrillo,Yes,Santiago Murillo,Santiago-M,Data Products Director at CaixaBank
 95,2022,2022-04,0,Antonio,Calvo,https://www.linkedin.com/in/antoniocalvog,Yes,Antonio Calvo,Antonio-Calvo,Head Retail &amp; CPG at SAS
 96,2022,2022-04,0,Martí,Mayo Casademont,https://www.linkedin.com/in/mart%C3%AD-mayo-casademont-7a1b722b,Yes,Martí Mayo Casademont,Martí-Mayo-Casademont,Lead Data Scientist BCG X
 98,2022,2022-04,0,Germán,García,https://www.linkedin.com/in/gergf/,Yes,Germán García,Germán-García-Ferrando,Data Strategy Consultant @ BCG
@@ -102,7 +103,7 @@ Membership Number,Year,Start Date,status,First Name,Second Name,LinkedIn,Can Sha
 136,2023,2023-01,0,Joan,Picanyol,,No,,,
 137,2023,2023-01,0,Marçal,Molins Alonso,https://www.linkedin.com/in/molins/,Yes,Marçal Molins Alonso,Marçal Molins Alonso,"Associate Director, Data Science en BCG GAMMA"
 139,2023,2023-01,0,Roger,Forcada Margarit,https://www.linkedin.com/in/roger-forcada/,Yes,Roger Forcada Margarit,Roger Forcada Margarit,"Principal, Data Science, BCG X"
-140,2023,2023-01,0,Amelie,Baud,https://www.linkedin.com/in/amelie-baud-a481791aa/,Yes,Amelie Baud,Amelie Baud,Research group leader at Centre for Genomic Regulation (CRG)
+140,2023,2023-01,1,Amelie,Baud,https://www.linkedin.com/in/amelie-baud-a481791aa/,Yes,Amelie Baud,Amelie Baud,Research group leader at Centre for Genomic Regulation (CRG)
 141,2023,2023-01,0,Miquel,Larsson,https://www.linkedin.com/in/miqlar/,Yes,Miquel Larsson,Miquel-Larsson,Senior Data Scientist at Glovo
 142,2023,2023-01,0,Toni,Moreno,https://www.linkedin.com/in/tmoreno/,Yes,Toni Moreno,Toni Moreno,Associate Professor of Business Administration at Harvard Business School
 143,2023,2023-01,0,Maria,Fernandez Ruiz,https://www.linkedin.com/in/maria-fdez-ruiz/,Yes,Maria Fernandez Ruiz,,Lead Data Scientist at BCG GAMMA
@@ -118,6 +119,7 @@ Membership Number,Year,Start Date,status,First Name,Second Name,LinkedIn,Can Sha
 159,2023,2023-02,0,Xavier,Spagnolo,https://www.linkedin.com/in/xavier-spagnolo-61803b8b,Yes,Xavier Spagnolo,,Senior Software Engineer en Google
 160,2023,2023-02,0,Jordi,Torres,https://www.linkedin.com/in/jorditorresai/,Yes,Jordi Torres,,Professor at UPC Barcelona Tech | Senior Researcher at BSC | Expert Advisor in HPC & AI at BSC
 161,2023,2023-03,0,Jose,Ballester,https://www.linkedin.com/in/jballester/,Yes,Jose Ballester,,Software Engineer at REVER
+162,2023,2023-03,0,Ariadna,Font Llitjos,https://www.linkedin.com/in/ariadna,Yes,Ariadna Font Llitjos,,Building something new + Helping business leverage AI and ML responsibly | Speaker | Mentor
 164,2023,2023-03,0,Llorenç,Mitjavila,https://www.linkedin.com/in/llorenc-mitjavila/,Yes,Llorenç Mitjavila,,Managing Director and Senior Partner at BCG X
 165,2023,2023-03,0,Salvador,Garcia Ruiz,https://www.linkedin.com/in/salvador-garcia-ruiz-079248/,Yes,Salvador Garcia Ruiz,,Senior Executive & Advisor
 167,2023,2023-04,0,Ricard,Ferrer,https://www.linkedin.com/in/ricard-ferrer/,Yes,Ricard Ferrer,,Data Scientist at PepsiCo
@@ -148,6 +150,7 @@ Membership Number,Year,Start Date,status,First Name,Second Name,LinkedIn,Can Sha
 200,2024,2024-01,0,Natalia,Subirana,https://www.linkedin.com/in/natalia-subirana-art%C3%BAs-b222791b5/,Yes,Natalia Subirana,,Research Assistant at IESE | Mathematics at the University of Barcelona
 201,2024,2024-02,0,Hector,Fornes Martinez,https://www.linkedin.com/in/fornes,Yes,Hector Fornes Martinez,,Manager at Vueling Airlines | Air Transport Management Lecturer @ UPC | MIT alumn
 202,2024,2024-02,0,Lledó,Esquerra Ortells,https://www.linkedin.com/in/lledoe/,Yes,Lledó Esquerra Ortells,Lledo-Esquerra,Sr. Research Scientist at Amazon
+203,2024,2024-02,0,Sergi,Ortiz Rodriguez,https://www.linkedin.com/in/sergiortizrodriguez/,Yes,Sergi Ortiz Rodriguez,,CEO at Shimoku | Data & AI to empower individuals and teams
 204,2024,2024-03,0,Marta Regina,Cano Jiménez,https://es.linkedin.com/in/martareginacano,Yes,Marta Regina Cano Jiménez,Marta-Regina-Cano-Jimenez,Business Intelligence Director en Grupo Caja de Ingenieros
 205,2024,2024-03,0,Marc,Fuster Rullan,https://es.linkedin.com/in/marcfuster,Yes,Marc Fuster Rullan,,Senior Data Scientist @PepsiCo
 206,2024,2024-03,0,Pere,Mayol,https://www.linkedin.com/in/peremayol/,Yes,Pere Mayol,,Constructing intelligent machines
@@ -166,3 +169,5 @@ Membership Number,Year,Start Date,status,First Name,Second Name,LinkedIn,Can Sha
 221,2025,2025-01,0,Carlos,Pérez Ricardo,https://www.linkedin.com/in/carlospr97/,Yes,Carlos Pérez Ricardo,Carlos-Perez-Ricardo,Data Scientist - Aerospace Engineer
 222,2025,2025-02,0,Enrique,Alcantara-Garcia,https://www.linkedin.com/in/enrique-alcántara-b9623b,Yes,Enrique Alcantara-Garcia,Enrique-Alcantara,CEO and Founder at Stay U-nique
 223,2025,2025-03,0,Arantxa,Sanz,https://www.linkedin.com/in/arantxa-sanz-b1bb8a/,Yes,Arantxa Sanz,,Executive Director - Strategy for Research and Innovation
+224,2025,2025-04,0,Barbara,Buades,https://www.linkedin.com/in/barbarabuades/,Yes,Barbara Buades,,Co-Founder & CEO at MEETOPTICS
+225,2025,2025-06,1,Pol,Gomà Deàs,https://es.linkedin.com/in/polgomadeas,Yes,Pol Gomà Deàs,Pol-Goma,"Growth, marketing & CRM"
