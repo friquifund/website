@@ -51,7 +51,7 @@ Membership Number,Year,Start Date,status,First Name,Second Name,LinkedIn,Can Sha
 58,2022,2022-01,0,Marc,Ollé,https://www.linkedin.com/in/marc-olle-soronellas-phd-01984/,Yes,Marc Ollé,Marc-Olle,Associate Director - Data science at BCG
 60,2022,2022-01,0,Miguel Ángel,Barja Yáñez,https://www.linkedin.com/in/miguel-%C3%A1ngel-barja-y%C3%A1%C3%B1ez-b1b58b25/,Yes,Miguel Ángel Barja Yáñez,Miguel-Ángel-Barja-Yáñez,Director CFIS at Universitat Politècnica de Catalunya
 62,2022,2022-01,0,Eva,Romero Beneyto,https://www.linkedin.com/in/eva-romero-beneyto-632b1019,Yes,Eva Romero Beneyto,Eva-Romero-Beneyto,Director of Quantitative Analysis Unit at Banco Sabadell
-63,2022,2022-01,1,Elisenda,Bou,https://www.linkedin.com/in/elisendabou,Yes,Elisenda Bou,Elisenda-Bou-Balust,Co-founder & CEO at Cala
+63,2022,2022-01,1,Elisenda,Bou,https://www.linkedin.com/in/elisendabou,Yes,Elisenda Bou,Elisenda-Bou-Balust,Co-founder & CEO @ Cala
 64,2022,2022-01,0,Joan,Vendrell,https://www.linkedin.com/in/jvendrell/,Yes,Joan Vendrell,Joan-Vendrell-Farreny,CEO & Co-Founder at Singularly
 65,2022,2022-01,0,Anna,Schlegel,https://www.linkedin.com/in/annanschlegel/,Yes,Anna Schlegel,Anna-N-Schlegel,Vice-President @ Procore.
 66,2022,2022-01,0,Oriol,Vinyals,https://www.linkedin.com/in/oriol-vinyals-00b3366/,Yes,Oriol Vinyals,Oriol-Vinyals,Principal Research Scientist at Google DeepMind
@@ -157,7 +157,7 @@ Membership Number,Year,Start Date,status,First Name,Second Name,LinkedIn,Can Sha
 208,2024,2024-04,0,Rafael,Giménez,https://www.linkedin.com/in/rafa-gimenez/,Yes,Rafael Giménez,Rafael-Gimenez,Data & AI Lead at Quantion
 210,2024,2024-04,0,Pol,Blasco Moreno,https://www.linkedin.com/in/polblasco/,Yes,Pol Blasco Moreno,,Data Science Manager at Scopely
 211,2024,2024-06,0,Alireza,Mahmoodzadeh,https://www.linkedin.com/in/alireza-mahmoodzadeh-70763564/,Yes,Alireza Mahmoodzadeh,,"PhD Candidate, ESADE"
-212,2024,2024-06,0,Issey,Masuda Mora,www.linkedin.com/in/issey-masuda-mora,Yes,Issey Masuda Mora,,Head of Apple Media Knowledge
+212,2024,2024-06,0,Issey,Masuda Mora,www.linkedin.com/in/issey-masuda-mora,Yes,Issey Masuda Mora,,Co-Founder & CTO @Cala
 213,2024,2024-07,0,Valeria,Tereshchenko,https://www.linkedin.com/in/valeri-tereshchenko/,Yes,Valeria Tereshchenko,,MLOps at PepsiCo
 214,2024,2024-07,0,Miquel,Casas,https://www.linkedin.com/in/miquel-c-31a55a/,Yes,Miquel Casas,,CTO @ Discogs.com
 215,2024,2024-07,0,Jaume,Archidona,https://www.linkedin.com/in/james-archidona-11018431/,Yes,Jaume Archidona,,CEO at Freightol
@@ -171,3 +171,4 @@ Membership Number,Year,Start Date,status,First Name,Second Name,LinkedIn,Can Sha
 223,2025,2025-03,0,Arantxa,Sanz,https://www.linkedin.com/in/arantxa-sanz-b1bb8a/,Yes,Arantxa Sanz,,Executive Director - Strategy for Research and Innovation
 224,2025,2025-04,0,Barbara,Buades,https://www.linkedin.com/in/barbarabuades/,Yes,Barbara Buades,,Co-Founder & CEO at MEETOPTICS
 225,2025,2025-06,1,Pol,Gomà Deàs,https://es.linkedin.com/in/polgomadeas,Yes,Pol Gomà Deàs,Pol-Goma,"Growth, marketing & CRM"
+226,2025,2025-06,0,Alexander,Zhitlukhin,https://www.linkedin.com/in/alexander-zhitlukhin/,Yes,Alexander Zhitlukhin,,CTO @ Appodeal
