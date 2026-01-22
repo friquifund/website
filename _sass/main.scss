@@ -158,3 +158,35 @@ div.headerimg>img{
     font-size:10pt;
     
 }
+/* Corporate Partners / Sponsors */
+
+$partner-logo-max-height-desktop: 100px;
+$partner-logo-max-height-mobile: 60px;
+
+.partner-cell {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px 8px;
+}
+
+.partner-logo {
+    max-height: $partner-logo-max-height-desktop;
+    width: auto;
+    max-width: 100%;
+    object-fit: contain;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+    opacity: 0.9;
+}
+
+.partner-logo:hover {
+    transform: scale(1.03);
+    opacity: 1;
+}
+
+/* Mobile adjustments */
+@media (max-width: 575px) {
+    .partner-logo {
+        max-height: $partner-logo-max-height-mobile;
+    }
+}
