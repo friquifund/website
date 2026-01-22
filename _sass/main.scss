@@ -160,14 +160,14 @@ div.headerimg>img{
 }
 /* Corporate Partners / Sponsors */
 
-$partner-logo-max-height-desktop: 100px;
-$partner-logo-max-height-mobile: 60px;
+$partner-logo-max-height-desktop: 130px;
+$partner-logo-max-height-mobile: 80px;
 
 .partner-cell {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 28px 20px;
+    padding: 24px 16px; /* slightly tighter so logos feel bigger */
 }
 
 .partner-logo {
@@ -176,11 +176,11 @@ $partner-logo-max-height-mobile: 60px;
     max-width: 100%;
     object-fit: contain;
     transition: transform 0.2s ease, opacity 0.2s ease;
-    opacity: 0.9;
+    opacity: 0.95;
 }
 
 .partner-logo:hover {
-    transform: scale(1.03);
+    transform: scale(1.05);
     opacity: 1;
 }
 
