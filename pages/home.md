@@ -7,8 +7,9 @@
 {% include home/section.html id='mission' title='Mission' %}
 
 <!-- Corporate Partners -->
+ <div class="container">
 {% include corporatepartners.html id='corporatesection' title='Corporate Partners' %}
-
+ </div>
 
 {% include carousel.html height="35" unit="%" duration="10" number="1" %}
 <!--<section class="page-section" id="{{ include.id }}">
