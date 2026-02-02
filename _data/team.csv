@@ -63,6 +63,7 @@ Membership Number,Year,Start Date,status,First Name,Second Name,LinkedIn,Can Sha
 77,2022,2022-02,0,Pol,Oliva Martí,https://www.linkedin.com/in/pol-oliva-mart%C3%AD-45890145,Yes,Pol Oliva Martí,Pol-Oliva-Martí,Director of Data & Advanced Analytics at MANGO
 79,2022,2022-03,0,Màrius,Boada Pla,https://www.linkedin.com/in/mariusboada/,Yes,Màrius Boada Pla,Màrius-Boada-i-Pla,Director de l&#8217;Oficina Municipal de Dades &#8211; CDO en Ajuntament de Barcelona
 82,2022,2022-03,0,Joan,Fernández Bessa,https://www.linkedin.com/in/joanfernandezbessa,Yes,Joan Fernández Bessa,Joan-Fernandez-Bessa,Senior manager at Adamo Telecom
+83,2022,2022-03,0,Mauricio,Arnau,https://www.linkedin.com/in/mauricioarnau,Yes,Mauricio Arnau,Mauricio-Arnau,Director of Analytics at CaixaBank
 87,2022,2022-03,0,Ruben,Marias,https://www.linkedin.com/in/rubenmarias/,Yes,Ruben Marias,Ruben-Marias,Applied Scientist @ Microsoft
 89,2022,2022-03,0,Daniel,Rodrigo López,https://www.linkedin.com/in/danielrodrigolopez,Yes,Daniel Rodrigo López,Daniel-Rodrigo-López,Senior Data Scientist at Volotea
 91,2022,2022-04,0,Jose-Miguel,Pulido Villaverde,https://www.linkedin.com/in/josemiguelpulido/,Yes,Jose-Miguel Pulido Villaverde,Jose-Miguel-Pulido-Villaverde,Engineer and Entrepreneur
@@ -122,6 +123,7 @@ Membership Number,Year,Start Date,status,First Name,Second Name,LinkedIn,Can Sha
 162,2023,2023-03,0,Ariadna,Font Llitjos,https://www.linkedin.com/in/ariadna,Yes,Ariadna Font Llitjos,,Building something new + Helping business leverage AI and ML responsibly | Speaker | Mentor
 164,2023,2023-03,0,Llorenç,Mitjavila,https://www.linkedin.com/in/llorenc-mitjavila/,Yes,Llorenç Mitjavila,,Managing Director and Senior Partner at BCG X
 165,2023,2023-03,0,Salvador,Garcia Ruiz,https://www.linkedin.com/in/salvador-garcia-ruiz-079248/,Yes,Salvador Garcia Ruiz,,Senior Executive & Advisor
+166,2023,2023-03,0,Andreu,Dotti,https://www.linkedin.com/in/andreu-dotti-boada-01043810b/,Yes,Andreu Dotti,,CEO & Co-Founder at Innovamat
 167,2023,2023-04,0,Ricard,Ferrer,https://www.linkedin.com/in/ricard-ferrer/,Yes,Ricard Ferrer,,Data Scientist at PepsiCo
 168,2023,2023-04,0,Nacho,Lafuente Botella,https://www.linkedin.com/in/nacholafuentebotella/,Yes,Nacho Lafuente Botella,,Managing Director at Klarrio
 170,2023,2023-04,0,Jordi,Plana,https://www.linkedin.com/in/joplana/,Yes,Jordi Plana,,Founder & Investor on Sabbatical
@@ -172,3 +174,6 @@ Membership Number,Year,Start Date,status,First Name,Second Name,LinkedIn,Can Sha
 224,2025,2025-04,0,Barbara,Buades,https://www.linkedin.com/in/barbarabuades/,Yes,Barbara Buades,,Co-Founder & CEO at MEETOPTICS
 225,2025,2025-06,1,Pol,Gomà Deàs,https://es.linkedin.com/in/polgomadeas,Yes,Pol Gomà Deàs,Pol-Goma,"Growth, marketing & CRM"
 226,2025,2025-06,0,Alexander,Zhitlukhin,https://www.linkedin.com/in/alexander-zhitlukhin/,Yes,Alexander Zhitlukhin,,CTO @ Appodeal
+227,2025,2026-11,0,Yago,Flores,https://www.linkedin.com/in/yagoflores/,Yes,Yago Flores,,Director NTT Data
+228,2026,2026-01,0,Jorge,Alçada,https://www.linkedin.com/in/jfalcada,Yes,Jorge Alçada,Jorge-Alcada,"Head of Engineering and Applied Science, Amazon"
+229,2026,2026-01,0,Laurentiu,Petrea,https://www.linkedin.com/in/laurentiupetrea/,Yes,Laurentiu Petrea,,Engineering and AI Leader | Voice Agents | CataLlama
