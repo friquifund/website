@@ -6,25 +6,22 @@ permalink: /join-us
 
 <h1>Join us</h1>
 
-To become a FriquiFund member, please follow the steps below:
+To become a FriquiFund member:
 
-1. Fill the <a href="https://docs.google.com/forms/d/e/1FAIpQLScdUiUZQpEtSQ-f2Lc4Aljb7Rfd_wR5yOJO1Nny7dOpX3pgxw/viewform" target="_blank">FriquiFund Membership Form</a>
+1. **Fill the <a href="https://docs.google.com/forms/d/e/1FAIpQLScdUiUZQpEtSQ-f2Lc4Aljb7Rfd_wR5yOJO1Nny7dOpX3pgxw/viewform" target="_blank">FriquiFund Membership Form</a>**
 
-2. Pay the subscription fee, which is 240€ for 12 months (up to 80% deductible*!)<br>&nbsp;<br/>
+2. Pay the subscription fee, which is 240€ for 12 months (up to 80% deductible*!):
 
-You have three ways to pay your fee:<br/>
-
-&nbsp;&nbsp;a) <a href="https://buy.stripe.com/fZe7tN7hW1pOfJe4gg" target="_blank">Online Subscription</a> **(PREFERRED OPTION)** <br/>
-
-&nbsp;&nbsp;b) Bank transfer:
+    * &nbsp;&nbsp;<a href="https://buy.stripe.com/fZe7tN7hW1pOfJe4gg" target="_blank">Online Subscription</a> **(PREFERRED OPTION)** <br/>
+    * &nbsp;&nbsp;Pay via Benevity under "FriquiFund Membership 2026"<br/>
+    * &nbsp;&nbsp;Bank transfer:
 ```
     ASSOC. FRIQUIFUND
     IBAN: ES71 3025 0017 4314 0005 6392
     BIC: CDENESBBXXX
     Concepte: FriquiFund 2025 - YOUR NAME HERE
 ```
-
-&nbsp;&nbsp;c) Pay via Benevity under "FriquiFund Membership 2025"<br/>
+    
 
 <br/>
 Since FriquiFund is fully managed by volunteers, it may take us a few days to get back to you... bear with us!
