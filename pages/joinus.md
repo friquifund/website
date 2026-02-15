@@ -29,5 +29,5 @@ Since FriquiFund is fully managed by volunteers, it may take us a few days to ge
 <br/><br/>
 
 <em>
-* FriquiFund is a registered NGO ("Asociación de Utilidat Pública", <a href="https://justicia.gencat.cat/ca/serveis/guia_d_entitats/?idEntitat=109098#">gov. link</a>). As such, you can deduct 80% of your donations up to 250€ and 40% of the rest (<a href="https://noticias.juridicas.com/actualidad/noticias/18599-rdl-6-2023-novedades-fiscales:-incremento-de-la-deduccion-por-donativos-en-2024/">more info here</a>)
+* <a href="https://justicia.gencat.cat/ca/serveis/guia_d_entitats/?idEntitat=109098">FriquiFund (CIF: G42973735) is a registered NGO ("Asociación de Utilidat Pública"</a>). As such, you can deduct 80% of your donations up to 250€ and 40% of the rest (<a href="https://noticias.juridicas.com/actualidad/noticias/18599-rdl-6-2023-novedades-fiscales:-incremento-de-la-deduccion-por-donativos-en-2024/">more info here</a>)
 </em>
