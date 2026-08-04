@@ -1,179 +1,164 @@
 Membership Number,Year,Start Date,status,First Name,Second Name,LinkedIn,Can Share in Web,Name,picfile,Title
-1,2019,2019-06,1,Hugo,Zaragoza Ballester,https://www.linkedin.com/in/hugozaragoza/,Yes,Hugo Zaragoza Ballester,Hugo-Zaragoza,"Principal Applied Scientist, Amazon"
-2,2019,2019-06,1,Nathalie,Vento,https://www.linkedin.com/in/nathalie-vento-16088847/,Yes,Nathalie Vento,Nathalie-Vento,Head of Marketing at HOORYA
-3,2019,2019-06,0,Roi,Blanco González,https://www.linkedin.com/in/roi-blanco-2b00588/,Yes,Roi Blanco González,Roi-Blanco,Principal Scientist at Amazon
-4,2019,2019-06,0,Giuseppe,Attardi,https://www.linkedin.com/in/giuseppe-attardi-310b791/,Yes,Giuseppe Attardi,Guiseppe-Attardi,"Deep Learning for Natural Language Understanding, GARR Federated Cloud Computing Platform"
-5,2019,2019-06,0,Maria,Simi,https://www.linkedin.com/in/maria-simi-4266395/,Yes,Maria Simi,Maria-Simi,Professor at University of Pisa
-6,2019,2019-06,0,Sai,Kopuri,https://www.linkedin.com/in/saileshkopuri/,Yes,Sai Kopuri,Sai-Kopuri,"Head of Technology, Prime Video X-Ray Live Sports at Amazon"
-7,2019,2019-06,0,Ricardo,Baeza-Yates,https://www.linkedin.com/in/ricardobaezayates/,Yes,Ricardo Baeza-Yates,Ricardo-Baeza-Yates,"Director of Research, Institute for Experiential AI @ Northeastern University"
-9,2020,2020-09,0,Jordi,Atserias Batalla,https://www.linkedin.com/in/atserias,Yes,Jordi Atserias Batalla,Jordi-Atserias-Batalla,"Sr Software Development Engineer, Amazon"
-10,2020,2020-09,0,Javier,Romero,https://www.linkedin.com/search/results/all/?keywords=javier%20romero&origin=GLOBAL_SEARCH_HEADER,Yes,Javier Romero,Javier-Romero,Research Scientist at Facebook Reality Labs
-11,2020,2020-09,0,Liannet,Reyes Hernandez,https://www.linkedin.com/in/liannetreyes/,Yes,Liannet Reyes Hernandez,Liannet-Reyes-Hernandez,"Sr Software Development Engineer, Amazon"
-13,2020,2020-09,0,Marta-Gaia,Zanchi,https://www.linkedin.com/in/mgzanchi/,Yes,Marta-Gaia Zanchi,Marta-Gaia-Zanchi,Investing in health technology @ nina
-14,2020,2020-09,1,Pau,Agulló,https://www.linkedin.com/in/pauagullo/,Yes,Pau Agulló,Pau-Agulló,Entrepreneur
-15,2020,2020-11,0,Mauricio,Rodríguez Sáenz,https://www.linkedin.com/in/mauriciordzsaenz/,Yes,Mauricio Rodríguez Sáenz,Mauricio-Rodriguez-Saenz,
-16,2021,2021-01,0,Marc,Castells Olivella,https://www.linkedin.com/in/marcc3/,Yes,Marc Castells Olivella,Marc-Castells-i-Olivella,CEO at Basetis
-17,2021,2021-01,0,Carlos,López Ullod,https://www.linkedin.com/in/carlos-l%C3%B3pez-ullod-9906082/,Yes,Carlos López Ullod,Carlos-López-Ullod,CEO &#8211; Aplicaciones en Informática Avanzada
-18,2021,2021-01,0,Marc,Torrent Moreno,https://www.linkedin.com/in/mtorrent,Yes,Marc Torrent Moreno,Marc-Torrent-Moreno,Head of Data & Analytics at Bon Preu S.A.U.
-19,2021,2021-01,0,Pau,Rué,https://www.linkedin.com/in/paurue/,Yes,Pau Rué,Pau-Rué,VP of Artificial Intelligence at Infermedica
-20,2021,2021-01,0,Josep M. (Pep),Martorell,https://www.linkedin.com/in/josepmariamartorellrodon/,Yes,Josep M. (Pep) Martorell,Josep-Maria-Martorell-Rodon,Associate Director at Barcelona Supercomputing Center
-21,2021,2021-01,1,Oleguer,Sagarra,https://www.linkedin.com/in/oleguer-sagarra-64588a40,Yes,Oleguer Sagarra,Oleguer-Sagarra,Co-founder & co-CEO at DRIBIA: Data Research in Business Intel. Analytics
-23,2021,2021-01,1,Xavier,Amatriain,https://www.linkedin.com/in/xamatriain/,Yes,Xavier Amatriain,Xavier-Amatriain,Leading AI Products at Google
-24,2021,2021-02,0,Cristina,Bellido,https://www.linkedin.com/in/cristina-bellido-28a089b/,Yes,Cristina Bellido,Cristina-Bellido,Directora de Negocio y Analytics en VidaCaixa
-26,2021,2021-03,0,Hannes Felix,Mueller,https://www.linkedin.com/in/hannes-mueller-research/,Yes,Hannes Felix Mueller,Hannes-Mueller,"Tenured Researcher (IAE - CSIC), Program Director M.Sc. Data Science for Decision Making (BSE)"
-27,2021,2021-08,0,Paula,Batlle,https://www.linkedin.com/in/paulabatlle/,Yes,Paula Batlle,Paula-Battle,"Sr manager, Product Manager tech at Amazon "
-28,2022,2022-01,0,Eduard,Gimenez Funes,https://www.linkedin.com/in/eduard-gimenez-funes/,Yes,Eduard Gimenez Funes,Eduard-Gimenez,AI & Data Analytics at Basetis
-29,2022,2022-01,0,Ferran,Carrascosa Mallafrè,https://www.linkedin.com/in/ferrancarrascosa/,Yes,Ferran Carrascosa Mallafrè,Ferran-Carrascosa,Lead Data Scientist in Risk Analytics
-31,2022,2022-01,0,Alex,Escala,https://www.linkedin.com/in/alex-escala-ribas-a3102570/,Yes,Alex Escala,Alex-Escala-Ribas,Marketing Data Scientist at Bandai Namco Mobile
-32,2022,2022-01,0,David,Poblador i Garcia,https://www.linkedin.com/in/davidpoblador/,Yes,David Poblador i Garcia,David-Poblador-i-Garcia,Senior Director &#8211; Principal Engineer at Spotify
-33,2022,2022-01,0,Cristina,Rata,https://www.linkedin.com/in/cristinarata,Yes,Cristina Rata,Cristina-Rata,Head of Data & Analytics at Zurich
-34,2022,2022-01,0,Mihalis,Markakis,https://www.linkedin.com/in/mihalis-markakis-015a5243/,Yes,Mihalis Markakis,Mihalis-Markakis,Associate Professor at IESE Business School
-35,2022,2022-01,0,Eloy,Sasot,https://www.linkedin.com/in/eloysasot/,Yes,Eloy Sasot,Eloy-Sasot,Group Chief Data and Analytics Officer at Richemont
-36,2022,2022-01,0,Oriol,Nieto,https://www.linkedin.com/in/urinieto/,Yes,Oriol Nieto,Oriol-Nieto,Senior Research Engineer at Adobe
-37,2022,2022-01,0,Marcos,Alonso,https://www.linkedin.com/in/marcosar/,Yes,Marcos Alonso,Marcos-Alonso,"Human Interface Designer, Apple Design Team"
-38,2022,2022-01,0,Fernando,Amat,https://www.linkedin.com/in/fernando-amat-6110931/,Yes,Fernando Amat,Fernando-Amat,Senior Staff Machine Learning Research Engineer
-39,2022,2022-01,0,Josep M.,Pujol,https://www.linkedin.com/in/jmpujol/,Yes,Josep M. Pujol,Josep-M.-Pujol,Chief of Search at Brave Software
-40,2022,2022-01,0,Bernat,Garcia Larrosa,https://www.linkedin.com/in/bernat-garcia-larrosa-9322869b/,Yes,Bernat Garcia Larrosa,Bernat-Garcia-Larrosa,Data & Analytics Manager
-41,2022,2022-01,0,Josep Marc,Mingot,https://www.linkedin.com/in/mingot/,Yes,Josep Marc Mingot,Josep-Marc-Mingot,Senior Director of Product at CoverWallet
-42,2022,2022-01,0,Roger,Frigola,https://www.linkedin.com/in/rogerfrigola/,Yes,Roger Frigola,Roger-Frigola,Machine Learning • Racing • Optimization
-43,2022,2022-01,0,Ruben,Mejias,https://www.linkedin.com/in/rubenmejias,Yes,Ruben Mejias,Ruben-Mejias-Calderon,CTO at SCRM &#8211; Lidl International Hub
-44,2022,2022-01,0,Lluís,Garcia Pueyo,https://www.linkedin.com/in/lgpueyo/,Yes,Lluís Garcia Pueyo,Lluís-Garcia-Pueyo,Director of Engineering at Meta
-45,2022,2022-01,0,Anna,Sáez de Tejada,https://www.linkedin.com/in/annasdtc/,Yes,Anna Sáez de Tejada,Anna-Sáez-de-Tejada-Cuenca,Assistant Professor at IESE Business School
-46,2022,2022-01,0,Alberto,Mancheño,https://www.linkedin.com/in/alberto-mancheno-villena/,Yes,Alberto Mancheño,Alberto-Mancheño-Villena,Freelance - ML & Data EngineerFreelance
-49,2022,2022-01,0,Daniel,Villatoro Segura,https://www.linkedin.com/in/danielvillatoro/,Yes,Daniel Villatoro Segura,Daniel-Villatoro,Chief Data Scientist at Openbank
-50,2022,2022-01,0,Bernat,Puig Camps,https://www.linkedin.com/in/bepuca/,Yes,Bernat Puig Camps,Bernat-Puig-Camps,Applied Machine Learning @ Microsoft
-51,2022,2022-01,0,Victor,Martínez de Albéniz,https://www.linkedin.com/in/victor-martinez-de-albeniz-30a593/,Yes,Victor Martínez de Albéniz,Victor-Martinez-de-Albeniz,Professor and entrepreneur
-52,2022,2022-01,0,Miquel,Camprodon,https://www.linkedin.com/in/miquel-camprodon-masnou/,Yes,Miquel Camprodon,Miquel-Camprodon-Masnou,Lead Data Scientist at Bonpreu
-54,2022,2022-01,0,Anna,Saumell Mendiola,https://www.linkedin.com/in/anna-saumell-mendiola-61b6b841/,Yes,Anna Saumell Mendiola,Anna-Saumell-Mendiola,Analytics development manager at Caixabank
-55,2022,2022-01,1,David,Bofill,https://www.linkedin.com/in/david-bofill-pages/,Yes,David Bofill,David-Bofill-Pagès,Data Science Manager at PepsiCo
-56,2022,2022-01,0,Roberto,Sanchis Ojeda,https://www.linkedin.com/in/sanchisojeda/,Yes,Roberto Sanchis Ojeda,Roberto-Sanchis-Ojeda,Senior ML Engineering Manager at Spotify
-57,2022,2022-01,0,Juanjo,Rodriguez,https://www.linkedin.com/in/juanjorodriguez/,Yes,Juanjo Rodriguez,Juanjo-Rodriguez,"Founder, The Hotels Network"
-58,2022,2022-01,0,Marc,Ollé,https://www.linkedin.com/in/marc-olle-soronellas-phd-01984/,Yes,Marc Ollé,Marc-Olle,Associate Director - Data science at BCG
-60,2022,2022-01,0,Miguel Ángel,Barja Yáñez,https://www.linkedin.com/in/miguel-%C3%A1ngel-barja-y%C3%A1%C3%B1ez-b1b58b25/,Yes,Miguel Ángel Barja Yáñez,Miguel-Ángel-Barja-Yáñez,Director CFIS at Universitat Politècnica de Catalunya
-62,2022,2022-01,0,Eva,Romero Beneyto,https://www.linkedin.com/in/eva-romero-beneyto-632b1019,Yes,Eva Romero Beneyto,Eva-Romero-Beneyto,Director of Quantitative Analysis Unit at Banco Sabadell
-63,2022,2022-01,1,Elisenda,Bou,https://www.linkedin.com/in/elisendabou,Yes,Elisenda Bou,Elisenda-Bou-Balust,Co-founder & CEO @ Cala
-64,2022,2022-01,0,Joan,Vendrell,https://www.linkedin.com/in/jvendrell/,Yes,Joan Vendrell,Joan-Vendrell-Farreny,CEO & Co-Founder at Singularly
-65,2022,2022-01,0,Anna,Schlegel,https://www.linkedin.com/in/annanschlegel/,Yes,Anna Schlegel,Anna-N-Schlegel,Vice-President @ Procore.
-66,2022,2022-01,0,Oriol,Vinyals,https://www.linkedin.com/in/oriol-vinyals-00b3366/,Yes,Oriol Vinyals,Oriol-Vinyals,Principal Research Scientist at Google DeepMind
-67,2022,2022-01,0,Alberto,Moreno Hoyo,https://www.linkedin.com/in/albertomh,Yes,Alberto Moreno Hoyo,Alberto-Moreno-Hoyo,Data Scientist (Q-Commerce) at Glovo
-70,2022,2022-02,0,Sandra,Garcia-Esparza,https://www.linkedin.com/in/sandra-garcia-5260712a/,Yes,Sandra Garcia-Esparza,Sandra-Garcia,Staff Data Scientist at Adevinta (before Schibsted Media Group)
-73,2022,2022-02,0,Tiago,Henriques,https://www.linkedin.com/in/tiagoh/,Yes,Tiago Henriques,Tiago-Henriques,Technical Leader in Artificial Intelligence and Cloud Computing  at Google Cloud
-74,2022,2022-02,0,Jaume,Albaigès,https://www.linkedin.com/in/jalbaiges/,Yes,Jaume Albaigès,Jaume-Albaigès,ICT &amp; NonProfits. SinergiaCRM cofounder. Birdwatcher.
-76,2022,2022-02,1,Ferran,Marqués Acosta,https://www.linkedin.com/in/ferran-marques-0901693/,Yes,Ferran Marqués Acosta,Ferran-Marques,Professor at UPC
-77,2022,2022-02,0,Pol,Oliva Martí,https://www.linkedin.com/in/pol-oliva-mart%C3%AD-45890145,Yes,Pol Oliva Martí,Pol-Oliva-Martí,Director of Data & Advanced Analytics at MANGO
-79,2022,2022-03,0,Màrius,Boada Pla,https://www.linkedin.com/in/mariusboada/,Yes,Màrius Boada Pla,Màrius-Boada-i-Pla,Director de l&#8217;Oficina Municipal de Dades &#8211; CDO en Ajuntament de Barcelona
-82,2022,2022-03,0,Joan,Fernández Bessa,https://www.linkedin.com/in/joanfernandezbessa,Yes,Joan Fernández Bessa,Joan-Fernandez-Bessa,Senior manager at Adamo Telecom
-83,2022,2022-03,0,Mauricio,Arnau,https://www.linkedin.com/in/mauricioarnau,Yes,Mauricio Arnau,Mauricio-Arnau,Director of Analytics at CaixaBank
-87,2022,2022-03,0,Ruben,Marias,https://www.linkedin.com/in/rubenmarias/,Yes,Ruben Marias,Ruben-Marias,Applied Scientist @ Microsoft
-89,2022,2022-03,0,Daniel,Rodrigo López,https://www.linkedin.com/in/danielrodrigolopez,Yes,Daniel Rodrigo López,Daniel-Rodrigo-López,Senior Data Scientist at Volotea
-91,2022,2022-04,0,Jose-Miguel,Pulido Villaverde,https://www.linkedin.com/in/josemiguelpulido/,Yes,Jose-Miguel Pulido Villaverde,Jose-Miguel-Pulido-Villaverde,Engineer and Entrepreneur
-92,2022,2022-04,0,Enric,Spagnolo,https://www.linkedin.com/in/enric-spagnolo-arrizabalaga-57b394ab,Yes,Enric Spagnolo,Enric-Spagnolo-Arrizabalaga,Software Engineer &amp; Data Scientist at Capchase
-94,2022,2022-04,0,Santiago,Murillo,https://www.linkedin.com/in/santimurrillo,Yes,Santiago Murillo,Santiago-M,Data Products Director at CaixaBank
-95,2022,2022-04,0,Antonio,Calvo,https://www.linkedin.com/in/antoniocalvog,Yes,Antonio Calvo,Antonio-Calvo,Head Retail &amp; CPG at SAS
-96,2022,2022-04,0,Martí,Mayo Casademont,https://www.linkedin.com/in/mart%C3%AD-mayo-casademont-7a1b722b,Yes,Martí Mayo Casademont,Martí-Mayo-Casademont,Lead Data Scientist BCG X
-98,2022,2022-04,0,Germán,García,https://www.linkedin.com/in/gergf/,Yes,Germán García,Germán-García-Ferrando,Data Strategy Consultant @ BCG
-99,2022,2022-05,0,Miguel,Picallo Cruz,https://www.linkedin.com/in/miguel-picallo-cruz/,Yes,Miguel Picallo Cruz,Miguel-Picallo-Cruz,Deployment Strategist - Data Scientist/Engineer
-100,2022,2022-05,0,Andreu,Lazaro,https://www.linkedin.com/in/andreu-lazaro-715b0320/,Yes,Andreu Lazaro,Andreu-Lazaro,Associate Director at BCG GAMMA
-101,2022,2022-05,1,Andreu,Mayo,https://www.linkedin.com/in/andreu-mayo/,Yes,Andreu Mayo,Andreu-Mayo-Casademont,Senior Machine Learning Engineer at PepsiCo
-102,2022,2022-05,0,Diego,Gruber,https://www.linkedin.com/in/diegogruber/,Yes,Diego Gruber,,Senior Product Manager at Boston Consulting Group (BCG)
-103,2022,2022-05,0,Ramon,Pujol,https://www.linkedin.com/in/ramonpujol/,Yes,Ramon Pujol,Ramon-Pujol,Co-Founder &amp; CEO @ FISHHotels
-104,2022,2022-05,0,Patrick,Aloy,https://www.linkedin.com/in/patrick-aloy-7943181a/,Yes,Patrick Aloy,Patrick-Aloy,ICREA Research Professor at the Institute for Research in Biomedicine
-105,2022,2022-05,0,Emiliano,Carluccio,https://www.linkedin.com/in/emiliano-carluccio-12184126/,Yes,Emiliano Carluccio,,VP of Analytics International at Prima Assicurazioni
-106,2022,2022-05,0,Riste,Gjorgjiev,https://www.linkedin.com/in/ristegjorgjiev/,Yes,Riste Gjorgjiev,Riste-Gjorgjiev,Data Science Manager at Accenture Applied Intelligence
-107,2022,2022-05,0,Albert,Pujol Torras,https://www.linkedin.com/in/albert-pujol-torras-3a7367/,Yes,Albert Pujol Torras,Albert-Pujol-Torras,VP Data Science at The Hotels Network
-109,2022,2022-05,0,Albert,Sagarra,https://www.linkedin.com/in/albert-sagarra-0aa37a2a/,Yes,Albert Sagarra,Albert-Sagarra,"EMEA Strategic Sales Leader, IBM Services"
-110,2022,2022-05,0,Luis,de Quadras Gambus,https://www.linkedin.com/in/luis-de-quadras-gamb%C3%BAs-990b8410b/,Yes,Luis de Quadras Gambus,Luis-de-Quadras,Senior Data Scientist at BCG GAMMA
-111,2022,2022-06,0,Carles,Fontanals,https://www.linkedin.com/in/carlesfontanals/,Yes,Carles Fontanals,Carles-Fontanals,Founder en ESBRINA
-112,2022,2022-06,0,Bernat,Agulló,https://www.linkedin.com/in/bernatagullo/,Yes,Bernat Agulló,Bernat-Agulló-Roselló,Senior BI Developer and Partner at Esbrina
-113,2022,2022-07,0,Xavier,Verdaguer,https://www.linkedin.com/in/xverda/,Yes,Xavier Verdaguer,Xavier-Verdaguer,Founder at Imagine Creativity Center
-116,2022,2022-10,0,Albert,Diaz Guilera,https://www.linkedin.com/in/albert-diaz-guilera-2991852/,Yes,Albert Diaz Guilera,,Catedrático @ University of Barcelona
-117,2022,2022-10,0,Adria,Recasens Continente,https://www.linkedin.com/in/adri%C3%A0-recasens-continente-29b67421/,Yes,Adria Recasens Continente,Adria-Recasens-Continente,Senior Research Scientist at DeepMind
-118,2022,2022-10,0,Ernest,Artiaga,https://www.linkedin.com/in/eartiaga,Yes,Ernest Artiaga,Ernest-Artiaga,CTO at ALBORA
-119,2022,2022-10,0,Carlos,Garcia Marquez,https://www.linkedin.com/in/carlosgarciamarquez/,Yes,Carlos Garcia Marquez,Carlos-Garcia-Marquez,Sr. Software Engineer at Onna
-120,2022,2022-11,0,Marc,Gratacós,https://www.linkedin.com/in/marcgratacos/,Yes,Marc Gratacós,Marc-Gratacos,Managing Partner at TradeHeader
-121,2022,2022-11,0,Winslow,Robertson,https://www.linkedin.com/in/winslowrobertson/,Yes,Winslow Robertson,Winslow-Robertson,PhD Candidate at IESE Business School
-122,2022,2022-11,0,Léonce,ANO,https://www.linkedin.com/in/leonceano/,Yes,Léonce ANO,Leonce-B-Ano,PhD Candidate in AI and decision-making
-125,2023,2023-01,0,Joan,Fontanals Martínez,https://www.linkedin.com/in/joanfontanalsmartinez/,Yes,Joan Fontanals Martínez,Joan Fontanals Martínez,Head of Engineering at Jina AI
-126,2023,2023-01,0,Zsofia,Polai,https://www.linkedin.com/in/zsofia-polai-a8b347a8/,Yes,Zsofia Polai,Zsofia-Polai,Scientific coworker at Biotest Hungaria Ltd
-127,2023,2023-01,0,Jordi,Maristany,https://www.linkedin.com/in/jordi-maristany-8a8571/,Yes,Jordi Maristany,Jordi Maristany,Attorney and Managing Partner of MARISTANY - Business Law Professor
-129,2023,2023-01,0,Ricard,Huguet Gali,https://www.linkedin.com/in/ricardhuguet/,Yes,Ricard Huguet Gali,Ricard Huguet Gali,Managing Director at ROBOTIX® Hands-on Learning
-132,2023,2023-01,0,Jaume,Muntsant Soria,https://www.linkedin.com/in/jaume-muntsant-soria/,Yes,Jaume Muntsant Soria,Jaume Muntsant Soria,Senior Data Scientist at BCG X
-133,2023,2023-01,0,Xavier,Giró i Nieto,https://www.linkedin.com/in/xaviergiro,Yes,Xavier Giró i Nieto,Xavier Giró i Nieto,Applied Scientist at Amazon Science Barcelona.
-134,2023,2023-01,0,Matías,Larre Borges,https://www.linkedin.com/in/greatengineer/,Yes,Matías Larre Borges,Matías Larre Borges,Principal Engineer at Amazon
-135,2023,2023-01,0,Alejandro,Fernández Piqué,https://www.linkedin.com/in/alejandrofernandezpique/,Yes,Alejandro Fernández Piqué,Alejandro Fernández Piqué,Senior Data Scientist at BCG X
-136,2023,2023-01,0,Joan,Picanyol,,No,,,
-137,2023,2023-01,0,Marçal,Molins Alonso,https://www.linkedin.com/in/molins/,Yes,Marçal Molins Alonso,Marçal Molins Alonso,"Associate Director, Data Science en BCG GAMMA"
-139,2023,2023-01,0,Roger,Forcada Margarit,https://www.linkedin.com/in/roger-forcada/,Yes,Roger Forcada Margarit,Roger Forcada Margarit,"Principal, Data Science, BCG X"
-140,2023,2023-01,1,Amelie,Baud,https://www.linkedin.com/in/amelie-baud-a481791aa/,Yes,Amelie Baud,Amelie Baud,Research group leader at Centre for Genomic Regulation (CRG)
-141,2023,2023-01,0,Miquel,Larsson,https://www.linkedin.com/in/miqlar/,Yes,Miquel Larsson,Miquel-Larsson,Senior Data Scientist at Glovo
-142,2023,2023-01,0,Toni,Moreno,https://www.linkedin.com/in/tmoreno/,Yes,Toni Moreno,Toni Moreno,Associate Professor of Business Administration at Harvard Business School
-143,2023,2023-01,0,Maria,Fernandez Ruiz,https://www.linkedin.com/in/maria-fdez-ruiz/,Yes,Maria Fernandez Ruiz,,Lead Data Scientist at BCG GAMMA
-144,2023,2023-01,1,Mario,Cavero,https://www.linkedin.com/in/mariocavero/,Yes,Mario Cavero,,Senior Software Engineer at eterlast
-145,2023,2023-01,0,Jordi,Nin,https://www.linkedin.com/in/dataminion/,Yes,Jordi Nin,Jordi Nin,"Assistant Professor @ ESADE, Academic Director Executive Master in Business Analytics (EMIBA)"
-147,2023,2023-01,0,Raúl,García,https://www.linkedin.com/in/raulgarciamonclus/,Yes,Raúl García,Raul Garcia Monclus,CEO & Senior Partner at Cognodata - Customer Science - Digital Sales - Fintech - Marketing Automation - CRM
-149,2023,2023-01,0,Joshua,Mora,https://www.linkedin.com/in/joshuamora/,Yes,Joshua Mora,Joshua-Mora,Large scale machine learning at Intel
-150,2023,2023-01,0,Derick,Leony,https://www.linkedin.com/in/dleony/,Yes,Derick Leony,Derick Leony,"Senior Manager, Analytics at Criteo"
-153,2023,2023-01,0,Arnau,Llovera Aparicio,https://www.linkedin.com/in/arnaullovera/,Yes,Arnau Llovera Aparicio,Arnau Llovera,Data Scientist at BCG X | PSPO and PSM
-154,2023,2023-01,0,Alex,Martin Alay,https://www.linkedin.com/in/alexmartinalay/,Yes,Alex Martin Alay,Alex Martin,Data Science Manager -- Advanced Analytics Commercial at PepsiCo
-155,2023,2023-01,0,Marta,Villegas,https://www.linkedin.com/in/martavillegasmontserrat/,Yes,Marta Villegas,,Head of Language Technologies Unit at BSC
-157,2023,2023-02,0,Pau,Minoves,https://www.linkedin.com/in/pauminoves/,Yes,Pau Minoves,Pau Minoves,C-Level Leader | Technologist | Investor | Advisor
-159,2023,2023-02,0,Xavier,Spagnolo,https://www.linkedin.com/in/xavier-spagnolo-61803b8b,Yes,Xavier Spagnolo,,Senior Software Engineer en Google
-160,2023,2023-02,0,Jordi,Torres,https://www.linkedin.com/in/jorditorresai/,Yes,Jordi Torres,,Professor at UPC Barcelona Tech | Senior Researcher at BSC | Expert Advisor in HPC & AI at BSC
-161,2023,2023-03,0,Jose,Ballester,https://www.linkedin.com/in/jballester/,Yes,Jose Ballester,,Software Engineer at REVER
-162,2023,2023-03,0,Ariadna,Font Llitjos,https://www.linkedin.com/in/ariadna,Yes,Ariadna Font Llitjos,,Building something new + Helping business leverage AI and ML responsibly | Speaker | Mentor
-164,2023,2023-03,0,Llorenç,Mitjavila,https://www.linkedin.com/in/llorenc-mitjavila/,Yes,Llorenç Mitjavila,,Managing Director and Senior Partner at BCG X
-165,2023,2023-03,0,Salvador,Garcia Ruiz,https://www.linkedin.com/in/salvador-garcia-ruiz-079248/,Yes,Salvador Garcia Ruiz,,Senior Executive & Advisor
-166,2023,2023-03,0,Andreu,Dotti,https://www.linkedin.com/in/andreu-dotti-boada-01043810b/,Yes,Andreu Dotti,,CEO & Co-Founder at Innovamat
-167,2023,2023-04,0,Ricard,Ferrer,https://www.linkedin.com/in/ricard-ferrer/,Yes,Ricard Ferrer,,Data Scientist at PepsiCo
-168,2023,2023-04,0,Nacho,Lafuente Botella,https://www.linkedin.com/in/nacholafuentebotella/,Yes,Nacho Lafuente Botella,,Managing Director at Klarrio
-170,2023,2023-04,0,Jordi,Plana,https://www.linkedin.com/in/joplana/,Yes,Jordi Plana,,Founder & Investor on Sabbatical
-171,2023,2023-04,0,Joan,Sanfeliu,https://www.linkedin.com/in/joansanfeliusabater,Yes,Joan Sanfeliu,,Industrial engineer
-172,2023,2023-04,0,Borja,Elizalde Masia,https://www.linkedin.com/in/borja-e-98228088,Yes,Borja Elizalde Masia,,Lead Data Scientist @ BCG X
-173,2023,2023-04,0,Ramon,Morote Ribas,https://www.linkedin.com/in/ramon-morote-ribas-87257857/,Yes,Ramon Morote Ribas,,Senior Lecturer Data Governance IE Business School
-174,2023,2023-05,0,Pasqual,Batalla,https://www.linkedin.com/in/pasqualbatalla/,Yes,Pasqual Batalla,,COO at Socialpoint
-175,2023,2023-05,0,Josep,Salom,https://www.linkedin.com/in/jsalom/,Yes,Josep Salom,,"Data, Engineering & IT Operations executive • Digital Transformation • Business Strategy"
-177,2023,2023-06,0,Vladimir,Estivill Castro,https://www.linkedin.com/in/vladimirestivillcastrophd/,Yes,Vladimir Estivill Castro,,Professor at Universitat Pompeu Fabra
-178,2023,2023-06,1,Kaya,Aykut,https://www.linkedin.com/in/kayaaykut,No,,,
-179,2023,2023-06,0,Gaston,Besanson,https://www.linkedin.com/in/besanson/,Yes,Gaston Besanson,,"VP, Global Head of Data Science @ PepsiCo"
-180,2023,2023-06,0,Joel,Montoy,https://www.linkedin.com/in/joel-montoy-181753/,Yes,Joel Montoy,,CEO Aquiles Solutions
-182,2023,2023-07,0,Sampsa,Samila,https://www.linkedin.com/in/ssamila/,Yes,Sampsa Samila,,Professor at IESE Business School
-184,2023,2023-07,0,Enric,Delgado Samper,https://www.linkedin.com/in/enric-delgado-samper/,Yes,Enric Delgado Samper,,"Director of the IBM Client Engineering Team in Spain, Portugal, Greece and Israel"
-187,2023,2023-09,0,Carlos,Florensa,https://www.linkedin.com/in/carlosflorensa/,Yes,Carlos Florensa,,Research Scientist at Covariant
-188,2023,2023-09,0,Simon,Allen,https://www.linkedin.com/in/simon-allen-bcn/,Yes,Simon Allen,,Full-Stack Engineering Excellence / Mastering Data Science
-189,2023,2023-09,0,Jose Luis,Florez,https://www.linkedin.com/in/joseluisflorez,Yes,Jose Luis Florez,,"Intelligences created by and for humans. New businesses, services, and experiences enabled by AI."
-190,2023,2023-09,0,Leonardo,Giacomet,https://www.linkedin.com/in/leonardo-luigi-giacomet-bb932013/,Yes,Leonardo Giacomet,,Product & Data Strategy @ Restb.ai | IESE MBA
-191,2023,2023-10,0,Marc,Bonavia,https://www.linkedin.com/in/marcbonavia/,Yes,Marc Bonavia,,Formerly Founder. Now helping a Government Agency to champion the country's business growth through innovation. Transformational Leader.
-192,2023,2023-10,0,Yannis,Kalantidis,https://www.linkedin.com/in/yannis-kalantidis/,Yes,Yannis Kalantidis,,Research Scientist at NAVER LABS Europe
-193,2023,2023-11,0,Monica,de Mier,https://www.linkedin.com/in/monicademier/,Yes,Monica de Mier,,Accelerating chemicals innovation | CEO at Nextmol.com
-195,2023,2023-11,0,Joren,Gijsbrechts,https://www.linkedin.com/in/joren-gijsbrechts/,Yes,Joren Gijsbrechts,,Assistant Professor at Esade
-196,2023,2023-11,0,Gemma,Comellas,https://www.linkedin.com/in/gemma-comellas,Yes,Gemma Comellas,,Data Scientist at Amazon | PhD
-197,2024,2024-01,1,Joan,Capdevila Pujol,https://www.linkedin.com/in/joan-capdevila-phd-00513121/,Yes,Joan Capdevila Pujol,,Data Science Manager in Health & Nutrition Science
-199,2023,2023-12,0,Pau,Garcia-Mila,https://www.linkedin.com/in/paugarciamila/,Yes,Pau Garcia-Mila,Pau-Garcia-Mila,Linkedin Top Voice 2022. Founderz Business School Co-founder
-200,2024,2024-01,0,Natalia,Subirana,https://www.linkedin.com/in/natalia-subirana-art%C3%BAs-b222791b5/,Yes,Natalia Subirana,,Research Assistant at IESE | Mathematics at the University of Barcelona
-201,2024,2024-02,0,Hector,Fornes Martinez,https://www.linkedin.com/in/fornes,Yes,Hector Fornes Martinez,,Manager at Vueling Airlines | Air Transport Management Lecturer @ UPC | MIT alumn
-202,2024,2024-02,0,Lledó,Esquerra Ortells,https://www.linkedin.com/in/lledoe/,Yes,Lledó Esquerra Ortells,Lledo-Esquerra,Sr. Research Scientist at Amazon
-203,2024,2024-02,0,Sergi,Ortiz Rodriguez,https://www.linkedin.com/in/sergiortizrodriguez/,Yes,Sergi Ortiz Rodriguez,,CEO at Shimoku | Data & AI to empower individuals and teams
-204,2024,2024-03,0,Marta Regina,Cano Jiménez,https://es.linkedin.com/in/martareginacano,Yes,Marta Regina Cano Jiménez,Marta-Regina-Cano-Jimenez,Business Intelligence Director en Grupo Caja de Ingenieros
-205,2024,2024-03,0,Marc,Fuster Rullan,https://es.linkedin.com/in/marcfuster,Yes,Marc Fuster Rullan,,Senior Data Scientist @PepsiCo
-206,2024,2024-03,0,Pere,Mayol,https://www.linkedin.com/in/peremayol/,Yes,Pere Mayol,,Constructing intelligent machines
-208,2024,2024-04,0,Rafael,Giménez,https://www.linkedin.com/in/rafa-gimenez/,Yes,Rafael Giménez,Rafael-Gimenez,Data & AI Lead at Quantion
-210,2024,2024-04,0,Pol,Blasco Moreno,https://www.linkedin.com/in/polblasco/,Yes,Pol Blasco Moreno,,Data Science Manager at Scopely
-211,2024,2024-06,0,Alireza,Mahmoodzadeh,https://www.linkedin.com/in/alireza-mahmoodzadeh-70763564/,Yes,Alireza Mahmoodzadeh,,"PhD Candidate, ESADE"
-212,2024,2024-06,0,Issey,Masuda Mora,www.linkedin.com/in/issey-masuda-mora,Yes,Issey Masuda Mora,,Co-Founder & CTO @Cala
-213,2024,2024-07,0,Valeria,Tereshchenko,https://www.linkedin.com/in/valeri-tereshchenko/,Yes,Valeria Tereshchenko,,MLOps at PepsiCo
-214,2024,2024-07,0,Miquel,Casas,https://www.linkedin.com/in/miquel-c-31a55a/,Yes,Miquel Casas,,CTO @ Discogs.com
-215,2024,2024-07,0,Jaume,Archidona,https://www.linkedin.com/in/james-archidona-11018431/,Yes,Jaume Archidona,,CEO at Freightol
-216,2024,2024-09,0,Ana,García del Molino,https://www.linkedin.com/in/anagarciadelmolino/,Yes,Ana García del Molino,Ana-Garcia-del-Molino,Associate Principal AI Engineer at AstraZeneca
-217,2024,2024-10,0,Irene,Font Peradejordi,https://www.linkedin.com/in/irenefontperadejordi/,Yes,Irene Font Peradejordi,,"Asst Director Responsible AI @ Liberty Mutual, Ex-Twitter"
-218,2024,2024-11,0,Ali,Parsa,www.linkedin.com/in/ali-parsa-7bb99873,Yes,Ali Parsa,,"Healthcare Entrepreneur, Founder of Quadrivia, Babylon and Circle"
-219,2024,2024-11,0,Albert,Mercadé Blasco,https://www.linkedin.com/in/albert-mercade-b4732b31/,Yes,Albert Mercadé Blasco,Albert-Mercade,Data Analytics & Engineering
-220,2025,2025-01,0,Yikai,Qiu,https://es.linkedin.com/in/yikai-qiu-0883b91aa,Yes,Yikai Qiu,,Machine Learning Engineer @ Shoptimus AI
-221,2025,2025-01,0,Carlos,Pérez Ricardo,https://www.linkedin.com/in/carlospr97/,Yes,Carlos Pérez Ricardo,Carlos-Perez-Ricardo,Data Scientist - Aerospace Engineer
-222,2025,2025-02,0,Enrique,Alcantara-Garcia,https://www.linkedin.com/in/enrique-alcántara-b9623b,Yes,Enrique Alcantara-Garcia,Enrique-Alcantara,CEO and Founder at Stay U-nique
-223,2025,2025-03,0,Arantxa,Sanz,https://www.linkedin.com/in/arantxa-sanz-b1bb8a/,Yes,Arantxa Sanz,,Executive Director - Strategy for Research and Innovation
-224,2025,2025-04,0,Barbara,Buades,https://www.linkedin.com/in/barbarabuades/,Yes,Barbara Buades,,Co-Founder & CEO at MEETOPTICS
-225,2025,2025-06,1,Pol,Gomà Deàs,https://es.linkedin.com/in/polgomadeas,Yes,Pol Gomà Deàs,Pol-Goma,"Growth, marketing & CRM"
-226,2025,2025-06,0,Alexander,Zhitlukhin,https://www.linkedin.com/in/alexander-zhitlukhin/,Yes,Alexander Zhitlukhin,,CTO @ Appodeal
-227,2025,2026-11,0,Yago,Flores,https://www.linkedin.com/in/yagoflores/,Yes,Yago Flores,,Director NTT Data
-228,2026,2026-01,0,Jorge,Alçada,https://www.linkedin.com/in/jfalcada,Yes,Jorge Alçada,Jorge-Alcada,"Head of Engineering and Applied Science, Amazon"
-229,2026,2026-01,0,Laurentiu,Petrea,https://www.linkedin.com/in/laurentiupetrea/,Yes,Laurentiu Petrea,,Engineering and AI Leader | Voice Agents | CataLlama
+1,2019,2019-06,1,Hugo,Zaragoza Ballester,https://www.linkedin.com/in/hugozaragoza/,YES,Hugo Zaragoza Ballester,Hugo-Zaragoza,"Principal Applied Scientist, Amazon"
+2,2019,2019-06,1,Nathalie,Vento,https://www.linkedin.com/in/nathalie-vento-16088847/,YES,Nathalie Vento,Nathalie-Vento,Digital Marketing Consultant
+3,2019,2019-06,0,Roi,Blanco González,https://www.linkedin.com/in/roi-blanco-2b00588/,YES,Roi Blanco González,Roi-Blanco,Principal Scientist at Amazon
+4,2019,2019-06,0,Giuseppe,Attardi,https://www.linkedin.com/in/giuseppe-attardi-310b791/,YES,Giuseppe Attardi,Guiseppe-Attardi,"Deep Learning for Natural Language Understanding, GARR Federated Cloud Computing Platform"
+5,2019,2019-06,0,Maria,Simi,https://www.linkedin.com/in/maria-simi-4266395/,YES,Maria Simi,Maria-Simi,Professor at University of Pisa
+6,2019,2019-06,0,Sai,Kopuri,https://www.linkedin.com/in/saileshkopuri/,YES,Sai Kopuri,Sai-Kopuri,"Head of Technology, Prime Video X-Ray Live Sports at Amazon"
+7,2019,2019-06,0,Ricardo,Baeza-Yates,https://www.linkedin.com/in/ricardobaezayates/,YES,Ricardo Baeza-Yates,Ricardo-Baeza-Yates,"Director of Research, Institute for Experiential AI @ Northeastern University"
+9,2020,2020-09,0,Jordi,Atserias Batalla,https://www.linkedin.com/in/atserias,YES,Jordi Atserias Batalla,Jordi-Atserias-Batalla,Barcelona Supercomputing Center
+10,2020,2020-09,0,Javier,Romero,https://www.linkedin.com/search/results/all/?keywords=javier%20romero&origin=GLOBAL_SEARCH_HEADER,YES,Javier Romero,Javier-Romero,Research Scientist at Facebook Reality Labs
+11,2020,2020-09,0,Liannet,Reyes Hernandez,https://www.linkedin.com/in/liannetreyes/,YES,Liannet Reyes Hernandez,Liannet-Reyes-Hernandez,"Sr Software Development Engineer, Amazon"
+13,2020,2020-09,0,Marta-Gaia,Zanchi,https://www.linkedin.com/in/mgzanchi/,YES,Marta-Gaia Zanchi,Marta-Gaia-Zanchi,Investing in health technology @ nina
+14,2020,2020-09,1,Pau,Agulló,https://www.linkedin.com/in/pauagullo/,YES,Pau Agulló,Pau-Agulló,CEO at ShoptimusAI
+15,2020,2020-11,0,Mauricio,Rodríguez Sáenz,https://www.linkedin.com/in/mauriciordzsaenz/,YES,Mauricio Rodríguez Sáenz,Mauricio-Rodriguez-Saenz,
+16,2021,2021-01,0,Marc,Castells Olivella,https://www.linkedin.com/in/marcc3/,YES,Marc Castells Olivella,Marc-Castells-i-Olivella,CEO at Basetis
+17,2021,2021-01,0,Carlos,López Ullod,https://www.linkedin.com/in/carlos-l%C3%B3pez-ullod-9906082/,YES,Carlos López Ullod,Carlos-López-Ullod,CEO at SCALAI
+18,2021,2021-01,0,Marc,Torrent Moreno,https://www.linkedin.com/in/mtorrent,YES,Marc Torrent Moreno,Marc-Torrent-Moreno,Head of Data & Analytics at Bon Preu S.A.U.
+19,2021,2021-01,0,Pau,Rué,https://www.linkedin.com/in/paurue/,YES,Pau Rué,Pau-Rué,Elna Health
+20,2021,2021-01,0,Josep M. (Pep),Martorell,https://www.linkedin.com/in/josepmariamartorellrodon/,YES,Josep M. (Pep) Martorell,Josep-Maria-Martorell-Rodon,PARTNER AT IivivoIA
+21,2021,2021-01,1,Oleguer,Sagarra,https://www.linkedin.com/in/oleguer-sagarra-64588a40,YES,Oleguer Sagarra,Oleguer-Sagarra,Co-founder & co-CEO at DRIBIA: Data Research in Business Intel. Analytics
+23,2021,2021-01,1,Xavier,Amatriain,https://www.linkedin.com/in/xamatriain/,YES,Xavier Amatriain,Xavier-Amatriain,"Chief AI and Data Officer at Expedia Group | Former Google, Netflix, LinkedIn, Quora | Curai Health Co-founder"
+24,2021,2021-02,0,Cristina,Bellido,https://www.linkedin.com/in/cristina-bellido-28a089b/,YES,Cristina Bellido,Cristina-Bellido,Directora de Negocio y Analytics en VidaCaixa
+26,2021,2021-03,0,Hannes Felix,Mueller,https://www.linkedin.com/in/hannes-mueller-research/,YES,Hannes Felix Mueller,Hannes-Mueller,"Tenured Researcher (IAE - CSIC), Program Director M.Sc. Data Science for Decision Making (BSE)"
+27,2021,2021-08,0,Paula,Batlle,https://www.linkedin.com/in/paulabatlle/,YES,Paula Batlle,Paula-Battle,"Sr manager, Product Manager tech at Amazon "
+28,2022,2022-01,0,Eduard,Gimenez Funes,https://www.linkedin.com/in/eduard-gimenez-funes/,YES,Eduard Gimenez Funes,Eduard-Gimenez,Data Science & AI Leader UVE Solutions
+29,2022,2022-01,0,Ferran,Carrascosa Mallafrè,https://www.linkedin.com/in/ferrancarrascosa/,YES,Ferran Carrascosa Mallafrè,Ferran-Carrascosa,Lead Data Scientist in Digital Projects & Advanced Analytics CaixaBank
+31,2022,2022-01,0,Alex,Escala,https://www.linkedin.com/in/alex-escala-ribas-a3102570/,YES,Alex Escala,Alex-Escala-Ribas,Lead Data Scientist at ADP
+32,2022,2022-01,0,David,Poblador i Garcia,https://www.linkedin.com/in/davidpoblador/,YES,David Poblador i Garcia,David-Poblador-i-Garcia,Founder All Tuner Labs
+33,2022,2022-01,0,Cristina,Rata,https://www.linkedin.com/in/cristinarata,YES,Cristina Rata,Cristina-Rata,Data and Analytics Executive Sequra  / WA4STEAM Associate Business Angel
+34,2022,2022-01,0,Mihalis,Markakis,https://www.linkedin.com/in/mihalis-markakis-015a5243/,YES,Mihalis Markakis,Mihalis-Markakis,Associate Professor at IESE Business School
+35,2022,2022-01,0,Eloy,Sasot,https://www.linkedin.com/in/eloysasot/,YES,Eloy Sasot,Eloy-Sasot,CDO at ASML
+36,2022,2022-01,0,Oriol,Nieto,https://www.linkedin.com/in/urinieto/,YES,Oriol Nieto,Oriol-Nieto,Senior Research Engineer at Adobe
+37,2022,2022-01,0,Marcos,Alonso,https://www.linkedin.com/in/marcosar/,YES,Marcos Alonso,Marcos-Alonso,"Human Interface Designer, Apple Design Team"
+38,2022,2022-01,0,Fernando,Amat,https://www.linkedin.com/in/fernando-amat-6110931/,YES,Fernando Amat,Fernando-Amat,Senior Staff Machine Learning Research Engineer
+39,2022,2022-01,0,Josep M.,Pujol,https://www.linkedin.com/in/jmpujol/,YES,Josep M. Pujol,Josep-M.-Pujol,Chief of Search at Brave Software
+40,2022,2022-01,0,Bernat,Garcia Larrosa,https://www.linkedin.com/in/bernat-garcia-larrosa-9322869b/,YES,Bernat Garcia Larrosa,Bernat-Garcia-Larrosa,Data & Analytics Manager Dorna Sports
+41,2022,2022-01,0,Josep Marc,Mingot,https://www.linkedin.com/in/mingot/,YES,Josep Marc Mingot,Josep-Marc-Mingot,Co-Founder Prosper AI
+42,2022,2022-01,0,Roger,Frigola,https://www.linkedin.com/in/rogerfrigola/,YES,Roger Frigola,Roger-Frigola,Machine Learning • Racing • Optimization
+43,2022,2022-01,0,Ruben,Mejias,https://www.linkedin.com/in/rubenmejias,YES,Ruben Mejias,Ruben-Mejias-Calderon,CTO at SCRM &#8211; Lidl International Hub
+44,2022,2022-01,0,Lluís,Garcia Pueyo,https://www.linkedin.com/in/lgpueyo/,YES,Lluís Garcia Pueyo,Lluís-Garcia-Pueyo,Director of Engineering at Meta
+45,2022,2022-01,0,Anna,Sáez de Tejada,https://www.linkedin.com/in/annasdtc/,YES,Anna Sáez de Tejada,Anna-Sáez-de-Tejada-Cuenca,Assistant Professor at IESE Business School
+46,2022,2022-01,0,Alberto,Mancheño,https://www.linkedin.com/in/alberto-mancheno-villena/,YES,Alberto Mancheño,Alberto-Mancheño-Villena,Freelance - ML & Data EngineerFreelance
+49,2022,2022-01,0,Daniel,Villatoro Segura,https://www.linkedin.com/in/danielvillatoro/,YES,Daniel Villatoro Segura,Daniel-Villatoro,"Global Head of Data & AI, Retail & Commercial Banking Santander"
+50,2022,2022-01,0,Bernat,Puig Camps,https://www.linkedin.com/in/bepuca/,YES,Bernat Puig Camps,Bernat-Puig-Camps,Applied Machine Learning @ Microsoft
+51,2022,2022-01,0,Victor,Martínez de Albéniz,https://www.linkedin.com/in/victor-martinez-de-albeniz-30a593/,YES,Victor Martínez de Albéniz,Victor-Martinez-de-Albeniz,Professor at IESE Business School and entrepreneur
+52,2022,2022-01,0,Miquel,Camprodon,https://www.linkedin.com/in/miquel-camprodon-masnou/,YES,Miquel Camprodon,Miquel-Camprodon-Masnou,Lead Data Scientist at Bonpreu
+54,2022,2022-01,0,Anna,Saumell Mendiola,https://www.linkedin.com/in/anna-saumell-mendiola-61b6b841/,YES,Anna Saumell Mendiola,Anna-Saumell-Mendiola,Analytics development manager at Caixabank
+55,2022,2022-01,1,David,Bofill,https://www.linkedin.com/in/david-bofill-pages/,YES,David Bofill,David-Bofill-Pagès,Data Science Manager at PepsiCo
+56,2022,2022-01,0,Roberto,Sanchis Ojeda,https://www.linkedin.com/in/sanchisojeda/,YES,Roberto Sanchis Ojeda,Roberto-Sanchis-Ojeda,Senior ML Engineering Manager at Spotify
+57,2022,2022-01,0,Juanjo,Rodriguez,https://www.linkedin.com/in/juanjorodriguez/,YES,Juanjo Rodriguez,Juanjo-Rodriguez,"Founder, The Hotels Network"
+58,2022,2022-01,0,Marc,Ollé,https://www.linkedin.com/in/marc-olle-soronellas-phd-01984/,YES,Marc Ollé,Marc-Olle,Associate Director - Data science at BCG
+60,2022,2022-01,0,Miguel Ángel,Barja Yáñez,https://www.linkedin.com/in/miguel-%C3%A1ngel-barja-y%C3%A1%C3%B1ez-b1b58b25/,YES,Miguel Ángel Barja Yáñez,Miguel-Ángel-Barja-Yáñez,Professor at the Department of Mathematics of UPC
+62,2022,2022-01,0,Eva,Romero Beneyto,https://www.linkedin.com/in/eva-romero-beneyto-632b1019,YES,Eva Romero Beneyto,Eva-Romero-Beneyto,Director of Quantitative Analysis Unit at Banco Sabadell
+63,2022,2022-01,1,Elisenda,Bou,https://www.linkedin.com/in/elisendabou,YES,Elisenda Bou,Elisenda-Bou-Balust,Co-founder & CEO @ Cala
+64,2022,2022-01,0,Joan,Vendrell,https://www.linkedin.com/in/jvendrell/,YES,Joan Vendrell,Joan-Vendrell-Farreny,NeuralTrust
+65,2022,2022-01,0,Anna,Schlegel,https://www.linkedin.com/in/annanschlegel/,YES,Anna Schlegel,Anna-N-Schlegel,Vice-President @ Procore.
+66,2022,2022-01,0,Oriol,Vinyals,https://www.linkedin.com/in/oriol-vinyals-00b3366/,YES,Oriol Vinyals,Oriol-Vinyals,Principal Research Scientist at Google DeepMind
+67,2022,2022-01,0,Alberto,Moreno Hoyo,https://www.linkedin.com/in/albertomh,YES,Alberto Moreno Hoyo,Alberto-Moreno-Hoyo,Senior Data Scientist @ Ferrer
+70,2022,2022-02,0,Sandra,Garcia-Esparza,https://www.linkedin.com/in/sandra-garcia-5260712a/,YES,Sandra Garcia-Esparza,Sandra-Garcia,Staff Data Scientist at Adevinta (before Schibsted Media Group)
+73,2022,2022-02,0,Tiago,Henriques,https://www.linkedin.com/in/tiagoh/,YES,Tiago Henriques,Tiago-Henriques,Technical Leader in Artificial Intelligence and Cloud Computing  at Google Cloud
+74,2022,2022-02,0,Jaume,Albaigès,https://www.linkedin.com/in/jalbaiges/,YES,Jaume Albaigès,Jaume-Albaigès,ICT &amp; NonProfits. SinergiaCRM cofounder. Birdwatcher.
+76,2022,2022-02,1,Ferran,Marqués Acosta,https://www.linkedin.com/in/ferran-marques-0901693/,YES,Ferran Marqués Acosta,Ferran-Marques,Professor at UPC
+77,2022,2022-02,1,Pol,Oliva Martí,https://www.linkedin.com/in/pol-oliva-mart%C3%AD-45890145,YES,Pol Oliva Martí,Pol-Oliva-Martí,Director of Data & Advanced Analytics at MANGO
+82,2022,2022-03,0,Joan,Fernández Bessa,https://www.linkedin.com/in/joanfernandezbessa,YES,Joan Fernández Bessa,Joan-Fernandez-Bessa,Senior manager at Adamo Telecom
+83,2022,2022-03,0,Mauricio,Arnau,https://www.linkedin.com/in/mauricioarnau,YES,Mauricio Arnau,Mauricio-Arnau,Director of Model Risk Management at CaixaBank
+87,2022,2022-03,0,Ruben,Marias,https://www.linkedin.com/in/rubenmarias/,YES,Ruben Marias,Ruben-Marias,AI @ NVIDIA
+89,2022,2022-03,0,Daniel,Rodrigo López,https://www.linkedin.com/in/danielrodrigolopez,YES,Daniel Rodrigo López,Daniel-Rodrigo-López,Senior Data Scientist at Volotea
+91,2022,2022-04,0,Jose-Miguel,Pulido Villaverde,https://www.linkedin.com/in/josemiguelpulido/,YES,Jose-Miguel Pulido Villaverde,Jose-Miguel-Pulido-Villaverde,AI Networking at IBM
+92,2022,2022-04,0,Enric,Spagnolo,https://www.linkedin.com/in/enric-spagnolo-arrizabalaga-57b394ab,YES,Enric Spagnolo,Enric-Spagnolo-Arrizabalaga,Conversational AI
+94,2022,2022-04,0,Santiago,Murillo,https://www.linkedin.com/in/santimurrillo,YES,Santiago Murillo,Santiago-M,Data Products Director at CaixaBank
+95,2022,2022-04,0,Antonio,Calvo,https://www.linkedin.com/in/antoniocalvog,YES,Antonio Calvo,Antonio-Calvo,Head Retail &amp; CPG at SAS
+96,2022,2022-04,0,Martí,Mayo Casademont,https://www.linkedin.com/in/mart%C3%AD-mayo-casademont-7a1b722b,YES,Martí Mayo Casademont,Martí-Mayo-Casademont,Data Science Senior Manager MANGO
+98,2022,2022-04,0,Germán,García,https://www.linkedin.com/in/gergf/,YES,Germán García,Germán-García-Ferrando,Data Strategy Consultant @ BCG
+99,2022,2022-05,0,Miguel,Picallo Cruz,https://www.linkedin.com/in/miguel-picallo-cruz/,YES,Miguel Picallo Cruz,Miguel-Picallo-Cruz,Head of AI & Control at Beebop.ai
+100,2022,2022-05,0,Andreu,Lazaro,https://www.linkedin.com/in/andreu-lazaro-715b0320/,YES,Andreu Lazaro,Andreu-Lazaro,"Data Science & AI, PhD"
+101,2022,2022-05,1,Andreu,Mayo,https://www.linkedin.com/in/andreu-mayo/,YES,Andreu Mayo,Andreu-Mayo-Casademont,Senior Machine Learning Engineer at PepsiCo
+103,2022,2022-05,0,Ramon,Pujol,https://www.linkedin.com/in/ramonpujol/,YES,Ramon Pujol,Ramon-Pujol,Founder @ Banana.tech
+104,2022,2022-05,0,Patrick,Aloy,https://www.linkedin.com/in/patrick-aloy-7943181a/,YES,Patrick Aloy,Patrick-Aloy,ICREA Research Professor at the Institute for Research in Biomedicine
+105,2022,2022-05,0,Emiliano,Carluccio,https://www.linkedin.com/in/emiliano-carluccio-12184126/,YES,Emiliano Carluccio,,VP of Analytics International at Prima Assicurazioni
+106,2022,2022-05,0,Riste,Gjorgjiev,https://www.linkedin.com/in/ristegjorgjiev/,YES,Riste Gjorgjiev,Riste-Gjorgjiev,Data Science Manager at Accenture Applied Intelligence
+107,2022,2022-05,0,Albert,Pujol Torras,https://www.linkedin.com/in/albert-pujol-torras-3a7367/,YES,Albert Pujol Torras,Albert-Pujol-Torras,VP Data Science at The Hotels Network
+109,2022,2022-05,0,Albert,Sagarra,https://www.linkedin.com/in/albert-sagarra-0aa37a2a/,YES,Albert Sagarra,Albert-Sagarra,"EMEA Strategic Sales Leader, IBM Services"
+110,2022,2022-05,0,Luis,de Quadras Gambus,https://www.linkedin.com/in/luis-de-quadras-gamb%C3%BAs-990b8410b/,YES,Luis de Quadras Gambus,Luis-de-Quadras,Principal Data Scientist at @HP 
+111,2022,2022-06,0,Carles,Fontanals,https://www.linkedin.com/in/carlesfontanals/,YES,Carles Fontanals,Carles-Fontanals,Founder en ESBRINA
+112,2022,2022-06,0,Bernat,Agulló,https://www.linkedin.com/in/bernatagullo/,YES,Bernat Agulló,Bernat-Agulló-Roselló,Senior BI Developer and Partner at Esbrina
+116,2022,2022-10,0,Albert,Diaz Guilera,https://www.linkedin.com/in/albert-diaz-guilera-2991852/,YES,Albert Diaz Guilera,,Catedrático @ University of Barcelona
+117,2022,2022-10,0,Adria,Recasens Continente,https://www.linkedin.com/in/adri%C3%A0-recasens-continente-29b67421/,YES,Adria Recasens Continente,Adria-Recasens-Continente,Senior Research Scientist at DeepMind
+118,2022,2022-10,0,Ernest,Artiaga,https://www.linkedin.com/in/eartiaga,YES,Ernest Artiaga,Ernest-Artiaga,"Computer Scientist, Space Enthusiast, Avionics SoftwareEngineer"
+119,2022,2022-10,0,Carlos,Garcia Marquez,https://www.linkedin.com/in/carlosgarciamarquez/,YES,Carlos Garcia Marquez,Carlos-Garcia-Marquez,Senior Software Engineer at Quantrue
+120,2022,2022-11,0,Marc,Gratacós,https://www.linkedin.com/in/marcgratacos/,YES,Marc Gratacós,Marc-Gratacos,Managing Partner at TradeHeader
+121,2022,2022-11,0,Winslow,Robertson,https://www.linkedin.com/in/winslowrobertson/,YES,Winslow Robertson,Winslow-Robertson,Postdoctoral Fellow at EMLyon Business School’s STORM Research Center
+122,2022,2022-11,0,Léonce,ANO,https://www.linkedin.com/in/leonceano/,YES,Léonce ANO,Leonce-B-Ano,Design & Implementation of Operational Excellence Tools Accurate Digital
+125,2023,2023-01,0,Joan,Fontanals Martínez,https://www.linkedin.com/in/joanfontanalsmartinez/,YES,Joan Fontanals Martínez,Joan Fontanals Martínez,Principal Engineer at Redis
+127,2023,2023-01,0,Jordi,Maristany,https://www.linkedin.com/in/jordi-maristany-8a8571/,YES,Jordi Maristany,Jordi Maristany,Attorney and Managing Partner of MARISTANY - Business Law Professor
+129,2023,2023-01,0,Ricard,Huguet Gali,https://www.linkedin.com/in/ricardhuguet/,YES,Ricard Huguet Gali,Ricard Huguet Gali,Managing Director at ROBOTIX® Hands-on Learning
+132,2023,2023-01,0,Jaume,Muntsant Soria,https://www.linkedin.com/in/jaume-muntsant-soria/,YES,Jaume Muntsant Soria,Jaume Muntsant Soria,Senior Data Scientist at BCG X
+133,2023,2023-01,0,Xavier,Giró i Nieto,https://www.linkedin.com/in/xaviergiro,YES,Xavier Giró i Nieto,Xavier Giró i Nieto,Applied Scientist at Amazon Science Barcelona.
+134,2023,2023-01,0,Matías,Larre Borges,https://www.linkedin.com/in/greatengineer/,YES,Matías Larre Borges,Matías Larre Borges,Principal Engineer at Amazon
+135,2023,2023-01,0,Alejandro,Fernández Piqué,https://www.linkedin.com/in/alejandrofernandezpique/,YES,Alejandro Fernández Piqué,Alejandro Fernández Piqué,Senior Data Scientist at BCG X
+137,2023,2023-01,0,Marçal,Molins Alonso,https://www.linkedin.com/in/molins/,YES,Marçal Molins Alonso,Marçal Molins Alonso,"Associate Director, Data Science en BCG GAMMA"
+139,2023,2023-01,0,Roger,Forcada Margarit,https://www.linkedin.com/in/roger-forcada/,YES,Roger Forcada Margarit,Roger Forcada Margarit,"Principal, Data Science, BCG X"
+140,2023,2023-01,1,Amelie,Baud,https://www.linkedin.com/in/amelie-baud-a481791aa/,YES,Amelie Baud,Amelie Baud,Research group leader at Centre for Genomic Regulation (CRG)
+141,2023,2023-01,0,Miquel,Larsson,https://www.linkedin.com/in/miqlar/,YES,Miquel Larsson,Miquel-Larsson,Senior Data Scientist at Chainlink Labs
+143,2023,2023-01,0,Maria,Fernandez Ruiz,https://www.linkedin.com/in/maria-fdez-ruiz/,YES,Maria Fernandez Ruiz,,Data Science Strategy Manager @ eDreams ODIGEO
+144,2023,2023-01,1,Mario,Cavero,https://www.linkedin.com/in/mariocavero/,YES,Mario Cavero,,Senior Software Engineer at Pickem
+147,2023,2023-01,0,Raúl,García,https://www.linkedin.com/in/raulgarciamonclus/,YES,Raúl García,Raul Garcia Monclus,CEO & Senior Partner at Cognodata - Customer Science - Digital Sales - Fintech - Marketing Automation - CRM
+149,2023,2023-01,0,Joshua,Mora,https://www.linkedin.com/in/joshuamora/,YES,Joshua Mora,Joshua-Mora,Large Scale HPC & AI SYSTEM STACK
+150,2023,2023-01,0,Derick,Leony,https://www.linkedin.com/in/dleony/,YES,Derick Leony,Derick Leony,"Director of Analytics, EMEA at Criteo"
+153,2023,2023-01,0,Arnau,Llovera Aparicio,https://www.linkedin.com/in/arnaullovera/,YES,Arnau Llovera Aparicio,Arnau Llovera,Manager at Strategy& | Revenue Growth and Data Science
+155,2023,2023-01,0,Marta,Villegas,https://www.linkedin.com/in/martavillegasmontserrat/,YES,Marta Villegas,,Head of Language Technologies Unit at BSC
+157,2023,2023-02,0,Pau,Minoves,https://www.linkedin.com/in/pauminoves/,YES,Pau Minoves,Pau Minoves,Founder CTO at The Matter & Form Company
+159,2023,2023-02,0,Xavier,Spagnolo,https://www.linkedin.com/in/xavier-spagnolo-61803b8b,YES,Xavier Spagnolo,,Staff Software Engineer at Deepmind
+160,2023,2023-02,0,Jordi,Torres,https://www.linkedin.com/in/jorditorresai/,YES,Jordi Torres,,Professor at UPC Barcelona Tech | Senior Researcher at BSC | Expert Advisor in HPC & AI at BSC
+161,2023,2023-03,0,Jose,Ballester,https://www.linkedin.com/in/jballester/,YES,Jose Ballester,,Software Engineer at REVER
+162,2023,2023-03,0,Ariadna,Font Llitjos,https://www.linkedin.com/in/ariadna,YES,Ariadna Font Llitjos,,Building something new + Helping business leverage AI and ML responsibly | Speaker | Mentor
+165,2023,2023-03,0,Salvador,Garcia Ruiz,https://www.linkedin.com/in/salvador-garcia-ruiz-079248/,YES,Salvador Garcia Ruiz,,Chief Communications and Brand Officer at Telefónica
+166,2023,2023-03,0,Andreu,Dotti,https://www.linkedin.com/in/andreu-dotti-boada-01043810b/,YES,Andreu Dotti,,CEO & Co-Founder at Innovamat
+167,2023,2023-04,0,Ricard,Ferrer,https://www.linkedin.com/in/ricard-ferrer/,YES,Ricard Ferrer,,Data Scientist at PepsiCo
+168,2023,2023-04,0,Nacho,Lafuente Botella,https://www.linkedin.com/in/nacholafuentebotella/,YES,Nacho Lafuente Botella,,"Computer Science, Honest Software and Advice. Founder Luzernillo"
+171,2023,2023-04,0,Joan,Sanfeliu,https://www.linkedin.com/in/joansanfeliusabater,YES,Joan Sanfeliu,,Industrial engineer
+173,2023,2023-04,0,Ramon,Morote Ribas,https://www.linkedin.com/in/ramon-morote-ribas-87257857/,YES,Ramon Morote Ribas,,CEO at Gyrus DS
+174,2023,2023-05,0,Pasqual,Batalla,https://www.linkedin.com/in/pasqualbatalla/,YES,Pasqual Batalla,,Chief Operating Officer at Sandsoft Games Associate professor CITM (UPC)
+177,2023,2023-06,0,Vladimir,Estivill Castro,https://www.linkedin.com/in/vladimirestivillcastrophd/,YES,Vladimir Estivill Castro,,Professor at University of Canterbury
+178,2023,2023-06,1,Kaya,Aykut,https://www.linkedin.com/in/kayaaykut,NO,,,
+179,2023,2023-06,0,Gaston,Besanson,https://www.linkedin.com/in/besanson/,YES,Gaston Besanson,,"SVP, Global Head of Data Science"
+180,2023,2023-06,0,Joel,Montoy,https://www.linkedin.com/in/joel-montoy-181753/,YES,Joel Montoy,,CEO Aquiles Solutions
+187,2023,2023-09,0,Carlos,Florensa,https://www.linkedin.com/in/carlosflorensa/,YES,Carlos Florensa,,Research Scientist at OpenAI
+190,2023,2023-09,0,Leonardo,Giacomet,https://www.linkedin.com/in/leonardo-luigi-giacomet-bb932013/,YES,Leonardo Giacomet,,Product & Data Strategy @ Restb.ai | IESE MBA
+191,2023,2023-10,0,Marc,Bonavia,https://www.linkedin.com/in/marcbonavia/,YES,Marc Bonavia,,Formerly Founder. Now helping a Government Agency to champion the country's business growth through innovation. Transformational Leader.
+192,2023,2023-10,0,Yannis,Kalantidis,https://www.linkedin.com/in/yannis-kalantidis/,YES,Yannis Kalantidis,,Research Scientist at NAVER LABS Europe
+193,2023,2023-11,0,Monica,de Mier,https://www.linkedin.com/in/monicademier/,YES,Monica de Mier,,Accelerating chemicals innovation | CEO at Nextmol.com
+195,2023,2023-11,0,Joren,Gijsbrechts,https://www.linkedin.com/in/joren-gijsbrechts/,YES,Joren Gijsbrechts,,Assistant Professor at Esade
+196,2023,2023-11,0,Gemma,Comellas,https://www.linkedin.com/in/gemma-comellas,YES,Gemma Comellas,,Data Scientist at Amazon | PhD
+197,2024,2024-01,1,Joan,Capdevila Pujol,https://www.linkedin.com/in/joan-capdevila-phd-00513121/,YES,Joan Capdevila Pujol,,Data Science @ Skyscanner Scaling decisions Ex-ZOE 
+199,2023,2023-12,0,Pau,Garcia-Mila,https://www.linkedin.com/in/paugarciamila/,YES,Pau Garcia-Mila,Pau-Garcia-Mila,Linkedin Top Voice 2022. Founderz Business School Co-founder
+200,2024,2024-01,0,Natalia,Subirana,https://www.linkedin.com/in/natalia-subirana-art%C3%BAs-b222791b5/,YES,Natalia Subirana,,Senior Data Scientist at McKinsey & Company
+201,2024,2024-02,0,Hector,Fornes Martinez,https://www.linkedin.com/in/fornes,YES,Hector Fornes Martinez,,Manager at Vueling Airlines | Air Transport Management Lecturer @ UPC | MIT alumn
+202,2024,2024-02,0,Lledó,Esquerra Ortells,https://www.linkedin.com/in/lledoe/,YES,Lledó Esquerra Ortells,Lledo-Esquerra,"Applied Science  former Amazonian Graph Theory, Causal Inference and Signal Processing"
+203,2024,2024-02,0,Sergi,Ortiz Rodriguez,https://www.linkedin.com/in/sergiortizrodriguez/,YES,Sergi Ortiz Rodriguez,,CEO at Shimoku | Data & AI to empower individuals and teams
+204,2024,2024-03,0,Marta Regina,Cano Jiménez,https://es.linkedin.com/in/martareginacano,YES,Marta Regina Cano Jiménez,Marta-Regina-Cano-Jimenez,Business Intelligence Director en Grupo Caja de Ingenieros
+205,2024,2024-03,0,Marc,Fuster Rullan,https://es.linkedin.com/in/marcfuster,YES,Marc Fuster Rullan,,Senior Data Scientist @PepsiCo
+206,2024,2024-03,0,Pere,Mayol,https://www.linkedin.com/in/peremayol/,YES,Pere Mayol,,Transforming AI and health data analytics at Avatar Cognition
+208,2024,2024-04,0,Rafael,Giménez,https://www.linkedin.com/in/rafa-gimenez/,YES,Rafael Giménez,Rafael-Gimenez,Data & AI Lead at Quantion Azure AI Engineer Associate
+212,2024,2024-06,0,Issey,Masuda Mora,www.linkedin.com/in/issey-masuda-mora,YES,Issey Masuda Mora,,Co-Founder & CTO @Cala
+213,2024,2024-07,0,Valeria,Tereshchenko,https://www.linkedin.com/in/valeri-tereshchenko/,YES,Valeria Tereshchenko,,MLOps at PepsiCo
+214,2024,2024-07,0,Miquel,Casas,https://www.linkedin.com/in/miquel-c-31a55a/,YES,Miquel Casas,,CTO @ KaveHome
+215,2024,2024-07,0,Jaume,Archidona,https://www.linkedin.com/in/james-archidona-11018431/,YES,Jaume Archidona,,Co-founder & CEO @Joblanders
+216,2024,2024-09,0,Ana,García del Molino,https://www.linkedin.com/in/anagarciadelmolino/,YES,Ana García del Molino,Ana-Garcia-del-Molino,Associate Principal AI Engineer at AstraZeneca
+217,2024,2024-10,0,Irene,Font Peradejordi,https://www.linkedin.com/in/irenefontperadejordi/,YES,Irene Font Peradejordi,,"Director AI Product Manager @ Liberty Mutual, Ex-Twitter"
+220,2025,2025-01,0,Yikai,Qiu,https://es.linkedin.com/in/yikai-qiu-0883b91aa,YES,Yikai Qiu,,Machine Learning Engineer @ Shoptimus AI
+221,2025,2025-01,0,Carlos,Pérez Ricardo,https://www.linkedin.com/in/carlospr97/,YES,Carlos Pérez Ricardo,Carlos-Perez-Ricardo,Data Scientist - Aerospace Engineer
+222,2025,2025-02,0,Enrique,Alcantara-Garcia,https://www.linkedin.com/in/enrique-alcántara-b9623b,YES,Enrique Alcantara-Garcia,Enrique-Alcantara,CEO and Founder at Stay U-nique
+224,2025,2025-04,0,Barbara,Buades,https://www.linkedin.com/in/barbarabuades/,YES,Barbara Buades,,Co-Founder & CEO at MEETOPTICS
+225,2025,2025-06,1,Pol,Gomà Deàs,https://es.linkedin.com/in/polgomadeas,YES,Pol Gomà Deàs,Pol-Goma,"Growth, marketing & CRM"
+226,2025,2025-06,0,Alexander,Zhitlukhin,https://www.linkedin.com/in/alexander-zhitlukhin/,YES,Alexander Zhitlukhin,,CTO @ Appodeal
+227,2025,2026-11,0,Yago ,Flores,https://www.linkedin.com/in/yagoflores/,,Yago  Flores,,Director NTT Data
+228,2026,2026-01,0,Jorge,Alçada,https://www.linkedin.com/in/jfalcada,,Jorge Alçada,Jorge-Alcada,"Head of Engineering and Applied Science, Amazon"
+229,2026,2026-01,0,Laurentiu,Petrea,https://www.linkedin.com/in/laurentiupetrea/,,Laurentiu Petrea,,Founder @ HolaGuest | AI Agents for hotel chains
+230,2026,2026-02,0,Roger,Agustín Salat,,,Roger Agustín Salat,,
+231,2026,2026-04,0,Irene,Marín Amat,https://www.linkedin.com/in/irenemarinamat/,,Irene Marín Amat,,
+232,2026,2026-04,0,Albert,Caubet Domingo,https://www.linkedin.com/in/albert-caubet/,,Albert Caubet Domingo,,
+233,2026,2026-04,0,Cristina,Zaragoza Ruvira,,,Cristina Zaragoza Ruvira,,
+234,2026,2026-07,0,Albert,Puntí Turull,,,Albert Puntí Turull,,
+235,2026,2026-07,0,Aina,Maull Miquell,,,Aina Maull Miquell,,
