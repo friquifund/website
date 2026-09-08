@@ -19,8 +19,8 @@ en: &DEFAULT_EN
       url: /efforts
     - title: "About Us"
       url: /about-us
-    - title: "News"
-      url: /news
+    #- title: "News"
+    #  url: /news
     - title: "Get Involved"
       url: /get-involved
     - title: "Join Us"
