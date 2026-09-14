@@ -58,6 +58,7 @@ You won’t just be funding important work, but also have a direct say in where 
 	<div class="col">
 		<p><img src="/assets/carousel/IMG_6611.JPG" class="img-fluid img-thumbnail" alt="A woman on a stage with multiple large screens behind her and a rapt auditorium watching her."></p> 
 	</div>
+</div>
 
 <h2>Fund good work</h2>
 funding image
