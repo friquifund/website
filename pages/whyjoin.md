@@ -29,7 +29,7 @@ permalink: /why-join
 <p>STEM can be empowering, but it’s not a path available to everyone.</p>
 <p>FriquiFund exists because we know that lacking funds for transportation, a computer, tuition fees, or mentorship can be the deciding factor that leads vulnerable students to abandon their studies.</p>
 <p>That’s why we help prepare young, disadvantaged geeks for success in future careers.</p>
-<img src="/img/exit.png" class="img-fluid img-thumbnail" alt="students in a classroom, many with laptops, listening to a teacher"</p> 
+<img src="/img/exit.png" class="img-fluid img-thumbnail" alt="students in a classroom, many with laptops, listening to a teacher"> 
 
 <h2>How do we do that?</h2>
 
