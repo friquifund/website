@@ -4,7 +4,12 @@ title: Why join
 permalink: /why-join
 ---
 
-<h1>Why join</h1>
+<h1>Why become a member?</h1>
+
+As a member you will be joining a supportive group of peers that shares your values and is
+helping make a difference in our community.
+
+You won’t just be funding important work, but also have a direct say in where those funds go, be invited to events, and be part of what makes FriquiFund so special.
 
 <h2>Friqui = Geek</h2>
 
@@ -54,4 +59,35 @@ permalink: /why-join
 		<p><img src="/assets/carousel/IMG_6611.JPG" class="img-fluid img-thumbnail" alt="A woman on a stage with multiple large screens behind her and a rapt auditorium watching her."></p> 
 	</div>
 
+<h2>Fund good work</h2>
+funding image
 
+funding example
+
+<h2>Direct mentorship</h2>
+
+<p>Our members provide one-on-one support, bringing with them their real-world experience and connections.  We focus on practical skills and guidance to bridge the key transition from training to landing onto their ﬁrst job.</p>
+
+image of mentorship
+
+<h3>Testimonials from mentees:</h3>
+
+“More conﬁdent now when reaching out to recruiters. I would like to stay in contact with my mentor for speciﬁc questions.”
+
+“An amazing experience, It really helped me to ﬁnd a tech job. Thank
+you very much.”
+
+“Gran aprendizaje. Desconocía que se tenía que investigar la empresa.”
+
+“Loved the behavioral and technical interviews ❤ Ana and David were so kind and supportive.”
+
+<h2>Build community</h2>
+
+We host talks from top experts in the ﬁeld.
+
+These are both fundraising events and a space for FriquiFund members, program participants, our mentees, and the broader Barcelona STEM community to meet and forge a stronger
+connection.
+
+Past topics: Responsible AI, Health & AI, Education & AI, Evaluating LLMs at Scale, Building AI products, etc.
+
+image of a talk
