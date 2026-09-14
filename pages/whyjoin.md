@@ -31,7 +31,7 @@ permalink: /why-join
 <p>That’s why we help prepare young, disadvantaged geeks for success in future careers.</p>
 <img src="/img/exit.png" class="img-fluid img-thumbnail" alt="students in a classroom, many with laptops, listening to a teacher"</p> 
 
-<h2>How do we do that?</p>
+<h2>How do we do that?</h2>
 
 <div class="row">
 	<div class="col">
