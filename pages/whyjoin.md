@@ -48,7 +48,7 @@ permalink: /why-join
 		<p><img src="/assets/carousel/2022-11-escola_auro5.jpg" class="img-fluid img-thumbnail" alt="a small robot car sits on a table in front some laptops. Hands are typing on the laptops"></p>
 	</div>
 	<div class="col">
-		<p><img src="/img/JobBuddies.jpg" class="img-fluid img-thumbnail" alt="two women sitting at a table talking to each other"></p>
+		<p><img src="/img/JobBuddies.JPG" class="img-fluid img-thumbnail" alt="two women sitting at a table talking to each other"></p>
 	</div>
 	<div class="col">
 		<p><img src="/assets/carousel/IMG_6611.JPG" class="img-fluid img-thumbnail" alt="A woman on a stage with multiple large screens behind her and a rapt auditorium watching her."></p> 
