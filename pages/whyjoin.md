@@ -6,15 +6,13 @@ permalink: /why-join
 
 <h1>Why become a member?</h1>
 
-As a member you will be joining a supportive group of peers that shares your values and is
-helping make a difference in our community.
+<p class="lead">As a member you will be joining a supportive group of peers that shares your values and is helping make a difference in our community.</p>
+<p class="lead">You won’t just be funding important work, but also have a direct say in where those funds go, be invited to events, and be part of what makes FriquiFund so special.</p>
 
-You won’t just be funding important work, but also have a direct say in where those funds go, be invited to events, and be part of what makes FriquiFund so special.
-
-<h2>Friqui = Geek</h2>
 
 <div class="row align-items-center">
 	<div class="col">
+		<h2>Friqui = Geek</h2>
 		<p>We are 200 members from the world of <abbr title="Science Technology Engineering & Mathematics">STEM</abbr> with strong ties to Barcelona.</p>
 	</div>
 	<div class="col">
@@ -22,12 +20,12 @@ You won’t just be funding important work, but also have a direct say in where 
 	
 </div>
 </div>
-<h2>Fund = Future</h2>
 <div class="row align-items-center">
 	<div class="col">
 		<p><img src="/assets/carousel/GirlsGems1.png" class="img-fluid img-thumbnail" alt="Two girls from behind looking at a laptop. One of them is pointing someout on the screen."></p>
 	</div>
 	<div class="col">
+		<h2>Fund = Future</h2>
 		<p>We have come together as a community to support the next generation pursue their futures in STEM.</p>
 	</div>
 </div>
