@@ -57,7 +57,7 @@ permalink: /why-join
 	<div class="col align-middle">
 	<p class="lead">Our members provide one-on-one support, bringing with them their real-world experience and connections.  We focus on practical skills and guidance to bridge the key transition from training to landing onto their ﬁrst job.</p>
 	</div>
-	<div>
+	<div class="col">
 	<p><img src="/img/JobBuddies.JPG" class="img-fluid img-thumbnail" alt="two women sitting at a table talking to each other"></p>
 	</div>
 </div>
