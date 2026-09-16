@@ -50,7 +50,6 @@ permalink: /why-join
 
 <img src="img/ff_funding.png" class="img-fluid" />
 
-<p class="text-right">Check out our <a href="efforts">recent efforts</a> to learn more about the projects we fund.</p>
 <style>
 .carousel-control-prev-icon {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23f00' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
@@ -69,10 +68,10 @@ permalink: /why-join
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="img/ff_funding.png" class="d-block w-100" alt="...">
+        <img src="2022-09-AEIRabal_pixelated.png" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
-          <h5>First slide label</h5>
-          <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+          <h5>AEI Raval</h5>
+          <p>Education support for students.</p>
         </div>
       </div>
       <div class="carousel-item">
@@ -83,10 +82,10 @@ permalink: /why-join
         </div>
       </div>
       <div class="carousel-item">
-        <img src="..." class="d-block w-100" alt="...">
+        <img src="img/exit.png" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
-          <h5>Third slide label</h5>
-          <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+          <h5>EXIT</h5>
+          <p>Career guidance and coaching.</p>
         </div>
       </div>
     </div>
@@ -100,6 +99,8 @@ permalink: /why-join
     </a>
   </div>
 </div>
+
+<p class="text-right">Check out our <a href="efforts">recent efforts</a> to learn more about the projects we fund.</p>
 
 <h3>2. Direct mentorship</h3>
 
