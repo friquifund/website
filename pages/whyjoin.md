@@ -68,7 +68,7 @@ permalink: /why-join
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="2022-09-AEIRabal_pixelated.png" class="d-block w-100" alt="...">
+        <img src="/assets/carousel/2022-09-AEIRabal_pixelated.png" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
           <h5>AEI Raval</h5>
           <p>Education support for students.</p>
@@ -139,7 +139,8 @@ Past topics: Responsible AI, Health & AI, Education & AI, Evaluating LLMs at Sca
 
 image of a talk
 
-<p><img src="/assets/carousel/2022-11-escola_auro5.jpg" class="img-fluid img-thumbnail" alt="a small robot car sits on a table in front some laptops. Hands are typing on the laptops"></p>
 <p><img src="/assets/carousel/IMG_6611.JPG" class="img-fluid img-thumbnail" alt="A woman on a stage with multiple large screens behind her and a rapt auditorium watching her."></p> 
 
+<h2>Join today!</h2>
 
+<p class="lead"><a href="/join-us">Learn more about how to join the Friqui Fund community.</a></p>
