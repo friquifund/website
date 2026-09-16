@@ -130,16 +130,14 @@ permalink: /why-join
 
 <h3>3. Build community</h3>
 
-We host talks from top experts in the ﬁeld.
+<div class="row align-items-center">
+	<div class="col">
+		<p><img src="/assets/carousel/IMG_6611.JPG" class="img-fluid img-thumbnail" alt="A woman on a stage with multiple large screens behind her and a rapt auditorium watching her."></p>
+	</div>
+	<div>
+		<p class="lead">We regularly stay in touch to share ideas, mobilize resources, and help out when we can.</p>
+		<p class="lead">We also host talks from top experts in the ﬁeld. These are both fundraising events and a space for FriquiFund members, program participants, our mentees, and the broader Barcelona STEM community to meet and forge a stronger connection.</p>
 
-These are both fundraising events and a space for FriquiFund members, program participants, our mentees, and the broader Barcelona STEM community to meet and forge a stronger
-connection.
-
-Past topics: Responsible AI, Health & AI, Education & AI, Evaluating LLMs at Scale, Building AI products, etc.
-
-image of a talk
-
-<p><img src="/assets/carousel/IMG_6611.JPG" class="img-fluid img-thumbnail" alt="A woman on a stage with multiple large screens behind her and a rapt auditorium watching her."></p> 
 
 <h2>Join today!</h2>
 
