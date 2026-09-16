@@ -134,11 +134,12 @@ permalink: /why-join
 	<div class="col">
 		<p><img src="/assets/carousel/IMG_6611.JPG" class="img-fluid img-thumbnail" alt="A woman on a stage with multiple large screens behind her and a rapt auditorium watching her."></p>
 	</div>
-	<div>
+	<div class="col">
 		<p class="lead">We regularly stay in touch to share ideas, mobilize resources, and help out when we can.</p>
 		<p class="lead">We also host talks from top experts in the ﬁeld. These are both fundraising events and a space for FriquiFund members, program participants, our mentees, and the broader Barcelona STEM community to meet and forge a stronger connection.</p>
-
+	</div>
+</div>
 
 <h2>Join today!</h2>
 
-<p class="lead"><a href="/join-us">Learn more about how to join the Friqui Fund community.</a></p>
+<p class="lead"><a href="/join-us" class="btn btn-primary">Learn more about how to join the Friqui Fund community.</a></p>
