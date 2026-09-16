@@ -50,12 +50,9 @@ permalink: /why-join
 	<li class="list-group-item flex-fill lead">Build Community</li>
 </ul>
 
-<p><img src="/assets/carousel/2022-11-escola_auro5.jpg" class="img-fluid img-thumbnail" alt="a small robot car sits on a table in front some laptops. Hands are typing on the laptops"></p>
-<p><img src="/img/JobBuddies.JPG" class="img-fluid img-thumbnail" alt="two women sitting at a table talking to each other"></p>
-<p><img src="/assets/carousel/IMG_6611.JPG" class="img-fluid img-thumbnail" alt="A woman on a stage with multiple large screens behind her and a rapt auditorium watching her."></p> 
-
 <h3>1. Fund good work</h3>
-funding image
+
+<img src="img/ff_funding.png" class="img-fluid" />
 
 funding example
 
@@ -65,7 +62,7 @@ funding example
 
 image of mentorship
 
-<h3>Testimonials from mentees:</h3>
+<h4>Testimonials from mentees:</h4>
 
 “More conﬁdent now when reaching out to recruiters. I would like to stay in contact with my mentor for speciﬁc questions.”
 
@@ -76,7 +73,7 @@ you very much.”
 
 “Loved the behavioral and technical interviews ❤ Ana and David were so kind and supportive.”
 
-<h2>Build community</h2>
+<h3>Build community</h3>
 
 We host talks from top experts in the ﬁeld.
 
@@ -86,3 +83,9 @@ connection.
 Past topics: Responsible AI, Health & AI, Education & AI, Evaluating LLMs at Scale, Building AI products, etc.
 
 image of a talk
+
+<p><img src="/assets/carousel/2022-11-escola_auro5.jpg" class="img-fluid img-thumbnail" alt="a small robot car sits on a table in front some laptops. Hands are typing on the laptops"></p>
+<p><img src="/img/JobBuddies.JPG" class="img-fluid img-thumbnail" alt="two women sitting at a table talking to each other"></p>
+<p><img src="/assets/carousel/IMG_6611.JPG" class="img-fluid img-thumbnail" alt="A woman on a stage with multiple large screens behind her and a rapt auditorium watching her."></p> 
+
+
