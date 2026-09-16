@@ -53,8 +53,8 @@ permalink: /why-join
 
 <h3>2. Direct mentorship</h3>
 
-<div class="row">
-	<div class="col align-items-center">
+<div class="row align-items-center">
+	<div class="col ">
 	<p class="lead">Our members provide one-on-one support, bringing with them their real-world experience and connections.  We focus on practical skills and guidance to bridge the key transition from training to landing onto their ﬁrst job.</p>
 	</div>
 	<div class="col">
@@ -65,9 +65,10 @@ permalink: /why-join
 <h4>Testimonials from mentees:</h4>
 
 <div class="container">
-  <div class="row row-cols-2">
+  <div class="row">
     <div class="col"><p>“More conﬁdent now when reaching out to recruiters. I would like to stay in contact with my mentor for speciﬁc questions.”</p></div>
     <div class="col"><p>“An amazing experience, It really helped me to ﬁnd a tech job. Thank you very much.” </p></div>
+    <div class="w-100"></div>
     <div class="col"><p>“Gran aprendizaje. Desconocía que se tenía que investigar la empresa.”</p></div>
     <div class="col"><p>“Loved the behavioral and technical interviews ❤ Ana and David were so kind and supportive.”</p></div>
   </div>
