@@ -68,21 +68,21 @@ permalink: /why-join
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="/assets/carousel/2022-09-AEIRabal_pixelated.png" class="d-block w-100" alt="...">
+        <img src="/assets/carousel/2022-09-AEIRabal_pixelated.png" alt="Two young women sitting at a desk with laptops open in front of them" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
           <h5>AEI Raval</h5>
           <p>Education support for students.</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="/assets/carousel/2022-11-escola_auro5.jpg" class="d-block w-100" alt="...">
+        <img src="/assets/carousel/2022-11-escola_auro5.jpg" alt="two small robot sits on a table plugged in to laptops behind them. Young girls are typing and concentrating hard on the latops." class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
           <h5>Fundación Scientia</h5>
           <p>Robotics once a week in underprivileged shools.</p>
         </div>
       </div>
       <div class="carousel-item">
-        <img src="img/exit.png" class="d-block w-100" alt="...">
+        <img src="img/exit.png" alt="A classroom full of teenagers, some with laptops open in front of them. At the front stands a man with a microphone with a screen showing a presentation next to him." class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
           <h5>EXIT</h5>
           <p>Career guidance and coaching.</p>
@@ -142,4 +142,4 @@ permalink: /why-join
 
 <h2>Join today!</h2>
 
-<p class="lead"><a href="/join-us" class="btn btn-primary">Learn more about how to join the Friqui Fund community.</a></p>
+<p class="lead text-center"><a href="/join-us" class="btn btn-primary">Learn how to join the Friqui Fund community!</a></p>
