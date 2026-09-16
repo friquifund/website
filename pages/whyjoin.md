@@ -50,34 +50,16 @@ permalink: /why-join
 	<li class="list-group-item flex-fill lead">Build Community</li>
 </ul>
 
-<div class="row">
-	<div class="col">
-		<>Fund Good Work</p>
-	</div>
-	<div class="col">
-		<p>Direct Mentorship</p>
-	</div>
-	<div class="col">
-		<p>Build Community</p>
-	</div>
-	<div class="w-100"></div>
-	<div class="col">
-		<p><img src="/assets/carousel/2022-11-escola_auro5.jpg" class="img-fluid img-thumbnail" alt="a small robot car sits on a table in front some laptops. Hands are typing on the laptops"></p>
-	</div>
-	<div class="col">
-		<p><img src="/img/JobBuddies.JPG" class="img-fluid img-thumbnail" alt="two women sitting at a table talking to each other"></p>
-	</div>
-	<div class="col">
-		<p><img src="/assets/carousel/IMG_6611.JPG" class="img-fluid img-thumbnail" alt="A woman on a stage with multiple large screens behind her and a rapt auditorium watching her."></p> 
-	</div>
-</div>
+<p><img src="/assets/carousel/2022-11-escola_auro5.jpg" class="img-fluid img-thumbnail" alt="a small robot car sits on a table in front some laptops. Hands are typing on the laptops"></p>
+<p><img src="/img/JobBuddies.JPG" class="img-fluid img-thumbnail" alt="two women sitting at a table talking to each other"></p>
+<p><img src="/assets/carousel/IMG_6611.JPG" class="img-fluid img-thumbnail" alt="A woman on a stage with multiple large screens behind her and a rapt auditorium watching her."></p> 
 
-<h2>Fund good work</h2>
+<h3>1. Fund good work</h3>
 funding image
 
 funding example
 
-<h2>Direct mentorship</h2>
+<h3>2. Direct mentorship</h3>
 
 <p>Our members provide one-on-one support, bringing with them their real-world experience and connections.  We focus on practical skills and guidance to bridge the key transition from training to landing onto their ﬁrst job.</p>
 
