@@ -44,34 +44,38 @@ permalink: /why-join
 
 <h2>How do we do that?</h2>
 
-<ul class="list-group list-group-horizontal">
-	<li class="list-group-item flex-fill lead">Fund Good Work</li>
-	<li class="list-group-item flex-fill lead">Direct Mentorship</li>
-	<li class="list-group-item flex-fill lead">Build Community</li>
-</ul>
 
 <h3>1. Fund good work</h3>
 
 <img src="img/ff_funding.png" class="img-fluid" />
 
-funding example
+<p>Check out our <a href="efforts">recent efforts</a> to learn more about the projects we fund.</p>
 
 <h3>2. Direct mentorship</h3>
 
-<p>Our members provide one-on-one support, bringing with them their real-world experience and connections.  We focus on practical skills and guidance to bridge the key transition from training to landing onto their ﬁrst job.</p>
-
-image of mentorship
+<div class="row">
+	<div class="col align-middle">
+	<p class="lead">Our members provide one-on-one support, bringing with them their real-world experience and connections.  We focus on practical skills and guidance to bridge the key transition from training to landing onto their ﬁrst job.</p>
+	</div>
+	<div>
+	<p><img src="/img/JobBuddies.JPG" class="img-fluid img-thumbnail" alt="two women sitting at a table talking to each other"></p>
+	</div>
+</div>
 
 <h4>Testimonials from mentees:</h4>
 
-“More conﬁdent now when reaching out to recruiters. I would like to stay in contact with my mentor for speciﬁc questions.”
+<div class="container">
+  <div class="row">
+    <div class="col"><p>“More conﬁdent now when reaching out to recruiters. I would like to stay in contact with my mentor for speciﬁc questions.”</p></div>
+    <div class="col"><p>“An amazing experience, It really helped me to ﬁnd a tech job. Thank you very much.” </p></div>
+    <div class="w-100"></div>
+    <div class="col"><p>“Gran aprendizaje. Desconocía que se tenía que investigar la empresa.”</p></div>
+    <div class="col"><p>“Loved the behavioral and technical interviews ❤ Ana and David were so kind and supportive.”</p></div>
+  </div>
+</div>
 
-“An amazing experience, It really helped me to ﬁnd a tech job. Thank
-you very much.”
 
-“Gran aprendizaje. Desconocía que se tenía que investigar la empresa.”
 
-“Loved the behavioral and technical interviews ❤ Ana and David were so kind and supportive.”
 
 <h3>Build community</h3>
 
@@ -85,7 +89,6 @@ Past topics: Responsible AI, Health & AI, Education & AI, Evaluating LLMs at Sca
 image of a talk
 
 <p><img src="/assets/carousel/2022-11-escola_auro5.jpg" class="img-fluid img-thumbnail" alt="a small robot car sits on a table in front some laptops. Hands are typing on the laptops"></p>
-<p><img src="/img/JobBuddies.JPG" class="img-fluid img-thumbnail" alt="two women sitting at a table talking to each other"></p>
 <p><img src="/assets/carousel/IMG_6611.JPG" class="img-fluid img-thumbnail" alt="A woman on a stage with multiple large screens behind her and a rapt auditorium watching her."></p> 
 
 
