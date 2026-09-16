@@ -9,11 +9,12 @@ permalink: /why-join
 <p class="lead">As a member you will be joining a supportive group of peers that shares your values and is helping make a difference in our community.</p>
 <p class="lead">You won’t just be funding important work, but also have a direct say in where those funds go, be invited to events, and be part of what makes FriquiFund so special.</p>
 
+<hr class="my-4"/>
 
 <div class="row align-items-center">
 	<div class="col align-middle">
 		<h2>Friqui = Geek</h2>
-		<p class="fs-2">We are 200 members from the world of <abbr title="Science Technology Engineering & Mathematics">STEM</abbr> with strong ties to Barcelona.</p>
+		<p class="lead">We are 200 members from the world of <abbr title="Science Technology Engineering & Mathematics">STEM</abbr> with strong ties to Barcelona.</p>
 	</div>
 	<div class="col">
 		<p><img src="/assets/carousel/GG8kHaeXAAAs802.jpeg" class="img-fluid img-thumbnail" alt="A man standing in front of a screen on which is projected 'FriquiFund' with a small audience seated in front hof him in a hip looking space with art on the wall."></p>
@@ -26,7 +27,7 @@ permalink: /why-join
 	</div>
 	<div class="col">
 		<h2>Fund = Future</h2>
-		<p>We have come together as a community to support the next generation pursue their futures in STEM.</p>
+		<p class="lead">We have come together as a community to support the next generation pursue their futures in STEM.</p>
 	</div>
 </div>
 <p>STEM can be empowering, but it’s not a path available to everyone.</p>
