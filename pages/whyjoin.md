@@ -38,15 +38,21 @@ permalink: /why-join
 
 <hr class="my-4"/>
 
-<p class="lead">STEM can be empowering, but it’s not a path available to everyone.</p>
+<h2>STEM can be empowering, but it’s not a path available to everyone.</h2>
 <p>FriquiFund exists because we know that lacking funds for transportation, a computer, tuition fees, or mentorship can be the deciding factor that leads vulnerable students to abandon their studies.</p>
 <p>That’s why we help prepare young, disadvantaged geeks for success in future careers.</p>
 
 <h2>How do we do that?</h2>
 
+<ul class="list-group list-group-horizontal">
+	<li class="list-group-item flex-fill lead">Fund Good Work</li>
+	<li class="list-group-item flex-fill lead">Direct Mentorship</li>
+	<li class="list-group-item flex-fill lead">Build Community</li>
+</ul>
+
 <div class="row">
 	<div class="col">
-		<p>Fund Good Work</p>
+		<>Fund Good Work</p>
 	</div>
 	<div class="col">
 		<p>Direct Mentorship</p>
