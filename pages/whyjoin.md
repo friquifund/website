@@ -8,12 +8,14 @@ permalink: /why-join
 
 <p class="lead">As a member you will be joining a supportive group of peers that shares your values and is helping make a difference in our community.</p>
 <p class="lead">You won’t just be funding important work, but also have a direct say in where those funds go, be invited to events, and be part of what makes FriquiFund so special.</p>
+
 <div class="row align-items-center">
 	<div class="col align-middle">
 		<h2 class="text-center">Friqui = Geek</h2>
 	</div>
 	<div class="col">
 		<h2 class="text-center">Fund = Future</h2>
+	</div>
 </div>
 
 <div class="row align-items-center">
@@ -22,15 +24,16 @@ permalink: /why-join
 	</div>
 	<div class="col">
 		<p class="lead">We have come together as a community to support the next generation pursue their futures in STEM.</p>
+	</div>
 </div>
-</div>
+
 <div class="row align-items-center">
 	<div class="col">
 		<p><img src="/assets/carousel/GG8kHaeXAAAs802.jpeg" class="img-fluid img-thumbnail" alt="A man standing in front of a screen on which is projected 'FriquiFund' with a small audience seated in front hof him in a hip looking space with art on the wall."></p>
 	</div>
 	<div class="col">
 		<p><img src="/assets/carousel/GirlsGems1.png" class="img-fluid img-thumbnail" alt="Two girls from behind looking at a laptop. One of them is pointing someout on the screen."></p>
-		</div>
+	</div>
 </div>
 
 <hr class="my-4"/>
