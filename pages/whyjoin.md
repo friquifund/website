@@ -38,9 +38,10 @@ permalink: /why-join
 
 <hr class="my-4"/>
 
-<h2>STEM can be empowering, but it’s not a path available to everyone.</h2>
-<p>FriquiFund exists because we know that lacking funds for transportation, a computer, tuition fees, or mentorship can be the deciding factor that leads vulnerable students to abandon their studies.</p>
-<p>That’s why we help prepare young, disadvantaged geeks for success in future careers.</p>
+<h2>STEM can be empowering</h2>
+<p class="lead">…but it’s not a path available to everyone.</p>
+<p class="lead">FriquiFund exists because we know that lacking funds for transportation, a computer, tuition fees, or mentorship can be the deciding factor that leads vulnerable students to abandon their studies.</p>
+<p class="lead">That’s why we help prepare young, disadvantaged geeks for success in future careers.</p>
 
 <h2>How do we do that?</h2>
 
@@ -49,7 +50,7 @@ permalink: /why-join
 
 <img src="img/ff_funding.png" class="img-fluid" />
 
-<p>Check out our <a href="efforts">recent efforts</a> to learn more about the projects we fund.</p>
+<p class="text-right">Check out our <a href="efforts">recent efforts</a> to learn more about the projects we fund.</p>
 
 <h3>2. Direct mentorship</h3>
 
