@@ -61,7 +61,11 @@ permalink: /why-join
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
+<<<<<<< HEAD
         <img src="img/ff_funding" class="d-block w-100" alt="...">
+=======
+        <img src="img/ff_funding.png" class="d-block w-100" alt="...">
+>>>>>>> da27deb (trying a carousel)
         <div class="carousel-caption d-none d-md-block">
           <h5>First slide label</h5>
           <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
@@ -70,8 +74,13 @@ permalink: /why-join
       <div class="carousel-item">
         <img src="/assets/carousel/2022-11-escola_auro5.jpg" class="d-block w-100" alt="...">
         <div class="carousel-caption d-none d-md-block">
+<<<<<<< HEAD
           <h5>Second slide label</h5>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+=======
+          <h5>Fundación Scientia</h5>
+          <p>Robotics once a week in underprivileged shools.</p>
+>>>>>>> da27deb (trying a carousel)
         </div>
       </div>
       <div class="carousel-item">
