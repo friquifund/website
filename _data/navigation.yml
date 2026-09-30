@@ -15,6 +15,8 @@ en: &DEFAULT_EN
     #  url: /#mission
     #- title: "Team"
     #  url: /#team
+    - title: "Why Join"
+      url: /why-join
     - title: "Efforts"
       url: /efforts
     - title: "Meet Us"
@@ -23,8 +25,6 @@ en: &DEFAULT_EN
     #  url: /news
     - title: "Get Involved"
       url: /get-involved
-    - title: "Why Join"
-      url: /why-join
     - title: "Join Us"
       url: /join-us
 en-US:
