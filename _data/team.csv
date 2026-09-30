@@ -120,7 +120,7 @@ Membership Number,Year,Start Date,status,First Name,Second Name,LinkedIn,Can Sha
 173,2023,2023-04,0,Ramon,Morote Ribas,https://www.linkedin.com/in/ramon-morote-ribas-87257857/,YES,Ramon Morote Ribas,,CEO at Gyrus DS
 174,2023,2023-05,0,Pasqual,Batalla,https://www.linkedin.com/in/pasqualbatalla/,YES,Pasqual Batalla,,Chief Operating Officer at Sandsoft Games Associate professor CITM (UPC)
 177,2023,2023-06,0,Vladimir,Estivill Castro,https://www.linkedin.com/in/vladimirestivillcastrophd/,YES,Vladimir Estivill Castro,,Professor at University of Canterbury
-178,2023,2023-06,1,Kaya,Aykut,https://www.linkedin.com/in/kayaaykut,NO,,,
+178,2023,2023-06,1,Kaya,Aykut,https://www.linkedin.com/in/kayaaykut,NO,Kaya Aykut,,
 179,2023,2023-06,0,Gaston,Besanson,https://www.linkedin.com/in/besanson/,YES,Gaston Besanson,,"SVP, Global Head of Data Science"
 180,2023,2023-06,0,Joel,Montoy,https://www.linkedin.com/in/joel-montoy-181753/,YES,Joel Montoy,,CEO Aquiles Solutions
 187,2023,2023-09,0,Carlos,Florensa,https://www.linkedin.com/in/carlosflorensa/,YES,Carlos Florensa,,Research Scientist at OpenAI
@@ -152,12 +152,12 @@ Membership Number,Year,Start Date,status,First Name,Second Name,LinkedIn,Can Sha
 224,2025,2025-04,0,Barbara,Buades,https://www.linkedin.com/in/barbarabuades/,YES,Barbara Buades,,Co-Founder & CEO at MEETOPTICS
 225,2025,2025-06,1,Pol,Gomà Deàs,https://es.linkedin.com/in/polgomadeas,YES,Pol Gomà Deàs,Pol-Goma,"Growth, marketing & CRM"
 226,2025,2025-06,0,Alexander,Zhitlukhin,https://www.linkedin.com/in/alexander-zhitlukhin/,YES,Alexander Zhitlukhin,,CTO @ Appodeal
-227,2025,2026-11,0,Yago ,Flores,https://www.linkedin.com/in/yagoflores/,,Yago Flores,,Director NTT Data
-228,2026,2026-01,0,Jorge,Alçada,https://www.linkedin.com/in/jfalcada,,Jorge Alçada,Jorge-Alcada,"Head of Engineering and Applied Science, Amazon"
-229,2026,2026-01,0,Laurentiu,Petrea,https://www.linkedin.com/in/laurentiupetrea/,,Laurentiu Petrea,,Founder @ HolaGuest | AI Agents for hotel chains
-230,2026,2026-02,0,Roger,Agustín Salat,,,Roger Agustín Salat,Roger-Agustin-Salat,CEO & Co-founder at Prenomics
-231,2026,2026-04,0,Irene,Marín Amat,https://www.linkedin.com/in/irenemarinamat/,,Irene Marín Amat,Irene-Marin,CTO at Icnea
-232,2026,2026-04,0,Albert,Caubet Domingo,https://www.linkedin.com/in/albert-caubet/,,Albert Caubet Domingo,,PhD. Chief Engineer at Near Space Labs.
-233,2026,2026-04,0,Cristina,Zaragoza Ruvira,,,Cristina Zaragoza Ruvira,,
-234,2026,2026-07,1,Albert,Puntí Turull,,,Albert Puntí Turull,Albert-Punti-Turull,Data Scientist | Industrial Engineer | NLP
-235,2026,2026-07,1,Aina,Maull Miquell,,,Aina Maull Miquell,,Neural Data Scientist
+227,2025,2026-11,0,Yago ,Flores,https://www.linkedin.com/in/yagoflores/,YES,Yago Flores,,Director NTT Data
+228,2026,2026-01,0,Jorge,Alçada,https://www.linkedin.com/in/jfalcada,YES,Jorge Alçada,Jorge-Alcada,"Head of Engineering and Applied Science, Amazon"
+229,2026,2026-01,0,Laurentiu,Petrea,https://www.linkedin.com/in/laurentiupetrea/,YES,Laurentiu Petrea,,Founder @ HolaGuest | AI Agents for hotel chains
+230,2026,2026-02,0,Roger,Agustín Salat,,YES,Roger Agustín Salat,Roger-Agustin-Salat,CEO & Co-founder at Prenomics
+231,2026,2026-04,0,Irene,Marín Amat,https://www.linkedin.com/in/irenemarinamat/,YES,Irene Marín Amat,Irene-Marin,CTO at Icnea
+232,2026,2026-04,0,Albert,Caubet Domingo,https://www.linkedin.com/in/albert-caubet/,YES,Albert Caubet Domingo,,PhD. Chief Engineer at Near Space Labs.
+233,2026,2026-04,0,Cristina,Zaragoza Ruvira,,YES,Cristina Zaragoza Ruvira,,
+234,2026,2026-07,1,Albert,Puntí Turull,,YES,Albert Puntí Turull,Albert-Punti-Turull,Data Scientist | Industrial Engineer | NLP
+235,2026,2026-07,1,Aina,Maull Miquell,,YES,Aina Maull Miquell,,Neural Data Scientist
