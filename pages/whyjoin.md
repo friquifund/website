@@ -143,3 +143,5 @@ permalink: /why-join
 <h2>Join today!</h2>
 
 <p class="lead text-center"><a href="/join-us" class="btn btn-primary">Learn how to join the Friqui Fund community!</a></p>
+
+<p class="text-right"><em>You also can share this page as a slide deck with others <a href="/assets/presentations/ff_appeal_en.pdf">in English</a>, <a href="/assets/presentations/ff_appeal_ca.pdf">en català</a>, & <a href="/assets/presentations/ff_appeal_es.pdf">en castellano</a>.</em><p>
