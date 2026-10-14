@@ -12,6 +12,7 @@ Our mission is to support vulnerable boys and girls in STEM, from age 8 until th
 
 We provide **funding to NGOs** (after-school programs, robotic courses for kids, IT materials/hardware), **sponsor educational programs** (summer camps, bootcamps, technical education or superior studies). Additionally, we support the students during the entire process, by **mentoring and helping them get their first internship or job**.
 
+You can always find our most recent events on our <a href="https://www.linkedin.com/company/friquifund/">LinkedIn page</a>.
 <!--
 **Annual Overviews:**
 <ul><li><a href="https://friquifund.beefreecontent.com/ZFyI" target="_blank_">2024 Recap</a></li><li><a href="https://friquifund.beefreecontent.com/f2yT" target="_blank">2023 Recap </a></li></ul>
@@ -28,9 +29,7 @@ Tere are many well-structured organizations actively supporting STEM students in
 1. **<a href="https://www.scientia.es/fundacion-scientia" target="_blank">Scientia</a>** (Girls Gems program): Robotics-for-kids program addressed to 8-to-12-year-old girls (and boys!) enrolled in highly-complex schools in the greater BCN.
 1. **<a href="https://www.barcelonactua.org/" target="_blank">BarcelonaActua</a>**: Committed people who connect to help cover social needs in our neighborhoods.
 1. **<a href="https://explorium.cat/" target="_blank">eXplorium</a>**: Transversal learning of science, technology, engineering, and maths, through experimentation and gaming.
-1. **<a href="https://factoriaf5.org" target="_blank">Factoria F5</a>**: Building the first network of solidarity, inclusive and free digital schools in Spain, dedicated to offering programming and web development opportunities to people in vulnerable situations.
-1. **<a href="https://lutravioleta.com/es/" target="_blank">Lutravioleta</a>**: Activities and events to bring the female footprint closer to the world of science, technology, engineering, art and mathematics: STEAM.
-
+1. **<a href="https://deq4future.org/" target="_blank">DEQ4Future</a>**: Scholarships and access to training activities in technology and programming.
 
 ## Mentoring and Internships
 
