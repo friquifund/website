@@ -9,11 +9,11 @@ permalink: /reports/2025review
 <div class="row">
 	<div class="col text-center">
 	 <h2>Friquis Benefited</h2>
-	 <p>bbbb</p>
+	 <p>1075</p>
 	</div>
 	<div class="col text-center">
 	 <h2>FriquiFund Members</h2>
-	 <p>mmmmm</p>
+	 <p>173</p>
 	</div>
 	<div class="col text-center">
 	 <h2>Total Donations</h2>
