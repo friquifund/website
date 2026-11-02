@@ -21,3 +21,18 @@ permalink: /reports/2025review
 	</div>
 </div>
 
+
+<h2>Collaborations</h2>
+
+<div class="row">
+	<div  class="col">
+		<img src="" class="img-fluid img-thumbnail" alt="">
+	</div>
+	<div  class="col">
+		<h3>Fundacio scientira. Girls Gem</h3>
+		<p>Robotics for girls and boys at three underprivileged schools, reaching 217 students.</p>
+	</div>
+</div>
+
+<h2>Events</h2>
+
