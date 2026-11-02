@@ -29,8 +29,10 @@ permalink: /reports/2025review
 		<img src="" class="img-fluid img-thumbnail" alt="">
 	</div>
 	<div  class="col">
-		<h3>Fundacio scientira. Girls Gem</h3>
+		<h3>Fundacio scientira. <span class="font-weight-normal">Girls Gem</span></h3>
 		<p>Robotics for girls and boys at three underprivileged schools, reaching 217 students.</p>
+		<p>From the teachers:</p>
+		<p class="font-weight-light">“L'alumnat de 5è està molt motivat amb aquestes sessions, ja que no només han pogut seguir les indicacions de la plataforma, sinó que també han tingut l'oportunitat de crear i construir els seus propis projectes. Aquest enfocament pràctic els permet veure els resultats de la seva feina de manera immediata, el que genera una gran satisfacció i afavoreix l'aprenentatge actiu”.</p>
 	</div>
 </div>
 
