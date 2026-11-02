@@ -34,5 +34,17 @@ permalink: /reports/2025review
 	</div>
 </div>
 
+<div class="row shadow">
+	<div  class="col">
+		<img src="" class="img-fluid img-thumbnail" alt="">
+	</div>
+	<div  class="col order-first">
+		<h3>Barcelona Actua. Migrant Up & U-Bac</h3>
+		<p>Scholarship that cover tuition and mentorship so students can continue studying, to which FF was able to contribute ?? €.</p>
+	</div>
+</div>
+
+
+
 <h2>Events</h2>
 
