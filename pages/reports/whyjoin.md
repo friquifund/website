@@ -24,7 +24,7 @@ permalink: /reports/2025review
 
 <h2>Collaborations</h2>
 
-<div class="row">
+<div class="row shadow">
 	<div  class="col">
 		<img src="" class="img-fluid img-thumbnail" alt="">
 	</div>
