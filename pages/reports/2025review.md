@@ -115,7 +115,7 @@ permalink: /reports/2025review
 	<div  class="col">
 		<img src="" class="img-fluid img-thumbnail" alt="">
 	</div>
-	<div  class="">
+	<div  class="col">
 		<h3>Tech Heroes</h3>
 		<p>Last May we held the "Tech Heroes" event at CosmoCaixa. This initiative is primarily designed for girls in secondary education (ESO) attending schools in highly complex environments. It offers an opportunity to explore STEM fields through engagement with role models in these sectors. The event involves spending a day at CosmoCaixa, listening to talks by female experts in AI, robotics, technology, and science, with the aim of showing the students that these disciplines are for them too.</p>
 	</div>
