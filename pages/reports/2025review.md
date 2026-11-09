@@ -13,7 +13,7 @@ permalink: /reports/2025review
 	</div>
 	<div class="col text-center">
 	 <h2>FriquiFund Members</h2>
-	 <p>173</p>
+	 <p>171</p>
 	</div>
 	<div class="col text-center">
 	 <h2>Total Donations</h2>
