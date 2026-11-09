@@ -10,7 +10,6 @@ n_impacted_students: 1000+
 
 footer:
   social:
-    - url: https://twitter.com/friquifund
-      icon: "fab fa-twitter"
+    
     - url: https://www.linkedin.com/company/friquifund/
       icon: "fab fa-linkedin-in"
