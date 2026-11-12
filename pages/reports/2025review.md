@@ -71,7 +71,7 @@ permalink: /reports/2025review
 
 <div class="row shadow">
 	<div  class="col">
-		<img src="/assests/2025review/2025_AEI_RAVAL_3.jpg" class="img-fluid img-thumbnail" alt="">
+		<img src="/assets/2025review/2025_AEI_RAVAL_3.jpg" class="img-fluid img-thumbnail" alt="">
 	</div>
 	<div  class="col">
 		<h3>AEI Raval <span class="font-weight-normal"></span></h3>
