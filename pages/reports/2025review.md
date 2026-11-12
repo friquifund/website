@@ -28,7 +28,7 @@ permalink: /reports/2025review
 	<div class="col text-center">
 	 <p class="text-center display-3"><strong>25,000 €</strong>  </p>
 	</div>
-
+</div>
 
 <h2>Collaborations</h2>
 
