@@ -26,7 +26,7 @@ permalink: /reports/2025review
 
 <div class="row shadow align-items-center my-3">
 	<div  class="col  align-middle">
-		<img src="/assets/2025review/2025_GIRLS_GEMS_1.png" class="img-fluid p-1"  alt="">
+		<img src="/assets/2025review/2025_GIRLS_GEMS_1.png" class="img-fluid p-2"  alt="">
 	</div>
 	<div  class="col align-middle">
 		<h3>Fundacio scientira: <span class="font-weight-normal">Girls Gem</span></h3>
@@ -38,7 +38,7 @@ permalink: /reports/2025review
 
 <div class="row shadow align-items-center my-3">
 	<div  class="col align-middle">
-		<img src="/assets/2025review/2025_BCN_ACTUA_migrant_up.jpg" class="img-fluid p-1" alt="">
+		<img src="/assets/2025review/2025_BCN_ACTUA_migrant_up.jpg" class="img-fluid p-2" alt="">
 	</div>
 	<div  class="col order-first align-middle">
 		<h3>Barcelona Actua: <span class="font-weight-normal">Migrant Up & U-Bac</span></h3>
@@ -46,9 +46,9 @@ permalink: /reports/2025review
 	</div>
 </div>
 
-<div class="row shadow align-items-center">
+<div class="row shadow align-items-center my-3">
 	<div  class="col align-middle">
-		<img src="" class="img-fluid " alt="">
+		<img src="" class="img-fluid  p-2" alt="">
 	</div>
 	<div class="col align-middle">
 		<h3>IRES: <span class="font-weight-normal">Click grants</span></h3>
@@ -57,9 +57,9 @@ permalink: /reports/2025review
 	</div>
 </div>
 
-<div class="row shadow align-items-center">
+<div class="row shadow align-items-center my-3">
 	<div  class="col align-middle">
-		<img src="" class="img-fluid " alt="">
+		<img src="" class="img-fluid  p-2" alt="">
 	</div>
 	<div  class="col order-first align-middle">
 		<h3>Explorium <span class="font-weight-normal"></span></h3>
@@ -69,9 +69,9 @@ permalink: /reports/2025review
 </div>
 
 
-<div class="row shadow">
+<div class="row shadow align-items-center my-3">
 	<div  class="col align-middle">
-		<img src="/assets/2025review/2025_AEI_RAVAL_3.jpg" class="img-fluid img-thumbnail" alt="">
+		<img src="/assets/2025review/2025_AEI_RAVAL_3.jpg" class="img-fluid p-2" alt="">
 	</div>
 	<div  class="col align-middle">
 		<h3>AEI Raval <span class="font-weight-normal"></span></h3>
@@ -80,9 +80,9 @@ permalink: /reports/2025review
 </div>
 
 
-<div class="row shadow">
+<div class="row shadow align-items-center my-3">
 	<div  class="col align-middle">
-		<img src="/assests/2025review/2025_OCC_GRADUADOS.jpg" class="img-fluid img-thumbnail" alt="">
+		<img src="/assests/2025review/2025_OCC_GRADUADOS.jpg" class="img-fluid p-2" alt="">
 	</div>
 	<div  class="col order-first align-middle">
 		<h3>MigraCode <span class="font-weight-normal">JobBuddies</span></h3>
@@ -99,9 +99,9 @@ permalink: /reports/2025review
 
 <h2>Events</h2>
 
-<div class="row shadow">
+<div class="row shadow align-items-center my-3">
 	<div  class="col align-middle">
-		<img src="/assets/2025review/2025_Sortida_Mobile_World_Congress.jpg" class="img-fluid img-thumbnail" alt="">
+		<img src="/assets/2025review/2025_Sortida_Mobile_World_Congress.jpg" class="img-fluid p-2" alt="">
 	</div>
 	<div  class="col order-first align-middle">
 		<h3>Mobile World Congress visit</h3>
@@ -111,7 +111,7 @@ permalink: /reports/2025review
 
 
 
-<div class="row shadow">
+<div class="row shadow align-items-center my-3">
 	<div  class="col align-middle">
 		<img src="" class="img-fluid img-thumbnail" alt="">
 	</div>
@@ -122,9 +122,9 @@ permalink: /reports/2025review
 </div>
 
 
-<div class="row shadow">
+<div class="row shadow align-items-center my-3">
 	<div  class="col align-middle">
-		<img src="/assets/2025review/2026_OCC_RECOLLIDA_PREMI_TALENT_2.jpg" class="img-fluid img-thumbnail" alt="">
+		<img src="/assets/2025review/2026_OCC_RECOLLIDA_PREMI_TALENT_2.jpg" class="img-fluid p-2" alt="">
 	</div>
 	<div  class="col order-first align-middle">
 		<h3>Premi Talent</h3>
