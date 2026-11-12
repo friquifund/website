@@ -9,17 +9,25 @@ permalink: /reports/2025review
 <div class="row">
 	<div class="col text-center">
 	 <h2>Friquis Benefited</h2>
-	 <p class="text-center"><strong>1,000+</strong></p>
 	</div>
 	<div class="col text-center">
 	 <h2>FriquiFund Members</h2>
-	 <p class="text-center"><strong>171</strong></p>
 	</div>
 	<div class="col text-center">
 	 <h2>Total Donations</h2>
-	 <p class="text-center"><strong>25,000 €</strong>  </p>
 	</div>
 </div>
+
+<div class="row">
+	<div class="col text-center">
+	 <p class="text-center display-3"><strong>1,000+</strong></p>
+	</div>
+	<div class="col text-center">
+	 <p class="text-center display-3"><strong>171</strong></p>
+	</div>
+	<div class="col text-center">
+	 <p class="text-center display-3"><strong>25,000 €</strong>  </p>
+	</div>
 
 
 <h2>Collaborations</h2>
