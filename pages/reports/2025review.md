@@ -52,7 +52,7 @@ permalink: /reports/2025review
 	<div class="col align-middle">
 		<h3>IRES: <span class="font-weight-normal">Click grants</span></h3>
 		<p>This program aims to supports young people who wish to continue with post-compulsory studies in STEM fields with individualised mentoring, tuition grants and other economic necessities. We were able to fund the grants for five students. Furthermore, FriquiFund members have the opportunity to provide mentoring to the young people, sharing their know-how and experience.</p>
-		<p class="font-weight-light"><em>From a student:</em>“Per a mi el Click és més que una oportunitat, és el camí que em porta a complir els meus somnis.”</p>
+		<p class="font-weight-light"><em>From a student:</em> “Per a mi el Click és més que una oportunitat, és el camí que em porta a complir els meus somnis.”</p>
 	</div>
 </div>
 
