@@ -26,7 +26,7 @@ permalink: /reports/2025review
 
 <div class="row shadow">
 	<div  class="col">
-		<img src="" class="img-fluid img-thumbnail" alt="">
+		<img src="/assets/2025review/2025_Sortida_Mobile_World_Congress.jpg/" class="img-fluid img-thumbnail" alt="">
 	</div>
 	<div  class="col">
 		<h3>Fundacio scientira: <span class="font-weight-normal">Girls Gem</span></h3>
