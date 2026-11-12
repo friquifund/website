@@ -58,7 +58,7 @@ permalink: /reports/2025review
 
 <div class="row shadow align-items-center my-3">
 	<div  class="col align-middle">
-		<img src="" class="img-fluid  p-2" alt="">
+		<img src="/assets/2025review/2026_EXPLORIUM-3.png" class="img-fluid  p-2" alt="">
 	</div>
 	<div  class="col order-first align-middle">
 		<h3>Explorium <span class="font-weight-normal"></span></h3>
@@ -81,7 +81,7 @@ permalink: /reports/2025review
 
 <div class="row shadow align-items-center my-3">
 	<div  class="col align-middle">
-		<img src="/assests/2025review/2025_OCC_GRADUADOS.jpg" class="img-fluid p-2" alt="">
+		<img src="/assets/2025review/2025_OCC_GRADUADOS.jpg" class="img-fluid p-2" alt="">
 	</div>
 	<div  class="col order-first align-middle">
 		<h3>MigraCode <span class="font-weight-normal">JobBuddies</span></h3>
@@ -117,6 +117,7 @@ permalink: /reports/2025review
 	<div  class="col">
 		<h3>Tech Heroes</h3>
 		<p>Last May we held the "Tech Heroes" event at CosmoCaixa. This initiative is primarily designed for girls in secondary education (ESO) attending schools in highly complex environments. It offers an opportunity to explore STEM fields through engagement with role models in these sectors. The event involves spending a day at CosmoCaixa, listening to talks by female experts in AI, robotics, technology, and science, with the aim of showing the students that these disciplines are for them too.</p>
+
 	</div>
 </div>
 
