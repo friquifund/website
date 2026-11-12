@@ -24,9 +24,9 @@ permalink: /reports/2025review
 
 <h2>Collaborations</h2>
 
-<div class="row shadow align-items-center">
+<div class="row shadow align-items-center my-3">
 	<div  class="col  align-middle">
-		<img src="/assets/2025review/2025_GIRLS_GEMS_1.png" class="img-fluid"  alt="">
+		<img src="/assets/2025review/2025_GIRLS_GEMS_1.png" class="img-fluid p-1"  alt="">
 	</div>
 	<div  class="col align-middle">
 		<h3>Fundacio scientira: <span class="font-weight-normal">Girls Gem</span></h3>
@@ -36,9 +36,9 @@ permalink: /reports/2025review
 	</div>
 </div>
 
-<div class="row shadow">
+<div class="row shadow align-items-center my-3">
 	<div  class="col align-middle">
-		<img src="/assets/2025review/2025_BCN_ACTUA_migrant_up.jpg" class="img-fluid " alt="">
+		<img src="/assets/2025review/2025_BCN_ACTUA_migrant_up.jpg" class="img-fluid p-1" alt="">
 	</div>
 	<div  class="col order-first align-middle">
 		<h3>Barcelona Actua: <span class="font-weight-normal">Migrant Up & U-Bac</span></h3>
@@ -46,7 +46,7 @@ permalink: /reports/2025review
 	</div>
 </div>
 
-<div class="row shadow">
+<div class="row shadow align-items-center">
 	<div  class="col align-middle">
 		<img src="" class="img-fluid " alt="">
 	</div>
@@ -57,7 +57,7 @@ permalink: /reports/2025review
 	</div>
 </div>
 
-<div class="row shadow">
+<div class="row shadow align-items-center">
 	<div  class="col align-middle">
 		<img src="" class="img-fluid " alt="">
 	</div>
