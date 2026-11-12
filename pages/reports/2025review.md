@@ -26,7 +26,7 @@ permalink: /reports/2025review
 
 <div class="row shadow">
 	<div  class="col">
-		<img src="/assets/2025review/2025_Sortida_Mobile_World_Congress.jpg/" class="img-fluid img-thumbnail" alt="">
+		<img src="/assets/2025review/2025_GIRLS_GEMS_1.png" class="img-fluid img-thumbnail" alt="">
 	</div>
 	<div  class="col">
 		<h3>Fundacio scientira: <span class="font-weight-normal">Girls Gem</span></h3>
@@ -38,7 +38,7 @@ permalink: /reports/2025review
 
 <div class="row shadow">
 	<div  class="col">
-		<img src="" class="img-fluid img-thumbnail" alt="">
+		<img src="/assets/2025review/2025_BCN_ACTUA_migrant_up.jpg" class="img-fluid img-thumbnail" alt="">
 	</div>
 	<div  class="col order-first">
 		<h3>Barcelona Actua: <span class="font-weight-normal">Migrant Up & U-Bac</span></h3>
@@ -71,7 +71,7 @@ permalink: /reports/2025review
 
 <div class="row shadow">
 	<div  class="col">
-		<img src="" class="img-fluid img-thumbnail" alt="">
+		<img src="/assests/2025review/2025_AEI_RAVAL_3.jpg" class="img-fluid img-thumbnail" alt="">
 	</div>
 	<div  class="col">
 		<h3>AEI Raval <span class="font-weight-normal"></span></h3>
@@ -82,7 +82,7 @@ permalink: /reports/2025review
 
 <div class="row shadow">
 	<div  class="col">
-		<img src="" class="img-fluid img-thumbnail" alt="">
+		<img src="/assests/2025review/2025_OCC_GRADUADOS.jpg" class="img-fluid img-thumbnail" alt="">
 	</div>
 	<div  class="col order-first">
 		<h3>MigraCode <span class="font-weight-normal">JobBuddies</span></h3>
@@ -101,7 +101,7 @@ permalink: /reports/2025review
 
 <div class="row shadow">
 	<div  class="col">
-		<img src="" class="img-fluid img-thumbnail" alt="">
+		<img src="/assets/2025review/2025_Sortida_Mobile_World_Congress.jpg" class="img-fluid img-thumbnail" alt="">
 	</div>
 	<div  class="col order-first">
 		<h3>Mobile World Congress visit</h3>
