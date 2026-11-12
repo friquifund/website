@@ -24,7 +24,7 @@ permalink: /reports/2025review
 
 <h2>Collaborations</h2>
 
-<div class="row shadow">
+<div class="row shadow align-items-center">
 	<div  class="col  align-middle">
 		<img src="/assets/2025review/2025_GIRLS_GEMS_1.png" class="img-fluid img-thumbnail" alt="">
 	</div>
