@@ -113,7 +113,7 @@ permalink: /reports/2025review
 
 <div class="row shadow align-items-center my-3">
 	<div  class="col align-middle">
-		<img src="" class="img-fluid img-thumbnail" alt="">
+		<img src="/assets/2025review/2025_TECHHEROES_3.png" class="img-fluid img-thumbnail" alt="">
 	</div>
 	<div  class="col">
 		<h3>Tech Heroes</h3>
