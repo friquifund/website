@@ -124,7 +124,7 @@ permalink: /reports/2025review
 
 <div class="row shadow">
 	<div  class="col">
-		<img src="/assests/2025review/2026_OCC_RECOLLIDA PREMI TALENT_2.jpg" class="img-fluid img-thumbnail" alt="">
+		<img src="/assests/2025review/2026_OCC_RECOLLIDA_PREMI_TALENT_2.jpg" class="img-fluid img-thumbnail" alt="">
 	</div>
 	<div  class="col order-first">
 		<h3>Premi Talent</h3>
